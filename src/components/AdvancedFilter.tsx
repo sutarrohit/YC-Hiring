@@ -4,15 +4,15 @@ import { useState, useEffect } from 'react';
 
 interface AdvancedFilterProps {
   onFilterChange: (filters: { year: string; industry: string; region: string; stage: string }) => void;
-  className?: string; // Add className prop
+  className?: string;
+  isOpen: boolean;
 }
 
-export default function AdvancedFilter({ onFilterChange, className }: AdvancedFilterProps) {
+export default function AdvancedFilter({ onFilterChange, className, isOpen }: AdvancedFilterProps) {
   const [year, setYear] = useState('');
   const [industry, setIndustry] = useState('');
   const [region, setRegion] = useState('');
   const [stage, setStage] = useState('');
-  const [isVisible, setIsVisible] = useState(false);
 
   // Debounce effects to prevent too many API calls
   useEffect(() => {
@@ -23,20 +23,11 @@ export default function AdvancedFilter({ onFilterChange, className }: AdvancedFi
   }, [year, industry, region, stage, onFilterChange]);
 
 
+  if (!isOpen) return null;
+
   return (
     <div className={`w-full max-w-4xl mx-auto mb-6 ${className || ''}`}>
-      <button 
-        onClick={() => setIsVisible(!isVisible)}
-        className="flex items-center gap-2 text-sm font-medium text-orange-600 dark:text-orange-400 hover:text-orange-500 mb-4 transition-colors"
-      >
-        {isVisible ? 'Hide Advanced Filters' : 'Show Advanced Filters'}
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className={`size-4 transition-transform ${isVisible ? 'rotate-180' : ''}`}>
-           <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
-        </svg>
-      </button>
-
-      {isVisible && (
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 p-4 bg-white dark:bg-neutral-900 rounded-lg border border-gray-200 dark:border-neutral-800 shadow-sm animate-in fade-in zoom-in-95 duration-200">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 p-4 bg-white dark:bg-neutral-900 rounded-lg border border-gray-200 dark:border-neutral-800 shadow-sm animate-in fade-in zoom-in-95 duration-200">
             {/* Year Filter */}
             <div className="space-y-1">
                 <label className="text-xs font-semibold text-gray-500 dark:text-neutral-500 uppercase">Year</label>
@@ -96,7 +87,7 @@ export default function AdvancedFilter({ onFilterChange, className }: AdvancedFi
                 </select>
             </div>
         </div>
-      )}
-    </div>
+      </div>
+
   );
 }

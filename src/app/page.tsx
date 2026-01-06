@@ -28,6 +28,7 @@ export default function Home() {
       region: '',
       stage: ''
   });
+  const [showFilters, setShowFilters] = useState(false);
 
   // Debounce Effect
   useEffect(() => {
@@ -102,28 +103,64 @@ export default function Home() {
   }
 
   return (
-    <main className="min-h-screen bg-gray-50 dark:bg-neutral-950 py-10 px-4 sm:px-6 lg:px-8 transition-colors">
+    <main className="min-h-screen bg-white dark:bg-[#050505] text-gray-900 dark:text-white py-10 px-4 sm:px-6 lg:px-8 transition-colors">
       <div className="max-w-7xl mx-auto">
-        <div className="mb-8 text-center">
-            <h1 className="text-3xl font-extrabold text-gray-900 dark:text-neutral-100 sm:text-4xl tracking-tight transition-colors">
-            YC Hiring Companies
+        <div className="mb-12 text-center relative z-10">
+            <h1 className="text-5xl md:text-7xl font-bold tracking-tighter mb-6">
+              <span className="text-transparent bg-clip-text bg-gradient-to-b from-neutral-700 to-neutral-900 dark:from-neutral-300 dark:to-neutral-600">Work at a </span>
+              <span className="text-gray-900 dark:text-white">YC Startup</span>
+              <span className="text-neutral-400 dark:text-neutral-600">.</span>
             </h1>
-            <p className="mt-4 text-xl text-gray-600 dark:text-neutral-400 mb-6 transition-colors">
-            {total} companies currently hiring
-            </p>
-
-            {/* Search Bar */}
-            <div className="max-w-xl mx-auto mb-6">
-                <input
-                    type="text"
-                    placeholder="Search by name, tags, description..."
-                    value={searchQuery}
-                    onChange={(e) => setSearchQuery(e.target.value)}
-                    className="w-full px-4 py-3 rounded-lg bg-white dark:bg-neutral-900 border border-gray-300 dark:border-neutral-800 text-gray-900 dark:text-neutral-100 placeholder-gray-500 dark:placeholder-neutral-500 shadow-sm focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent transition-all"
-                />
+            
+            <div className="mb-10">
+              <p className="text-xl md:text-2xl text-neutral-400 font-medium">
+                {total} companies currently hiring
+              </p>
             </div>
 
-            <AdvancedFilter onFilterChange={handleFilterChange} />
+            {/* Search Bar */}
+            <div className="max-w-2xl mx-auto mb-10 relative group">
+                {/* Glow Effect */}
+                <div className="absolute -inset-0.5 bg-gradient-to-r from-orange-500/10 to-orange-600/10 dark:from-orange-500/20 dark:to-orange-600/20 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
+                
+                <div className="relative flex items-center bg-white dark:bg-[#0a0a0a] border border-neutral-200 dark:border-neutral-800 rounded-full p-2 shadow-sm dark:shadow-none">
+                    <div className="pl-4 text-neutral-400 dark:text-neutral-500">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className="w-6 h-6">
+                            <path strokeLinecap="round" strokeLinejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+                        </svg>
+                    </div>
+                    <input
+                        type="text"
+                        placeholder="Search by name, tags, description, industry, region..."
+                        value={searchQuery}
+                        onChange={(e) => setSearchQuery(e.target.value)}
+                        className="flex-1 bg-transparent border-none text-gray-900 dark:text-white placeholder-neutral-400 dark:placeholder-neutral-600 focus:ring-0 px-4 py-1 text-lg w-full outline-none mr-4"
+                    />
+                </div>
+            </div>
+
+            {/* Filter Controls */}
+            <div className="max-w-2xl mx-auto flex justify-between items-center mb-6">
+                <button 
+                    onClick={() => setShowFilters(!showFilters)}
+                    className="flex items-center gap-2 px-4 py-2 rounded-lg bg-white dark:bg-[#111] border border-neutral-200 dark:border-neutral-800 text-orange-600 dark:text-orange-500 hover:border-orange-500/30 dark:hover:border-orange-500/50 transition-all font-bold tracking-wider text-sm shadow-sm dark:shadow-none"
+                >
+                    FILTER RESULTS
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor" className={`w-4 h-4 transition-transform ${showFilters ? 'rotate-180' : ''}`}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                    </svg>
+                </button>
+
+                <button className="hidden md:flex items-center gap-2 px-4 py-2 rounded-full border border-neutral-200 dark:border-neutral-800 bg-white dark:bg-[#0a0a0a] text-neutral-500 dark:text-neutral-400 hover:text-gray-900 dark:hover:text-white transition-colors text-xs font-bold tracking-wider uppercase shadow-sm dark:shadow-none">
+                    <span className="w-2 h-2 rounded-full bg-neutral-200 dark:bg-neutral-700"></span>
+                    Hiring Now
+                </button>
+            </div>
+
+            <AdvancedFilter 
+                onFilterChange={handleFilterChange} 
+                isOpen={showFilters}
+            />
         </div>
 
         {/* Pagination Controls (Top) */}

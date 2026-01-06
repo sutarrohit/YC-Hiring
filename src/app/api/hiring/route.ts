@@ -1,3 +1,6 @@
+
+export const revalidate = 3600; 
+
 import { NextRequest, NextResponse } from 'next/server';
 import axios from 'axios';
 import { YCCompany } from '@/types';
@@ -84,6 +87,20 @@ export async function GET(request: NextRequest) {
         );
       });
     }
+
+    // Sort by batch descending (Newest first)
+    allCompanies.sort((a, b) => {
+        const getScore = (batch: string) => {
+            if (!batch || batch === 'Unspecified') return 0;
+            const parts = batch.split(' ');
+            if (parts.length < 2) return 0;
+            const season = parts[0]; // Summer or Winter
+            const year = parseInt(parts[1]);
+            if (isNaN(year)) return 0;
+            return year * 10 + (season === 'Summer' ? 2 : 1);
+        };
+        return getScore(b.batch) - getScore(a.batch);
+    });
     
     const startIndex = (page - 1) * limit;
     const endIndex = startIndex + limit;
