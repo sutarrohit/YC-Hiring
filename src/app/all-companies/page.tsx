@@ -6,7 +6,7 @@ import { YCCompany, PaginatedResponse } from '@/types';
 import CompanyCard from '@/components/CompanyCard';
 import AdvancedFilter from '@/components/AdvancedFilter';
 
-export default function Home() {
+export default function AllCompaniesPage() {
   const [companies, setCompanies] = useState<YCCompany[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -60,13 +60,13 @@ export default function Home() {
             region: filters.region,
             stage: filters.stage
         });
-        const response = await axios.get<PaginatedResponse>(`/api/hiring?${queryParams.toString()}`);
+        const response = await axios.get<PaginatedResponse>(`/api/all?${queryParams.toString()}`);
         setCompanies(response.data.companies);
         setTotal(response.data.total);
         setTotalPages(response.data.totalPages);
       } catch (err) {
         console.error(err);
-        setError('Failed to fetch hiring companies.');
+        setError('Failed to fetch companies.');
       } finally {
         setLoading(false);
       }
@@ -88,7 +88,7 @@ export default function Home() {
   if (loading && companies.length === 0) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gray-50 dark:bg-neutral-950 transition-colors">
-        <div className="text-xl text-gray-600 dark:text-neutral-500 animate-pulse">Loading companies...</div>
+        <div className="text-xl text-gray-600 dark:text-neutral-500 animate-pulse">Loading all companies...</div>
       </div>
     );
   }
@@ -106,10 +106,10 @@ export default function Home() {
       <div className="max-w-7xl mx-auto">
         <div className="mb-8 text-center">
             <h1 className="text-3xl font-extrabold text-gray-900 dark:text-neutral-100 sm:text-4xl tracking-tight transition-colors">
-            YC Hiring Companies
+            All YC Companies
             </h1>
             <p className="mt-4 text-xl text-gray-600 dark:text-neutral-400 mb-6 transition-colors">
-            {total} companies currently hiring
+            {total} companies in the directory
             </p>
 
             {/* Search Bar */}

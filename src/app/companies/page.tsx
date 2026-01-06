@@ -1,12 +1,11 @@
 'use client';
 
-import { useEffect, useState, useCallback } from 'react';
+import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { YCCompany, PaginatedResponse } from '@/types';
 import CompanyCard from '@/components/CompanyCard';
-import AdvancedFilter from '@/components/AdvancedFilter';
 
-export default function Home() {
+export default function CompaniesPage() {
   const [companies, setCompanies] = useState<YCCompany[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -21,14 +20,6 @@ export default function Home() {
   const [searchQuery, setSearchQuery] = useState('');
   const [debouncedQuery, setDebouncedQuery] = useState('');
 
-  // Advanced Filters
-  const [filters, setFilters] = useState({
-      year: '',
-      industry: '',
-      region: '',
-      stage: ''
-  });
-
   // Debounce Effect
   useEffect(() => {
     const handler = setTimeout(() => {
@@ -41,26 +32,12 @@ export default function Home() {
     };
   }, [searchQuery]);
 
-   const handleFilterChange = useCallback((newFilters: typeof filters) => {
-      setFilters(newFilters);
-      setPage(1);
-  }, []);
-
   useEffect(() => {
     async function fetchCompanies() {
       setLoading(true);
       setError(null);
       try {
-        const queryParams = new URLSearchParams({
-            page: page.toString(),
-            limit: limit.toString(),
-            q: debouncedQuery,
-            year: filters.year,
-            industry: filters.industry,
-            region: filters.region,
-            stage: filters.stage
-        });
-        const response = await axios.get<PaginatedResponse>(`/api/hiring?${queryParams.toString()}`);
+        const response = await axios.get<PaginatedResponse>(`/api/hiring?page=${page}&limit=${limit}&q=${encodeURIComponent(debouncedQuery)}`);
         setCompanies(response.data.companies);
         setTotal(response.data.total);
         setTotalPages(response.data.totalPages);
@@ -73,7 +50,7 @@ export default function Home() {
     }
 
     fetchCompanies();
-  }, [page, limit, debouncedQuery, filters]);
+  }, [page, limit, debouncedQuery]);
 
   const handlePrev = () => {
     if (page > 1) setPage(page - 1);
@@ -106,24 +83,22 @@ export default function Home() {
       <div className="max-w-7xl mx-auto">
         <div className="mb-8 text-center">
             <h1 className="text-3xl font-extrabold text-gray-900 dark:text-neutral-100 sm:text-4xl tracking-tight transition-colors">
-            YC Hiring Companies
+            All Hiring Companies
             </h1>
             <p className="mt-4 text-xl text-gray-600 dark:text-neutral-400 mb-6 transition-colors">
-            {total} companies currently hiring
+            {total} companies found
             </p>
 
             {/* Search Bar */}
-            <div className="max-w-xl mx-auto mb-6">
+            <div className="max-w-xl mx-auto">
                 <input
                     type="text"
-                    placeholder="Search by name, tags, description..."
+                    placeholder="Search by name, industry, region, stage, year (e.g. 2021)..."
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
                     className="w-full px-4 py-3 rounded-lg bg-white dark:bg-neutral-900 border border-gray-300 dark:border-neutral-800 text-gray-900 dark:text-neutral-100 placeholder-gray-500 dark:placeholder-neutral-500 shadow-sm focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-transparent transition-all"
                 />
             </div>
-
-            <AdvancedFilter onFilterChange={handleFilterChange} />
         </div>
 
         {/* Pagination Controls (Top) */}
