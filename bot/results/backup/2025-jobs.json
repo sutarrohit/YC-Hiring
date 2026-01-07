@@ -1,0 +1,5451 @@
+[
+  {
+    "id": 30364,
+    "name": "Wayline",
+    "slug": "wayline",
+    "url": "https://www.ycombinator.com/companies/wayline",
+    "jobs": [
+      {
+        "title": "Founding Data Integration Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$190K - $240K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/wayline/jobs/Mo7GOpK-founding-data-integration-engineer"
+      },
+      {
+        "title": "Founding AI Agent Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$190K - $240K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/wayline/jobs/DCCiynB-founding-ai-agent-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:08.222Z"
+  },
+  {
+    "id": 30494,
+    "name": "Nixo",
+    "slug": "nixo",
+    "url": "https://www.ycombinator.com/companies/nixo",
+    "jobs": [
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$100K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nixo/jobs/nI0YNNA-forward-deployed-engineer"
+      },
+      {
+        "title": "Growth Intern (Spring)",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$4K - $8K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nixo/jobs/Ug6qDql-growth-intern-spring"
+      },
+      {
+        "title": "AI Engineering Intern (Spring)",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$4K - $8K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nixo/jobs/uvn5pAk-ai-engineering-intern-spring"
+      },
+      {
+        "title": "Growth Intern (Summer)",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$4K - $8K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nixo/jobs/WnMAtBt-growth-intern-summer"
+      },
+      {
+        "title": "AI Engineering Intern (Summer)",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$4K - $8K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nixo/jobs/WmsVdY2-ai-engineering-intern-summer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:11.874Z"
+  },
+  {
+    "id": 30582,
+    "name": "Pingo AI",
+    "slug": "pingo-ai",
+    "url": "https://www.ycombinator.com/companies/pingo-ai",
+    "jobs": [
+      {
+        "title": "Content Marketing Lead",
+        "location": "San Francisco, CA, US",
+        "salary": "$130K - $180K",
+        "equity": "0.30% - 0.80%",
+        "url": "https://www.ycombinator.com/companies/pingo-ai/jobs/rruL64n-content-marketing-lead"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:15.175Z"
+  },
+  {
+    "id": 30605,
+    "name": "Dedalus Labs",
+    "slug": "dedalus-labs",
+    "url": "https://www.ycombinator.com/companies/dedalus-labs",
+    "jobs": [
+      {
+        "title": "Machine Learning Engineer Intern (Summer 2025)",
+        "location": "San Francisco, CA, US",
+        "salary": "$9K - $10K / monthly",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/dedalus-labs/jobs/rIz8f0c-machine-learning-engineer-intern-summer-2025"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:18.796Z"
+  },
+  {
+    "id": 30607,
+    "name": "The Prompting Company",
+    "slug": "the-prompting-company",
+    "url": "https://www.ycombinator.com/companies/the-prompting-company",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$90K - $150K",
+        "equity": "0.10%",
+        "url": "https://www.ycombinator.com/companies/the-prompting-company/jobs/sHmYVPr-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:22.463Z"
+  },
+  {
+    "id": 30608,
+    "name": "MangoDesk",
+    "slug": "mangodesk",
+    "url": "https://www.ycombinator.com/companies/mangodesk",
+    "jobs": [
+      {
+        "title": "B2B Growth Intern",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$60K - $100K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mangodesk/jobs/3k8EaWR-b2b-growth-intern"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:25.596Z"
+  },
+  {
+    "id": 30609,
+    "name": "Halluminate",
+    "slug": "halluminate",
+    "url": "https://www.ycombinator.com/companies/halluminate",
+    "jobs": [
+      {
+        "title": "Founding Member of Technical Staff",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/halluminate/jobs/yNhIGwe-founding-member-of-technical-staff"
+      },
+      {
+        "title": "Strategic Project Lead (Financial Services)",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/halluminate/jobs/7xzmJa5-strategic-project-lead-financial-services"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:28.769Z"
+  },
+  {
+    "id": 30610,
+    "name": "TraceRoot.AI",
+    "slug": "traceroot-ai",
+    "url": "https://www.ycombinator.com/companies/traceroot-ai",
+    "jobs": [
+      {
+        "title": "Software Engineering Intern",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$4K - $8K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/traceroot-ai/jobs/RCbNRRq-software-engineering-intern"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $220K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/traceroot-ai/jobs/xLdkDw5-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:31.915Z"
+  },
+  {
+    "id": 30611,
+    "name": "AgentMail",
+    "slug": "agentmail",
+    "url": "https://www.ycombinator.com/companies/agentmail",
+    "jobs": [
+      {
+        "title": "Founding GTM Lead",
+        "location": "San Francisco, CA, US",
+        "salary": "$110K - $250K",
+        "equity": "0.20% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/agentmail/jobs/7WRQSNz-founding-gtm-lead"
+      },
+      {
+        "title": "Founding Strategy & Operations Lead",
+        "location": "San Francisco, CA, US",
+        "salary": "$110K - $175K",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/agentmail/jobs/8nlKcto-founding-strategy-operations-lead"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/agentmail/jobs/x66bmSk-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:35.264Z"
+  },
+  {
+    "id": 30612,
+    "name": "truthsystems",
+    "slug": "truthsystems",
+    "url": "https://www.ycombinator.com/companies/truthsystems",
+    "jobs": [
+      {
+        "title": "Founding Full-Stack Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$200K - $250K",
+        "equity": "0.30% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/truthsystems/jobs/kvPRCGI-founding-full-stack-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:38.552Z"
+  },
+  {
+    "id": 30613,
+    "name": "Blank Bio",
+    "slug": "blank-bio",
+    "url": "https://www.ycombinator.com/companies/blank-bio",
+    "jobs": [
+      {
+        "title": "Machine Learning Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.10% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/blank-bio/jobs/0WkNNcD-machine-learning-engineer"
+      },
+      {
+        "title": "Machine Learning Research Scientist",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "0.10% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/blank-bio/jobs/AYye8n3-machine-learning-research-scientist"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:42.000Z"
+  },
+  {
+    "id": 30615,
+    "name": "Lanesurf",
+    "slug": "lanesurf",
+    "url": "https://www.ycombinator.com/companies/lanesurf",
+    "jobs": [
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $150K",
+        "equity": "0.10% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/lanesurf/jobs/7isWFHQ-forward-deployed-engineer"
+      },
+      {
+        "title": "Agent Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $150K",
+        "equity": "0.10% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/lanesurf/jobs/whK4HFJ-agent-engineer"
+      },
+      {
+        "title": "Principal ML Research Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $225K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/lanesurf/jobs/XSpkflz-principal-ml-research-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:45.280Z"
+  },
+  {
+    "id": 30624,
+    "name": "Verne Robotics",
+    "slug": "verne-robotics",
+    "url": "https://www.ycombinator.com/companies/verne-robotics",
+    "jobs": [
+      {
+        "title": "Robotics Data Infrastructure Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$110K - $175K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/verne-robotics/jobs/9SnPqFO-robotics-data-infrastructure-engineer"
+      },
+      {
+        "title": "Robotics Operator",
+        "location": "San Francisco, CA, US",
+        "salary": "$20 - $30 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/verne-robotics/jobs/7LFahea-robotics-operator"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:48.464Z"
+  },
+  {
+    "id": 30636,
+    "name": "EffiGov",
+    "slug": "effigov",
+    "url": "https://www.ycombinator.com/companies/effigov",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $180K",
+        "equity": "0.60% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/effigov/jobs/c37ANEq-founding-engineer"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $150K",
+        "equity": "0.20% - 0.60%",
+        "url": "https://www.ycombinator.com/companies/effigov/jobs/PZMxj2A-forward-deployed-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:51.574Z"
+  },
+  {
+    "id": 30642,
+    "name": "Orange Slice",
+    "slug": "orange-slice",
+    "url": "https://www.ycombinator.com/companies/orange-slice",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$100K - $150K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/orange-slice/jobs/xQossob-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:54.698Z"
+  },
+  {
+    "id": 30644,
+    "name": "Wafer",
+    "slug": "wafer",
+    "url": "https://www.ycombinator.com/companies/wafer",
+    "jobs": [
+      {
+        "title": "Member Of Technical Staff (Summer Intern)",
+        "location": "San Francisco, CA, US",
+        "salary": "$6K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/wafer/jobs/0ontUwO-member-of-technical-staff-summer-intern"
+      },
+      {
+        "title": "Member Of Technical Staff (Winter Intern)",
+        "location": "San Francisco, CA, US",
+        "salary": "$6K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/wafer/jobs/nvcPjYk-member-of-technical-staff-winter-intern"
+      },
+      {
+        "title": "Member of Technical Staff",
+        "location": "San Francisco, CA, US",
+        "salary": "$180K - $230K",
+        "equity": "2.00% - 4.00%",
+        "url": "https://www.ycombinator.com/companies/wafer/jobs/umtIMMA-member-of-technical-staff"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:56.943Z"
+  },
+  {
+    "id": 30650,
+    "name": "Imprezia",
+    "slug": "imprezia",
+    "url": "https://www.ycombinator.com/companies/imprezia",
+    "jobs": [
+      {
+        "title": "Chief of Staff (Founding Team)",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $170K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/imprezia/jobs/Pv3lzcn-chief-of-staff-founding-team"
+      },
+      {
+        "title": "Senior Ad Tech Engineer (Founding Team)",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/imprezia/jobs/HDrJSMq-senior-ad-tech-engineer-founding-team"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:27:59.901Z"
+  },
+  {
+    "id": 30652,
+    "name": "OnDeck AI",
+    "slug": "ondeck-ai",
+    "url": "https://www.ycombinator.com/companies/ondeck-ai",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "Vancouver, BC, CA / Vancouver, British Columbia, CA",
+        "salary": "$100K - $200K CAD",
+        "equity": "0.10% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/ondeck-ai/jobs/IQTL9o5-founding-engineer"
+      },
+      {
+        "title": "Founding Machine Learning Engineer",
+        "location": "Vancouver, BC, CA / Vancouver, British Columbia, CA",
+        "salary": "$130K - $250K CAD",
+        "equity": "0.50% - 2.50%",
+        "url": "https://www.ycombinator.com/companies/ondeck-ai/jobs/Mkr4kZN-founding-machine-learning-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:03.024Z"
+  },
+  {
+    "id": 30656,
+    "name": "DeepGrove",
+    "slug": "deepgrove",
+    "url": "https://www.ycombinator.com/companies/deepgrove",
+    "jobs": [
+      {
+        "title": "ML Technical Staff",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $350K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/deepgrove/jobs/mGxxTIq-ml-technical-staff"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:05.999Z"
+  },
+  {
+    "id": 30659,
+    "name": "Keystone",
+    "slug": "keystone",
+    "url": "https://www.ycombinator.com/companies/keystone",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $300K",
+        "equity": "0.50% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/keystone/jobs/J3t9XeM-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:09.290Z"
+  },
+  {
+    "id": 30662,
+    "name": "DeepAware AI",
+    "slug": "deepaware-ai",
+    "url": "https://www.ycombinator.com/companies/deepaware-ai",
+    "jobs": [
+      {
+        "title": "Robotics Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $165K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/deepaware-ai/jobs/2PyKMig-robotics-engineer"
+      },
+      {
+        "title": "Business Development Manager",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$100K - $140K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/deepaware-ai/jobs/Oz49Id3-business-development-manager"
+      },
+      {
+        "title": "AI/ML Engineer",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$130K - $170K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/deepaware-ai/jobs/2x0wzJp-ai-ml-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:12.486Z"
+  },
+  {
+    "id": 30666,
+    "name": "CareSwift",
+    "slug": "careswift",
+    "url": "https://www.ycombinator.com/companies/careswift",
+    "jobs": [
+      {
+        "title": "Founding Full-Stack Engineer (EMS Experience Required)",
+        "location": "New York City",
+        "salary": "$120K - $180K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/careswift/jobs/cgPc68t-founding-full-stack-engineer-ems-experience-required"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:15.675Z"
+  },
+  {
+    "id": 30671,
+    "name": "AgentHub",
+    "slug": "agenthub-2",
+    "url": "https://www.ycombinator.com/companies/agenthub-2",
+    "jobs": [
+      {
+        "title": "Research Engineer Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$8K - $11K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/agenthub-2/jobs/n7pJmol-research-engineer-intern"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$7K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/agenthub-2/jobs/AwmJMNZ-software-engineer-intern"
+      },
+      {
+        "title": "Founding Research Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $350K",
+        "equity": "0.50% - 2.01%",
+        "url": "https://www.ycombinator.com/companies/agenthub-2/jobs/Xlqq4A8-founding-research-engineer"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $350K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/agenthub-2/jobs/u26pbv3-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:18.800Z"
+  },
+  {
+    "id": 30675,
+    "name": "BootLoop",
+    "slug": "bootloop",
+    "url": "https://www.ycombinator.com/companies/bootloop",
+    "jobs": [
+      {
+        "title": "Founding Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$200K - $325K",
+        "equity": "1.50% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/bootloop/jobs/7fA0DgW-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:21.937Z"
+  },
+  {
+    "id": 30677,
+    "name": "Kalinda",
+    "slug": "kalinda",
+    "url": "https://www.ycombinator.com/companies/kalinda",
+    "jobs": [
+      {
+        "title": "Founding Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$125K - $200K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/kalinda/jobs/mxfirbk-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:24.890Z"
+  },
+  {
+    "id": 30685,
+    "name": "IronLedger.ai",
+    "slug": "ironledger-ai",
+    "url": "https://www.ycombinator.com/companies/ironledger-ai",
+    "jobs": [
+      {
+        "title": "Founding Software Engineer",
+        "location": "New York, NY, US",
+        "salary": "$175K - $225K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/ironledger-ai/jobs/e381x9h-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:27.998Z"
+  },
+  {
+    "id": 30686,
+    "name": "The Interface",
+    "slug": "the-interface",
+    "url": "https://www.ycombinator.com/companies/the-interface",
+    "jobs": [
+      {
+        "title": "Founding AI Engineer",
+        "location": "New York, United States",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/the-interface/jobs/9EtVFon-founding-ai-engineer"
+      },
+      {
+        "title": "Founding Rendering Engineer",
+        "location": "New York, United States",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/the-interface/jobs/SVPgXEE-founding-rendering-engineer"
+      },
+      {
+        "title": "Founding Growth & Community Lead",
+        "location": "New York, United States",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/the-interface/jobs/o5Ml84t-founding-growth-community-lead"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:31.276Z"
+  },
+  {
+    "id": 30690,
+    "name": "Flai",
+    "slug": "flai",
+    "url": "https://www.ycombinator.com/companies/flai",
+    "jobs": [
+      {
+        "title": "Regional Account Executive",
+        "location": "Remote (US)",
+        "salary": "$150K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/flai/jobs/qCddsM1-regional-account-executive"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:33.910Z"
+  },
+  {
+    "id": 30698,
+    "name": "Comena",
+    "slug": "comena",
+    "url": "https://www.ycombinator.com/companies/comena",
+    "jobs": [
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€80K - €150K EUR",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/comena/jobs/y1pnAQ6-forward-deployed-engineer"
+      },
+      {
+        "title": "Software Engineering Intern",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€4K - €5K EUR / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/comena/jobs/QRK75jr-software-engineering-intern"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€80K - €150K EUR",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/comena/jobs/awYQAOJ-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:37.027Z"
+  },
+  {
+    "id": 30699,
+    "name": "VibeFlow",
+    "slug": "vibeflow",
+    "url": "https://www.ycombinator.com/companies/vibeflow",
+    "jobs": [
+      {
+        "title": "Founding Full-Stack Engineer",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$70K - $160K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/vibeflow/jobs/OezRYUj-founding-full-stack-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:40.252Z"
+  },
+  {
+    "id": 30700,
+    "name": "Nozomio",
+    "slug": "nozomio",
+    "url": "https://www.ycombinator.com/companies/nozomio",
+    "jobs": [
+      {
+        "title": "Founding DevRel Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $170K",
+        "equity": "0.05% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/nozomio/jobs/SNcQ2l0-founding-devrel-engineer"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "2.00% - 4.00%",
+        "url": "https://www.ycombinator.com/companies/nozomio/jobs/blaVouI-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:43.398Z"
+  },
+  {
+    "id": 30706,
+    "name": "Solva",
+    "slug": "solva",
+    "url": "https://www.ycombinator.com/companies/solva",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "New York, NY, US",
+        "salary": "$120K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/solva/jobs/V9X1F0T-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:46.551Z"
+  },
+  {
+    "id": 30708,
+    "name": "Perseus Defense",
+    "slug": "perseus-defense",
+    "url": "https://www.ycombinator.com/companies/perseus-defense",
+    "jobs": [
+      {
+        "title": "Engineer",
+        "location": "Austin, TX, US",
+        "salary": "$110K - $180K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/perseus-defense/jobs/PsAC51N-engineer"
+      },
+      {
+        "title": "Engineer",
+        "location": "Austin, TX, US",
+        "salary": "$110K - $180K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/perseus-defense/jobs/uxJvS5U-engineer"
+      },
+      {
+        "title": "Engineer",
+        "location": "Austin, TX, US",
+        "salary": "$110K - $180K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/perseus-defense/jobs/jeusOvL-engineer"
+      },
+      {
+        "title": "Engineer",
+        "location": "Austin, TX, US",
+        "salary": "$110K - $180K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/perseus-defense/jobs/YuIMp9z-engineer"
+      },
+      {
+        "title": "Engineer",
+        "location": "Austin, TX, US",
+        "salary": "$110K - $180K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/perseus-defense/jobs/lTD7HZx-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:49.723Z"
+  },
+  {
+    "id": 30710,
+    "name": "mcp-use",
+    "slug": "mcp-use",
+    "url": "https://www.ycombinator.com/companies/mcp-use",
+    "jobs": [
+      {
+        "title": "Software Engineer (Founding Team)",
+        "location": "Zürich, ZH, CH / Zürich, Zurich, CH / San Francisco, CA, US",
+        "salary": "$100K - $135K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/mcp-use/jobs/x7AI7un-software-engineer-founding-team"
+      },
+      {
+        "title": "Open Source Engineer (DevRel / Community Engineer)",
+        "location": "San Francisco, CA, US / Zürich, Zurich, CH",
+        "salary": "$100K - $135K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/mcp-use/jobs/MHevzQv-open-source-engineer-devrel-community-engineer"
+      },
+      {
+        "title": "Infra God (Cloud / DevOps Engineer)",
+        "location": "San Francisco, CA, US / Zürich, Zurich, CH",
+        "salary": "$100K - $135K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/mcp-use/jobs/L4qqo2K-infra-god-cloud-devops-engineer"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "Zürich, ZH, CH / Zürich, Zurich, CH / San Francisco, CA, US",
+        "salary": "$100K - $135K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/mcp-use/jobs/XpV5QPn-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:52.891Z"
+  },
+  {
+    "id": 30712,
+    "name": "Relling",
+    "slug": "relling",
+    "url": "https://www.ycombinator.com/companies/relling",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $250K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/relling/jobs/Qdeb13c-founding-engineer"
+      },
+      {
+        "title": "Strategic Operations",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $250K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/relling/jobs/cpAVrgr-strategic-operations"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:55.785Z"
+  },
+  {
+    "id": 30716,
+    "name": "Finto",
+    "slug": "finto-de",
+    "url": "https://www.ycombinator.com/companies/finto-de",
+    "jobs": [
+      {
+        "title": "(Senior) Solution Engineer",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€50K - €80K EUR",
+        "equity": "0.05% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/finto-de/jobs/9rF94y6-senior-solution-engineer"
+      },
+      {
+        "title": "Product Engineer",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€60K - €130K EUR",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/finto-de/jobs/zgep090-product-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:28:58.967Z"
+  },
+  {
+    "id": 30717,
+    "name": "Iron Grid",
+    "slug": "iron-grid",
+    "url": "https://www.ycombinator.com/companies/iron-grid",
+    "jobs": [
+      {
+        "title": "Underwriter, Manufacturing & Automation",
+        "location": "San Francisco, CA, US",
+        "salary": "$115K - $185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/iron-grid/jobs/nNTKu0x-underwriter-manufacturing-automation"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:02.113Z"
+  },
+  {
+    "id": 30724,
+    "name": "Risely AI",
+    "slug": "risely-ai",
+    "url": "https://www.ycombinator.com/companies/risely-ai",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Ramon, CA, US",
+        "salary": "$150K - $180K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/risely-ai/jobs/CEkNSpt-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:05.371Z"
+  },
+  {
+    "id": 30725,
+    "name": "Minimal AI",
+    "slug": "minimal-ai",
+    "url": "https://www.ycombinator.com/companies/minimal-ai",
+    "jobs": [
+      {
+        "title": "Full-Stack Developer (Amsterdam)",
+        "location": "Amsterdam, NH, NL / Amsterdam, North Holland, NL",
+        "salary": "€75K - €130K EUR",
+        "equity": "0.50% - 1.25%",
+        "url": "https://www.ycombinator.com/companies/minimal-ai/jobs/VLyHeuN-full-stack-developer-amsterdam"
+      },
+      {
+        "title": "Full-Stack Developer (NYC)",
+        "location": "New York, NY, US",
+        "salary": "$125K - $250K",
+        "equity": "0.50% - 1.25%",
+        "url": "https://www.ycombinator.com/companies/minimal-ai/jobs/VXTs1Za-full-stack-developer-nyc"
+      },
+      {
+        "title": "Founding Engineer: Backend + AI-Focused Full-Stack Developer (Amsterdam)",
+        "location": "Amsterdam, NH, NL / Amsterdam, North Holland, NL",
+        "salary": "€75K - €130K EUR",
+        "equity": "0.50% - 2.25%",
+        "url": "https://www.ycombinator.com/companies/minimal-ai/jobs/Yi9o4mk-founding-engineer-backend-ai-focused-full-stack-developer-amsterdam"
+      },
+      {
+        "title": "Founding Engineer: Product-Focused Full-Stack Developer (Amsterdam)",
+        "location": "Amsterdam, NH, NL / Amsterdam, North Holland, NL",
+        "salary": "€75K - €130K EUR",
+        "equity": "0.50% - 2.25%",
+        "url": "https://www.ycombinator.com/companies/minimal-ai/jobs/toutTIM-founding-engineer-product-focused-full-stack-developer-amsterdam"
+      },
+      {
+        "title": "Founding Engineer: Backend + AI-Focused Full-Stack Developer (NYC)",
+        "location": "New York, NY, US",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 2.25%",
+        "url": "https://www.ycombinator.com/companies/minimal-ai/jobs/wh9Ed4G-founding-engineer-backend-ai-focused-full-stack-developer-nyc"
+      },
+      {
+        "title": "Founding Engineer: Product-Focused Full-Stack Developer (NYC)",
+        "location": "New York, NY, US",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 2.25%",
+        "url": "https://www.ycombinator.com/companies/minimal-ai/jobs/KpSAh1E-founding-engineer-product-focused-full-stack-developer-nyc"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:08.606Z"
+  },
+  {
+    "id": 30726,
+    "name": "Socratix AI",
+    "slug": "socratix-ai",
+    "url": "https://www.ycombinator.com/companies/socratix-ai",
+    "jobs": [
+      {
+        "title": "Fullstack (Frontend) Engineer",
+        "location": "IN / Remote (IN)",
+        "salary": "$25K - $40K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/socratix-ai/jobs/bUUz59p-fullstack-frontend-engineer"
+      },
+      {
+        "title": "Founding Backend Engineer",
+        "location": "Menlo Park, CA, US / Mountain View, CA, US / San Mateo, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/socratix-ai/jobs/aUTZPmu-founding-backend-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:11.866Z"
+  },
+  {
+    "id": 30729,
+    "name": "Floot",
+    "slug": "floot",
+    "url": "https://www.ycombinator.com/companies/floot",
+    "jobs": [
+      {
+        "title": "Founding Growth Marketer",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $200K",
+        "equity": "0.10% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/floot/jobs/gyHYJjj-founding-growth-marketer"
+      },
+      {
+        "title": "Founding Full-Stack Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.25% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/floot/jobs/2rbWibL-founding-full-stack-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:14.954Z"
+  },
+  {
+    "id": 30730,
+    "name": "Idler",
+    "slug": "idler",
+    "url": "https://www.ycombinator.com/companies/idler",
+    "jobs": [
+      {
+        "title": "Staff Software Engineer",
+        "location": "San Francisco",
+        "salary": "$300K - $400K",
+        "equity": "0.75% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/idler/jobs/1huxClp-staff-software-engineer"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "San Francisco",
+        "salary": "$200K - $280K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/idler/jobs/PmgSCwQ-senior-software-engineer"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco",
+        "salary": "$100K - $150K",
+        "equity": "0.05% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/idler/jobs/zzd9Cyt-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:18.138Z"
+  },
+  {
+    "id": 30738,
+    "name": "Altur",
+    "slug": "altur",
+    "url": "https://www.ycombinator.com/companies/altur",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "Mexico City, CDMX, MX / Mexico City, Mexico City, MX",
+        "salary": "$48K - $80K",
+        "equity": "1.00%",
+        "url": "https://www.ycombinator.com/companies/altur/jobs/dQKqIWi-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:21.276Z"
+  },
+  {
+    "id": 30740,
+    "name": "Metis",
+    "slug": "metis",
+    "url": "https://www.ycombinator.com/companies/metis",
+    "jobs": [
+      {
+        "title": "Platform Engineer",
+        "location": "San Francisco, California",
+        "salary": "$150K - $850K",
+        "equity": "0.10% - 2.50%",
+        "url": "https://www.ycombinator.com/companies/metis/jobs/zT2fI11-platform-engineer"
+      },
+      {
+        "title": "Operations",
+        "location": "San Francisco, California",
+        "salary": "$80K - $450K",
+        "equity": "0.10% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/metis/jobs/51mrOE3-operations"
+      },
+      {
+        "title": "Forward Engineer",
+        "location": "San Francisco, California",
+        "salary": "$150K - $450K",
+        "equity": "0.10% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/metis/jobs/OjmYyoR-forward-engineer"
+      },
+      {
+        "title": "Create Your Own Role",
+        "location": "San Francisco, California",
+        "salary": "$150K - $1M",
+        "equity": "0.10% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/metis/jobs/4Mll6aJ-create-your-own-role"
+      },
+      {
+        "title": "Research Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$200K - $1M",
+        "equity": "0.10% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/metis/jobs/pv1MR9r-research-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:24.546Z"
+  },
+  {
+    "id": 30742,
+    "name": "Sira",
+    "slug": "sira",
+    "url": "https://www.ycombinator.com/companies/sira",
+    "jobs": [
+      {
+        "title": "Business Development Representative",
+        "location": "San Francisco, CA, US",
+        "salary": "$70K - $100K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/sira/jobs/wtXCCQS-business-development-representative"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:27.047Z"
+  },
+  {
+    "id": 30755,
+    "name": "Pally",
+    "slug": "pally",
+    "url": "https://www.ycombinator.com/companies/pally",
+    "jobs": [
+      {
+        "title": "Founding Engineer (Swift + Design)",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $220K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/pally/jobs/7mqqaHr-founding-engineer-swift-design"
+      },
+      {
+        "title": "Founding Engineer (Backend)",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $240K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/pally/jobs/FfzehWK-founding-engineer-backend"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:30.164Z"
+  },
+  {
+    "id": 30758,
+    "name": "Hera",
+    "slug": "hera-video",
+    "url": "https://www.ycombinator.com/companies/hera-video",
+    "jobs": [
+      {
+        "title": "Motion Designer",
+        "location": "Berlin, BE, DE / Berlin, Berlin, DE",
+        "salary": "€50K - €65K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/hera-video/jobs/xgPhfQP-motion-designer"
+      },
+      {
+        "title": "Founding Product Designer",
+        "location": "Berlin, BE, DE / Berlin, Berlin, DE",
+        "salary": "€80K - €130K EUR",
+        "equity": "0.75% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/hera-video/jobs/3YpF3GY-founding-product-designer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:32.867Z"
+  },
+  {
+    "id": 30761,
+    "name": "Reacher",
+    "slug": "reacher",
+    "url": "https://www.ycombinator.com/companies/reacher",
+    "jobs": [
+      {
+        "title": "Head of Customer Success",
+        "location": "San Francisco, CA, US",
+        "salary": "$110K - $180K",
+        "equity": "0.01% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/reacher/jobs/FeFkQWj-head-of-customer-success"
+      },
+      {
+        "title": "Founding Account Executive",
+        "location": "San Francisco, CA, US",
+        "salary": "$70K - $240K",
+        "equity": "0.01% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/reacher/jobs/44JG1fa-founding-account-executive"
+      },
+      {
+        "title": "Software Engineer Intern (Fall 2025/Summer 2026)",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US",
+        "salary": "$6K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reacher/jobs/HxPjZJm-software-engineer-intern-fall-2025-summer-2026"
+      },
+      {
+        "title": "Software Engineer (Full Stack)",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US / New York, NY, US / Remote (US)",
+        "salary": "$90K - $130K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/reacher/jobs/rqRLSNE-software-engineer-full-stack"
+      },
+      {
+        "title": "Senior Software Engineer (Full Stack)",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US / New York, NY, US / Remote (US)",
+        "salary": "$115K - $200K",
+        "equity": "0.50% - 2.50%",
+        "url": "https://www.ycombinator.com/companies/reacher/jobs/D4dVC9e-senior-software-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:36.195Z"
+  },
+  {
+    "id": 30763,
+    "name": "dScribe AI",
+    "slug": "dscribe-ai",
+    "url": "https://www.ycombinator.com/companies/dscribe-ai",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "Any (new grads ok)",
+        "salary": "$80K - $130K",
+        "equity": "0.10% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/dscribe-ai/jobs/WVObF11-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:39.108Z"
+  },
+  {
+    "id": 30775,
+    "name": "Fleetline",
+    "slug": "fleetline",
+    "url": "https://www.ycombinator.com/companies/fleetline",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "New York, NY, US",
+        "salary": "$140K - $190K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/fleetline/jobs/dVipAK8-founding-engineer"
+      },
+      {
+        "title": "Founding Algorithm Developer",
+        "location": "New York, NY, US",
+        "salary": "$130 - $180",
+        "equity": "0.40% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/fleetline/jobs/gFSnjF6-founding-algorithm-developer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:42.287Z"
+  },
+  {
+    "id": 30776,
+    "name": "Magnetic",
+    "slug": "magnetic",
+    "url": "https://www.ycombinator.com/companies/magnetic",
+    "jobs": [
+      {
+        "title": "Tax Preparer/Reviewer",
+        "location": "US / Remote (US)",
+        "salary": "$50 - $85 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/magnetic/jobs/7Cca3E9-tax-preparer-reviewer"
+      },
+      {
+        "title": "Founding Tax Expert",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $200K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/magnetic/jobs/eReV8hh-founding-tax-expert"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$200K - $250K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/magnetic/jobs/77FvOwO-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:45.284Z"
+  },
+  {
+    "id": 30782,
+    "name": "TectoAI",
+    "slug": "tectoai",
+    "url": "https://www.ycombinator.com/companies/tectoai",
+    "jobs": [
+      {
+        "title": "Founding Engineer (ML + Full-Stack)",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $400K",
+        "equity": "0.50% - 1.25%",
+        "url": "https://www.ycombinator.com/companies/tectoai/jobs/zaikhFq-founding-engineer-ml-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:48.411Z"
+  },
+  {
+    "id": 30789,
+    "name": "Interfere",
+    "slug": "interfere",
+    "url": "https://www.ycombinator.com/companies/interfere",
+    "jobs": [
+      {
+        "title": "Head of Developer Relations",
+        "location": "New York, NY, US",
+        "salary": "$120K - $150K",
+        "equity": "0.40% - 0.90%",
+        "url": "https://www.ycombinator.com/companies/interfere/jobs/zqXt6tC-head-of-developer-relations"
+      },
+      {
+        "title": "Founding Product Engineer",
+        "location": "New York, NY, US",
+        "salary": "$150K - $190K",
+        "equity": "0.50% - 1.10%",
+        "url": "https://www.ycombinator.com/companies/interfere/jobs/USUq6hk-founding-product-engineer"
+      },
+      {
+        "title": "Founding AI Engineer",
+        "location": "New York, NY, US",
+        "salary": "$160K - $210K",
+        "equity": "0.50% - 1.25%",
+        "url": "https://www.ycombinator.com/companies/interfere/jobs/v4B2Ltk-founding-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:51.247Z"
+  },
+  {
+    "id": 30794,
+    "name": "Vulcan Technologies",
+    "slug": "vulcan-technologies",
+    "url": "https://www.ycombinator.com/companies/vulcan-technologies",
+    "jobs": [
+      {
+        "title": "Director of Government Affairs",
+        "location": "Austin, TX, US",
+        "salary": "$80K - $150K",
+        "equity": "0.15% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/vulcan-technologies/jobs/h2sX4a5-director-of-government-affairs"
+      },
+      {
+        "title": "Legal Technologist",
+        "location": "Austin, TX, US",
+        "salary": "$80K - $150K",
+        "equity": "0.15% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/vulcan-technologies/jobs/FIHO0ai-legal-technologist"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "Austin, TX, US",
+        "salary": "$80K - $250K",
+        "equity": "0.15% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/vulcan-technologies/jobs/8zmFFnO-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:54.471Z"
+  },
+  {
+    "id": 30795,
+    "name": "NOSO LABS",
+    "slug": "noso-labs",
+    "url": "https://www.ycombinator.com/companies/noso-labs",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/noso-labs/jobs/aG9qbus-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:29:57.605Z"
+  },
+  {
+    "id": 30797,
+    "name": "Veritus",
+    "slug": "veritus",
+    "url": "https://www.ycombinator.com/companies/veritus",
+    "jobs": [
+      {
+        "title": "Voice Agent Designer / Prompt Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $180K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/veritus/jobs/IpJO6FU-voice-agent-designer-prompt-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:00.569Z"
+  },
+  {
+    "id": 30801,
+    "name": "burnt",
+    "slug": "burnt",
+    "url": "https://www.ycombinator.com/companies/burnt",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$125K - $165K",
+        "equity": "0.10% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/burnt/jobs/ye39lFB-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:03.754Z"
+  },
+  {
+    "id": 30804,
+    "name": "Luminal",
+    "slug": "luminal",
+    "url": "https://www.ycombinator.com/companies/luminal",
+    "jobs": [
+      {
+        "title": "Cloud Inference Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $350K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/luminal/jobs/J87U2SS-cloud-inference-engineer"
+      },
+      {
+        "title": "Compiler Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $350K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/luminal/jobs/GAXg6qE-compiler-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:06.401Z"
+  },
+  {
+    "id": 30818,
+    "name": "Nox Metals",
+    "slug": "nox-metals",
+    "url": "https://www.ycombinator.com/companies/nox-metals",
+    "jobs": [
+      {
+        "title": "Marketing & Content Lead",
+        "location": "Detroit, MI, US",
+        "salary": "$40K - $52K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nox-metals/jobs/qUz9AEa-marketing-content-lead"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "Detroit, MI, US",
+        "salary": "$65K - $83K",
+        "equity": "0.10% - 0.40%",
+        "url": "https://www.ycombinator.com/companies/nox-metals/jobs/y191Llk-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:09.388Z"
+  },
+  {
+    "id": 30832,
+    "name": "F2",
+    "slug": "f2",
+    "url": "https://www.ycombinator.com/companies/f2",
+    "jobs": [
+      {
+        "title": "AI Deployment Strategist",
+        "location": "New York City / Remote (US)",
+        "salary": "$135K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/f2/jobs/Wz9M5KA-ai-deployment-strategist"
+      },
+      {
+        "title": "Staff Software Engineer, Enterprise",
+        "location": "San Francisco",
+        "salary": "$200K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/f2/jobs/YSJoC0G-staff-software-engineer-enterprise"
+      },
+      {
+        "title": "Staff Software Engineer, Frontend",
+        "location": "San Francisco",
+        "salary": "$200K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/f2/jobs/sgonNSQ-staff-software-engineer-frontend"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$175K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/f2/jobs/ejl3hKh-senior-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:12.400Z"
+  },
+  {
+    "id": 26144,
+    "name": "OpenBuilder",
+    "slug": "openbuilder",
+    "url": "https://www.ycombinator.com/companies/openbuilder",
+    "jobs": [
+      {
+        "title": "Founding Full Stack Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$170K - $220K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/openbuilder/jobs/p2jMu2i-founding-full-stack-engineer"
+      },
+      {
+        "title": "Founding DevOps Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$170K - $220K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/openbuilder/jobs/htgz9Ph-founding-devops-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:15.311Z"
+  },
+  {
+    "id": 28922,
+    "name": "Egress Health",
+    "slug": "egress-health",
+    "url": "https://www.ycombinator.com/companies/egress-health",
+    "jobs": [
+      {
+        "title": "Founding Operations",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $135K",
+        "equity": "2.00%",
+        "url": "https://www.ycombinator.com/companies/egress-health/jobs/DVkF1rs-founding-operations"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$155K - $200K",
+        "equity": "3.00%",
+        "url": "https://www.ycombinator.com/companies/egress-health/jobs/kBHeqfY-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:18.530Z"
+  },
+  {
+    "id": 29656,
+    "name": "Leeroo",
+    "slug": "leeroo",
+    "url": "https://www.ycombinator.com/companies/leeroo",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "London, England, GB / Remote",
+        "salary": "£70 - £100 GBP",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/leeroo/jobs/EN35UC5-founding-engineer"
+      },
+      {
+        "title": "Research Scientist Intern – PhD (AI Agentic Systems)",
+        "location": "London, England, GB / Remote",
+        "salary": "$6.5K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/leeroo/jobs/yYHzLas-research-scientist-intern-phd-ai-agentic-systems"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:21.690Z"
+  },
+  {
+    "id": 29666,
+    "name": "Willow",
+    "slug": "willow",
+    "url": "https://www.ycombinator.com/companies/willow",
+    "jobs": [
+      {
+        "title": "Founding Product Design",
+        "location": "San Francisco Bay Area",
+        "salary": "$120K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/willow/jobs/ZjjyH2h-founding-product-design"
+      },
+      {
+        "title": "Founding Engineer (IOS)",
+        "location": "San Francisco Bay Area",
+        "salary": "$120K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/willow/jobs/fqRS0WJ-founding-engineer-ios"
+      },
+      {
+        "title": "Founding Engineer (Desktop)",
+        "location": "San Francisco Bay Area",
+        "salary": "$120K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/willow/jobs/VEb9kmS-founding-engineer-desktop"
+      },
+      {
+        "title": "ML Engineer",
+        "location": "San Francisco Bay Area",
+        "salary": "$130K - $210K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/willow/jobs/ZCHlSVr-ml-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:24.905Z"
+  },
+  {
+    "id": 29999,
+    "name": "Onlook",
+    "slug": "onlook",
+    "url": "https://www.ycombinator.com/companies/onlook",
+    "jobs": [
+      {
+        "title": "Founding Engineer (Fullstack)",
+        "location": "San Francisco, CA, US / Remote (US; CA)",
+        "salary": "$130K - $200K",
+        "equity": "1.00% - 4.00%",
+        "url": "https://www.ycombinator.com/companies/onlook/jobs/e4gHv1n-founding-engineer-fullstack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:28.031Z"
+  },
+  {
+    "id": 30165,
+    "name": "Edexia",
+    "slug": "edexia",
+    "url": "https://www.ycombinator.com/companies/edexia",
+    "jobs": [
+      {
+        "title": "Founding AI Engineer",
+        "location": "Brisbane, QLD, AU / Brisbane, Queensland, AU",
+        "salary": "$80K - $200K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/edexia/jobs/eAEdKOv-founding-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:30.947Z"
+  },
+  {
+    "id": 30172,
+    "name": "Enhanced Radar",
+    "slug": "enhanced-radar",
+    "url": "https://www.ycombinator.com/companies/enhanced-radar",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $230K",
+        "equity": "0.50% - 5.50%",
+        "url": "https://www.ycombinator.com/companies/enhanced-radar/jobs/72uOEyN-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:33.616Z"
+  },
+  {
+    "id": 30174,
+    "name": "Revise Robotics",
+    "slug": "revise-robotics",
+    "url": "https://www.ycombinator.com/companies/revise-robotics",
+    "jobs": [
+      {
+        "title": "Software Engineer",
+        "location": "New York City",
+        "salary": "$120K - $160K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/revise-robotics/jobs/ZVBhQHI-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:36.706Z"
+  },
+  {
+    "id": 30177,
+    "name": "Bild AI",
+    "slug": "bild-ai",
+    "url": "https://www.ycombinator.com/companies/bild-ai",
+    "jobs": [
+      {
+        "title": "AI/SWE Intern (Now and Summer 2026)",
+        "location": "San Francisco, CA, US",
+        "salary": "$3K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/bild-ai/jobs/mm6UUbE-ai-swe-intern-now-and-summer-2026"
+      },
+      {
+        "title": "Founding Engineer (Full Stack)",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $180K",
+        "equity": "0.20% - 1.20%",
+        "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-engineer-full-stack"
+      },
+      {
+        "title": "Founding Engineer (Applied AI)",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $180K",
+        "equity": "0.20% - 1.20%",
+        "url": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:39.559Z"
+  },
+  {
+    "id": 30182,
+    "name": "Flowtel",
+    "slug": "flowtel",
+    "url": "https://www.ycombinator.com/companies/flowtel",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.30% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/flowtel/jobs/4Tr9m7H-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:42.260Z"
+  },
+  {
+    "id": 30188,
+    "name": "Hey Telo",
+    "slug": "hey-telo",
+    "url": "https://www.ycombinator.com/companies/hey-telo",
+    "jobs": [
+      {
+        "title": "Founding Voice Agent Engineer",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€60K - €110K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/hey-telo/jobs/567PKJb-founding-voice-agent-engineer"
+      },
+      {
+        "title": "Software Engineer Intern (4-6 months)",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€2.5K - €4K EUR / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/hey-telo/jobs/jtcNcan-software-engineer-intern-4-6-months"
+      },
+      {
+        "title": "Founding Software Engineer",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€60K - €110K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/hey-telo/jobs/boukHW9-founding-software-engineer"
+      },
+      {
+        "title": "AI Engineer Internship (4-6 months)",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€2.5K - €4K EUR / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/hey-telo/jobs/OSrWaPG-ai-engineer-internship-4-6-months"
+      },
+      {
+        "title": "Founding AI Engineer",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€60K - €110K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/hey-telo/jobs/88QGoem-founding-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:45.902Z"
+  },
+  {
+    "id": 30189,
+    "name": "SubImage",
+    "slug": "subimage",
+    "url": "https://www.ycombinator.com/companies/subimage",
+    "jobs": [
+      {
+        "title": "Full Stack Software Engineer Intern [Summer 2026]",
+        "location": "San Francisco, CA, US",
+        "salary": "$6K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/subimage/jobs/WLWS24s-full-stack-software-engineer-intern-summer-2026"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:49.094Z"
+  },
+  {
+    "id": 30191,
+    "name": "Partcl",
+    "slug": "partcl",
+    "url": "https://www.ycombinator.com/companies/partcl",
+    "jobs": [
+      {
+        "title": "Silicon Applications Engineer (AI/EDA)",
+        "location": "San Francisco, CA, US",
+        "salary": "$90K - $200K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/partcl/jobs/fbX6FhW-silicon-applications-engineer-ai-eda"
+      },
+      {
+        "title": "Summer 2026 ML Systems Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$6K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/partcl/jobs/szNn6YC-summer-2026-ml-systems-intern"
+      },
+      {
+        "title": "Founding Engineer (Systems + ML)",
+        "location": "San Francisco, CA, US",
+        "salary": "$130K - $300K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/partcl/jobs/QYIRyyx-founding-engineer-systems-ml"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:52.313Z"
+  },
+  {
+    "id": 30192,
+    "name": "Axiom",
+    "slug": "axiom",
+    "url": "https://www.ycombinator.com/companies/axiom",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "Austin, TX, US",
+        "salary": "$150K - $500K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/axiom/jobs/PYj0leR-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:55.559Z"
+  },
+  {
+    "id": 30193,
+    "name": "Orchids",
+    "slug": "orchids",
+    "url": "https://www.ycombinator.com/companies/orchids",
+    "jobs": [
+      {
+        "title": "Full Stack Engineer (Intern)",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$6K - $12K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/orchids/jobs/NS0hAue-full-stack-engineer-intern"
+      },
+      {
+        "title": "Full Stack Software Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$130K - $150K",
+        "equity": "0.75% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/orchids/jobs/gl88O4f-full-stack-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:30:58.724Z"
+  },
+  {
+    "id": 30194,
+    "name": "Splash Inc.",
+    "slug": "splash-inc",
+    "url": "https://www.ycombinator.com/companies/splash-inc",
+    "jobs": [
+      {
+        "title": "Graphic & Web Designer (Mid-Level)",
+        "location": "El Segundo, CA, US",
+        "salary": "$70K - $110K",
+        "equity": "0.01% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/splash-inc/jobs/GiUfE6R-graphic-web-designer-mid-level"
+      },
+      {
+        "title": "Mechanical Engineer (Mid-Senior Level)",
+        "location": "El Segundo, CA, US",
+        "salary": "$100K - $160K",
+        "equity": "0.01% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/splash-inc/jobs/tXYqg78-mechanical-engineer-mid-senior-level"
+      },
+      {
+        "title": "Robotics Software Engineer",
+        "location": "El Segundo, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.01% - 0.80%",
+        "url": "https://www.ycombinator.com/companies/splash-inc/jobs/IfgOuhs-robotics-software-engineer"
+      },
+      {
+        "title": "Maritime Logistics Specialist",
+        "location": "Inglewood, CA, US",
+        "salary": "$60K - $110K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/splash-inc/jobs/cAVXnho-maritime-logistics-specialist"
+      },
+      {
+        "title": "Full Stack Software Engineer",
+        "location": "El Segundo, CA, US",
+        "salary": "$110K - $160K",
+        "equity": "0.01% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/splash-inc/jobs/GR9HdgA-full-stack-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:01.709Z"
+  },
+  {
+    "id": 30196,
+    "name": "Stamp",
+    "slug": "stamp",
+    "url": "https://www.ycombinator.com/companies/stamp",
+    "jobs": [
+      {
+        "title": "Founding Machine Learning Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$90K - $120K",
+        "equity": "5.00% - 10.00%",
+        "url": "https://www.ycombinator.com/companies/stamp/jobs/xtO4Em3-founding-machine-learning-engineer"
+      },
+      {
+        "title": "Founding Full Stack Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$90K - $120K",
+        "equity": "5.00% - 10.00%",
+        "url": "https://www.ycombinator.com/companies/stamp/jobs/UfIJoOU-founding-full-stack-engineer"
+      },
+      {
+        "title": "Founding Mobile Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$90K - $120K",
+        "equity": "5.00% - 10.00%",
+        "url": "https://www.ycombinator.com/companies/stamp/jobs/gy43tk5-founding-mobile-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:04.891Z"
+  },
+  {
+    "id": 30205,
+    "name": "Scout",
+    "slug": "scout-4",
+    "url": "https://www.ycombinator.com/companies/scout-4",
+    "jobs": [
+      {
+        "title": "Software Engineer",
+        "location": "New York, NY, US",
+        "salary": "$150K - $300K",
+        "equity": "0.30% - 0.80%",
+        "url": "https://www.ycombinator.com/companies/scout-4/jobs/FKHTHtm-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:07.547Z"
+  },
+  {
+    "id": 30207,
+    "name": "Promptless",
+    "slug": "promptless",
+    "url": "https://www.ycombinator.com/companies/promptless",
+    "jobs": [
+      {
+        "title": "Founding Engineer (All Levels)",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $200K",
+        "equity": "0.40% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/promptless/jobs/FdJSR55-founding-engineer-all-levels"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:10.743Z"
+  },
+  {
+    "id": 30209,
+    "name": "Closure",
+    "slug": "closure",
+    "url": "https://www.ycombinator.com/companies/closure",
+    "jobs": [
+      {
+        "title": "Founding AI Engineer",
+        "location": "New York, NY, US / Remote (San Francisco, CA, US; New York, NY, US; IL)",
+        "salary": "$135K - $230K",
+        "equity": "0.20% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/closure/jobs/igy1QFY-founding-ai-engineer"
+      },
+      {
+        "title": "Founding Product Engineer",
+        "location": "New York, NY, US / Remote (San Francisco, CA, US; New York, NY, US)",
+        "salary": "$110K - $205K",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/closure/jobs/Dg1sXKR-founding-product-engineer"
+      },
+      {
+        "title": "Founding FDE",
+        "location": "New York, NY, US / Remote (Tel Aviv-Yafo, Tel Aviv District, IL; San Francisco, CA, US; New York, NY, US)",
+        "salary": "$120K - $185K",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/closure/jobs/4gxpOAW-founding-fde"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:13.311Z"
+  },
+  {
+    "id": 30215,
+    "name": "Contrario",
+    "slug": "contrario",
+    "url": "https://www.ycombinator.com/companies/contrario",
+    "jobs": [
+      {
+        "title": "Talent Operator (x3)",
+        "location": "San Francisco, CA, US",
+        "salary": "$60K - $100K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/contrario/jobs/ShQCYs6-talent-operator-x3"
+      },
+      {
+        "title": "Growth Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$3K - $5K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/contrario/jobs/ZU0Fqe5-growth-intern"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US / Palo Alto, CA, US",
+        "salary": "$130K - $200K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/contrario/jobs/UXt8I3L-founding-engineer"
+      },
+      {
+        "title": "Founding Operations",
+        "location": "San Francisco, CA, US / Palo Alto, CA, US",
+        "salary": "$100K - $165K",
+        "equity": "0.30% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/contrario/jobs/1V6XE2o-founding-operations"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:16.600Z"
+  },
+  {
+    "id": 30217,
+    "name": "Rocketable",
+    "slug": "rocketable",
+    "url": "https://www.ycombinator.com/companies/rocketable",
+    "jobs": [
+      {
+        "title": "Founding Engineer - Automation Platform",
+        "location": "San Francisco, CA, US / San Rafael, CA, US",
+        "salary": "$200K - $250K",
+        "equity": "1.00% - 4.00%",
+        "url": "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:19.735Z"
+  },
+  {
+    "id": 30218,
+    "name": "Toothy AI",
+    "slug": "toothy-ai",
+    "url": "https://www.ycombinator.com/companies/toothy-ai",
+    "jobs": [
+      {
+        "title": "Founding Lead Engineer",
+        "location": "San Francisco, CA, US / Chicago, IL, US / Remote (US)",
+        "salary": "$100K - $200K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/toothy-ai/jobs/W8Hxj4B-founding-lead-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:22.864Z"
+  },
+  {
+    "id": 30223,
+    "name": "a0.dev",
+    "slug": "a0-dev",
+    "url": "https://www.ycombinator.com/companies/a0-dev",
+    "jobs": [
+      {
+        "title": "Software Engineering Intern [Summer 2026]",
+        "location": "San Francisco, CA, US",
+        "salary": "$72K - $108K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/a0-dev/jobs/aIaKpsU-software-engineering-intern-summer-2026"
+      },
+      {
+        "title": "Founding Engineer [Full Stack]",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $240K",
+        "equity": "0.75% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/a0-dev/jobs/gbobOaf-founding-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:25.966Z"
+  },
+  {
+    "id": 30224,
+    "name": "Maritime Fusion",
+    "slug": "maritime-fusion",
+    "url": "https://www.ycombinator.com/companies/maritime-fusion",
+    "jobs": [
+      {
+        "title": "Business Development & Strategic Partnerships Lead",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/maritime-fusion/jobs/fpZ2pbI-business-development-strategic-partnerships-lead"
+      },
+      {
+        "title": "R&D Technician",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $160K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/maritime-fusion/jobs/vbJGLSZ-r-d-technician"
+      },
+      {
+        "title": "Member of Technical Staff - Plasma Physics",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/maritime-fusion/jobs/sX8ipt6-member-of-technical-staff-plasma-physics"
+      },
+      {
+        "title": "Member of Technical Staff - R&D Engineering",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/maritime-fusion/jobs/jF7a5Wc-member-of-technical-staff-r-d-engineering"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:28.642Z"
+  },
+  {
+    "id": 30227,
+    "name": "Caseflood.ai",
+    "slug": "caseflood-ai",
+    "url": "https://www.ycombinator.com/companies/caseflood-ai",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$135K - $250K",
+        "equity": "0.25% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/caseflood-ai/jobs/EG01fPf-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:31.802Z"
+  },
+  {
+    "id": 30228,
+    "name": "Weave",
+    "slug": "weave-3",
+    "url": "https://www.ycombinator.com/companies/weave-3",
+    "jobs": [
+      {
+        "title": "Founding ML Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $200K",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/weave-3/jobs/ZPyeXzM-founding-ml-engineer"
+      },
+      {
+        "title": "Forward Deployed Engineering Manager",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $225K",
+        "equity": "0.05% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/weave-3/jobs/d74yywq-forward-deployed-engineering-manager"
+      },
+      {
+        "title": "Founding Product Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $200K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/weave-3/jobs/7fPxYmA-founding-product-engineer"
+      },
+      {
+        "title": "Founding AI Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $200K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:35.214Z"
+  },
+  {
+    "id": 30230,
+    "name": "SalesPatriot",
+    "slug": "salespatriot",
+    "url": "https://www.ycombinator.com/companies/salespatriot",
+    "jobs": [
+      {
+        "title": "Account Executive – Marine Vertical",
+        "location": "San Fransisco",
+        "salary": "$65K - $1M",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/salespatriot/jobs/OB8oXnW-account-executive-marine-vertical"
+      },
+      {
+        "title": "Deployment Strategist (USA)",
+        "location": "San Fransisco",
+        "salary": "$100K - $150K",
+        "equity": "0.10% - 0.47%",
+        "url": "https://www.ycombinator.com/companies/salespatriot/jobs/MRV4dBE-deployment-strategist-usa"
+      },
+      {
+        "title": "Full Stack Engineer (SF)",
+        "location": "San Fransisco",
+        "salary": "$120K - $160K",
+        "equity": "0.05% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/salespatriot/jobs/IXbiyHn-full-stack-engineer-sf"
+      },
+      {
+        "title": "Full Stack Engineer (Warsaw)",
+        "location": "Warsaw Office",
+        "salary": "$50K - $100K",
+        "equity": "0.02% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/salespatriot/jobs/qq3lU2s-full-stack-engineer-warsaw"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:38.459Z"
+  },
+  {
+    "id": 30232,
+    "name": "careCycle",
+    "slug": "carecycle",
+    "url": "https://www.ycombinator.com/companies/carecycle",
+    "jobs": [
+      {
+        "title": "Founding Forward Deployed Engineer (Vertical Voice AI)",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $180K",
+        "equity": "1.00% - 2.50%",
+        "url": "https://www.ycombinator.com/companies/carecycle/jobs/D0vZ58T-founding-forward-deployed-engineer-vertical-voice-ai"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:41.613Z"
+  },
+  {
+    "id": 30234,
+    "name": "Adam",
+    "slug": "adam",
+    "url": "https://www.ycombinator.com/companies/adam",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $250K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer"
+      },
+      {
+        "title": "Founding Research Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $250K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/adam/jobs/olALosA-founding-research-engineer"
+      },
+      {
+        "title": "Residency (Summer 2026)",
+        "location": "San Francisco, CA, US",
+        "salary": "$6.7K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/adam/jobs/VOGhQkx-residency-summer-2026"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:44.847Z"
+  },
+  {
+    "id": 30241,
+    "name": "ZeroEntropy",
+    "slug": "zeroentropy",
+    "url": "https://www.ycombinator.com/companies/zeroentropy",
+    "jobs": [
+      {
+        "title": "Machine Learning Engineering Intern (Summer 2025)",
+        "location": "San Francisco, CA, US",
+        "salary": "$5K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zeroentropy/jobs/jXnB5eE-machine-learning-engineering-intern-summer-2025"
+      },
+      {
+        "title": "Founding AI Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/zeroentropy/jobs/AJYsk2C-founding-ai-engineer"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$130K - $200K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/zeroentropy/jobs/L5MndTJ-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:47.999Z"
+  },
+  {
+    "id": 30244,
+    "name": "Mosaic",
+    "slug": "mosaic-2",
+    "url": "https://www.ycombinator.com/companies/mosaic-2",
+    "jobs": [
+      {
+        "title": "Founding Product Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$110K - $140K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/mosaic-2/jobs/KyED8hb-founding-product-engineer"
+      },
+      {
+        "title": "Full Stack Engineering Internship (Winter / Summer 2026)",
+        "location": "San Francisco, CA, US",
+        "salary": "$5K - $8.5K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mosaic-2/jobs/xyE4cJw-full-stack-engineering-internship-winter-summer-2026"
+      },
+      {
+        "title": "Growth & Marketing Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$5K - $8K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-growth-marketing-intern"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:51.126Z"
+  },
+  {
+    "id": 30252,
+    "name": "Cuckoo Labs",
+    "slug": "cuckoo-labs",
+    "url": "https://www.ycombinator.com/companies/cuckoo-labs",
+    "jobs": [
+      {
+        "title": "Full Stack Engineering Internship (Summer 2026)",
+        "location": "Any",
+        "salary": "$5K - $8K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/cuckoo-labs/jobs/aL45Uy5-full-stack-engineering-internship-summer-2026"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:54.224Z"
+  },
+  {
+    "id": 30254,
+    "name": "hud",
+    "slug": "hud",
+    "url": "https://www.ycombinator.com/companies/hud",
+    "jobs": [
+      {
+        "title": "Systems Engineer, Infrastructure",
+        "location": "San Francisco / SG / Remote",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/hud/jobs/dwFk6qt-systems-engineer-infrastructure"
+      },
+      {
+        "title": "Research Engineer, Agentic AI Evals",
+        "location": "San Francisco / SG / Remote",
+        "salary": "$75K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/hud/jobs/L9uENu6-research-engineer-agentic-ai-evals"
+      },
+      {
+        "title": "Founding Member of Technical Staff",
+        "location": "San Francisco, CA, US / SG",
+        "salary": "$100K - $200K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/hud/jobs/TpBkoiI-founding-member-of-technical-staff"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:56.447Z"
+  },
+  {
+    "id": 30255,
+    "name": "Olive",
+    "slug": "olive",
+    "url": "https://www.ycombinator.com/companies/olive",
+    "jobs": [
+      {
+        "title": "Software Engineering Intern",
+        "location": "San Francisco, CA / Remote (US)",
+        "salary": "$15K - $20K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/olive/jobs/jxqs5Wy-software-engineering-intern"
+      },
+      {
+        "title": "Founding Software Engineer",
+        "location": "San Francisco, CA",
+        "salary": "$130K - $150K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/olive/jobs/bKLtAX0-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:31:59.600Z"
+  },
+  {
+    "id": 30256,
+    "name": "PAX Markets",
+    "slug": "pax-markets",
+    "url": "https://www.ycombinator.com/companies/pax-markets",
+    "jobs": [
+      {
+        "title": "Founding Principal Hardware Engineer",
+        "location": "Redwood City, CA, US",
+        "salary": "$200K - $225K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/pax-markets/jobs/qv4p3Al-founding-principal-hardware-engineer"
+      },
+      {
+        "title": "Founding Software Engineer",
+        "location": "Redwood City, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.25% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/pax-markets/jobs/gyUxpoz-founding-software-engineer"
+      },
+      {
+        "title": "Founding Hardware Engineer",
+        "location": "Redwood City, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.25% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/pax-markets/jobs/uzbhpCT-founding-hardware-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:02.128Z"
+  },
+  {
+    "id": 30257,
+    "name": "Pave Robotics",
+    "slug": "pave-robotics",
+    "url": "https://www.ycombinator.com/companies/pave-robotics",
+    "jobs": [
+      {
+        "title": "Robotics Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $140K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/pave-robotics/jobs/DDB4DVI-robotics-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:05.137Z"
+  },
+  {
+    "id": 30258,
+    "name": "Gale",
+    "slug": "gale",
+    "url": "https://www.ycombinator.com/companies/gale",
+    "jobs": [
+      {
+        "title": "Product Engineer",
+        "location": "CA / US / Remote (CA; US)",
+        "salary": "$100K - $120K CAD",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/gale/jobs/duWGED6-product-engineer"
+      },
+      {
+        "title": "Senior Immigration Attorney",
+        "location": "Remote",
+        "salary": "$150K - $250K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/gale/jobs/n3hGsS6-senior-immigration-attorney"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:07.657Z"
+  },
+  {
+    "id": 30260,
+    "name": "Macadamia",
+    "slug": "macadamia",
+    "url": "https://www.ycombinator.com/companies/macadamia",
+    "jobs": [
+      {
+        "title": "Founding GTM Lead",
+        "location": "Ghent, Flanders, BE / Remote",
+        "salary": "$60K - $100K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/macadamia/jobs/0FN5u8j-founding-gtm-lead"
+      },
+      {
+        "title": "Founding Engineer (Full-Stack)",
+        "location": "San Francisco, CA, US / Ghent, Flanders, BE",
+        "salary": "$80K - $160K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/macadamia/jobs/JhBLKe5-founding-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:10.798Z"
+  },
+  {
+    "id": 30261,
+    "name": "Lucid",
+    "slug": "lucid",
+    "url": "https://www.ycombinator.com/companies/lucid",
+    "jobs": [
+      {
+        "title": "Member of Technical Staff",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/lucid/jobs/j3REzcP-member-of-technical-staff"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:13.897Z"
+  },
+  {
+    "id": 30263,
+    "name": "Bindwell",
+    "slug": "bindwell",
+    "url": "https://www.ycombinator.com/companies/bindwell",
+    "jobs": [
+      {
+        "title": "Founding Biochemist-Engineer",
+        "location": "San Francisco, CA, US / San Carlos, CA, US",
+        "salary": "$200K - $250K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/bindwell/jobs/6UXaecD-founding-biochemist-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:17.001Z"
+  },
+  {
+    "id": 30268,
+    "name": "AthenaHQ",
+    "slug": "athenahq",
+    "url": "https://www.ycombinator.com/companies/athenahq",
+    "jobs": [
+      {
+        "title": "Backend Engineer",
+        "location": "SF In-Person",
+        "salary": "$140K - $220K",
+        "equity": "0.40% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/athenahq/jobs/DeDrkYN-backend-engineer"
+      },
+      {
+        "title": "Founding Growth Marketer",
+        "location": "SF In-Person",
+        "salary": "$140K - $250K",
+        "equity": "0.10% - 0.40%",
+        "url": "https://www.ycombinator.com/companies/athenahq/jobs/UPOfMx3-founding-growth-marketer"
+      },
+      {
+        "title": "Deployment Strategist",
+        "location": "SF In-Person",
+        "salary": "$110K - $160K",
+        "equity": "0.10% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/athenahq/jobs/ZKeJftZ-deployment-strategist"
+      },
+      {
+        "title": "Product Engineer",
+        "location": "SF In-Person",
+        "salary": "$140K - $200K",
+        "equity": "0.40% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/athenahq/jobs/EAoJcox-product-engineer"
+      },
+      {
+        "title": "Account Executive",
+        "location": "San Francisco, CA, US",
+        "salary": "$80K - $300K",
+        "equity": "0.20% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/athenahq/jobs/XkSGIvh-account-executive"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:19.995Z"
+  },
+  {
+    "id": 30274,
+    "name": "Trata",
+    "slug": "trata",
+    "url": "https://www.ycombinator.com/companies/trata",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "New York, NY, US",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/trata/jobs/GAJAqoe-founding-engineer"
+      },
+      {
+        "title": "GTM Lead",
+        "location": "New York, NY, US",
+        "salary": "$130K - $160K",
+        "equity": "0.20% - 0.40%",
+        "url": "https://www.ycombinator.com/companies/trata/jobs/aRRRqsD-gtm-lead"
+      },
+      {
+        "title": "Founding Product Designer OR Design Engineer",
+        "location": "New York, NY, US",
+        "salary": "$125K - $200K",
+        "equity": "0.25% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/trata/jobs/P9F4RyV-founding-product-designer-or-design-engineer"
+      },
+      {
+        "title": "Business Operations Intern",
+        "location": "New York, NY, US / Remote (US)",
+        "salary": "$15 - $20 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/trata/jobs/zqigowe-business-operations-intern"
+      },
+      {
+        "title": "Operations Lead",
+        "location": "New York, NY, US",
+        "salary": "$130K - $150K",
+        "equity": "0.50% - 0.60%",
+        "url": "https://www.ycombinator.com/companies/trata/jobs/bvXDjyN-operations-lead"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:23.287Z"
+  },
+  {
+    "id": 30275,
+    "name": "Solidroad",
+    "slug": "solidroad",
+    "url": "https://www.ycombinator.com/companies/solidroad",
+    "jobs": [
+      {
+        "title": "Senior Product Designer",
+        "location": "San Francisco",
+        "salary": "$210K - $260K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/solidroad/jobs/E6mexoO-senior-product-designer"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco",
+        "salary": "$170 - $220",
+        "equity": "0.30% - 0.49%",
+        "url": "https://www.ycombinator.com/companies/solidroad/jobs/GPFMm65-software-engineer"
+      },
+      {
+        "title": "Senior Product Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$200K - $250K",
+        "equity": "0.40% - 0.60%",
+        "url": "https://www.ycombinator.com/companies/solidroad/jobs/2b4DWxs-senior-product-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:25.975Z"
+  },
+  {
+    "id": 30281,
+    "name": "Waypoint Transit",
+    "slug": "waypoint-transit",
+    "url": "https://www.ycombinator.com/companies/waypoint-transit",
+    "jobs": [
+      {
+        "title": "Software Engineering Intern (Summer 2026)",
+        "location": "San Francisco, CA, US",
+        "salary": "$6K - $8K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/waypoint-transit/jobs/husLjvh-software-engineering-intern-summer-2026"
+      },
+      {
+        "title": "Founding Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $170K",
+        "equity": "0.50% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/waypoint-transit/jobs/D30M8ml-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:29.091Z"
+  },
+  {
+    "id": 30283,
+    "name": "Confident AI",
+    "slug": "confident-ai",
+    "url": "https://www.ycombinator.com/companies/confident-ai",
+    "jobs": [
+      {
+        "title": "Founding Fullstack (Backend) Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$100K - $200K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/confident-ai/jobs/QJj7yvb-founding-fullstack-backend-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:32.193Z"
+  },
+  {
+    "id": 30285,
+    "name": "Karsa",
+    "slug": "karsa",
+    "url": "https://www.ycombinator.com/companies/karsa",
+    "jobs": [
+      {
+        "title": "Founding Engineer (Backend)",
+        "location": "New York, NY, US / San Francisco, CA, US",
+        "salary": "$130K - $200K",
+        "equity": "0.75% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/karsa/jobs/o9iMUSx-founding-engineer-backend"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:35.313Z"
+  },
+  {
+    "id": 30286,
+    "name": "Nitrode",
+    "slug": "nitrode",
+    "url": "https://www.ycombinator.com/companies/nitrode",
+    "jobs": [
+      {
+        "title": "Founding Artificial Intelligence Engineer",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$100K - $160K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/nitrode/jobs/tXFJ8yd-founding-artificial-intelligence-engineer"
+      },
+      {
+        "title": "Founding Engineer (Full-stack C++ / Game Engine)",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $160K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/nitrode/jobs/iLthT1c-founding-engineer-full-stack-c-game-engine"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:37.554Z"
+  },
+  {
+    "id": 30288,
+    "name": "Harper",
+    "slug": "harper",
+    "url": "https://www.ycombinator.com/companies/harper",
+    "jobs": [
+      {
+        "title": "Go-to-Market Growth Lead",
+        "location": "San Francisco",
+        "salary": "$150K - $200K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/niC904V-go-to-market-growth-lead"
+      },
+      {
+        "title": "Future AI Founder",
+        "location": "San Francisco",
+        "salary": "$100K - $140K",
+        "equity": "0.01% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/TVcyem0-future-ai-founder"
+      },
+      {
+        "title": "Senior Member of Technical Staff",
+        "location": "San Francisco",
+        "salary": "$160K - $230K",
+        "equity": "0.01% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/TszfBKi-senior-member-of-technical-staff"
+      },
+      {
+        "title": "Member of Technical Staff, Forward Deployed AI Engineer",
+        "location": "San Francisco",
+        "salary": "$100K - $200K",
+        "equity": "0.01% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/VtkJGUL-member-of-technical-staff-forward-deployed-ai-engineer"
+      },
+      {
+        "title": "Member of Technical Staff, AI Engineer",
+        "location": "San Francisco",
+        "salary": "$140K - $200K",
+        "equity": "0.01% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/yNYejWx-member-of-technical-staff-ai-engineer"
+      },
+      {
+        "title": "Member of Technical Staff, Data / Context Engineer",
+        "location": "San Francisco",
+        "salary": "$140K - $200K",
+        "equity": "0.01% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/epS9XGW-member-of-technical-staff-data-context-engineer"
+      },
+      {
+        "title": "Future AI Founder - Data",
+        "location": "San Francisco",
+        "salary": "$100K - $140K",
+        "equity": "0.01% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/W1jTOIN-future-ai-founder-data"
+      },
+      {
+        "title": "Member of Technical Staff, AI Product Manager",
+        "location": "San Francisco, CA, US",
+        "salary": "$110K - $150K",
+        "equity": "0.01% - 0.05%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/gbME04r-member-of-technical-staff-ai-product-manager"
+      },
+      {
+        "title": "AI Engineer - Voice",
+        "location": "San Francisco, CA, US",
+        "salary": "$170 - $275",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/qbh7cFb-ai-engineer-voice"
+      },
+      {
+        "title": "Growth Marketer",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $140K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/harper/jobs/dPvd1Xd-growth-marketer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:40.889Z"
+  },
+  {
+    "id": 30292,
+    "name": "Mesh",
+    "slug": "mesh-2",
+    "url": "https://www.ycombinator.com/companies/mesh-2",
+    "jobs": [
+      {
+        "title": "AI Engineer Intern (Summer 2026)",
+        "location": "San Francisco, CA, US",
+        "salary": "$6 - $8 / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mesh-2/jobs/84BevmU-ai-engineer-intern-summer-2026"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $150K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/mesh-2/jobs/iYW1FkK-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:43.669Z"
+  },
+  {
+    "id": 30293,
+    "name": "Orbital Operations",
+    "slug": "orbital-operations",
+    "url": "https://www.ycombinator.com/companies/orbital-operations",
+    "jobs": [
+      {
+        "title": "Structures Design Engineer",
+        "location": "Long Beach, CA, US / Remote (US)",
+        "salary": "$100K - $150K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/orbital-operations/jobs/DAv3sTb-structures-design-engineer"
+      },
+      {
+        "title": "Fluids Design Engineer - Heat Exchangers",
+        "location": "Long Beach, CA, US / Remote (US)",
+        "salary": "$100K - $175K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/orbital-operations/jobs/xVWtAj3-fluids-design-engineer-heat-exchangers"
+      },
+      {
+        "title": "Turbomachinery Design Engineer",
+        "location": "Long Beach, CA, US / Remote (US)",
+        "salary": "$100K - $175K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/orbital-operations/jobs/myA1cdk-turbomachinery-design-engineer"
+      },
+      {
+        "title": "Combustion Devices Engineer",
+        "location": "Long Beach, CA, US / Remote (US)",
+        "salary": "$100K - $175K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/orbital-operations/jobs/S5r4Vvl-combustion-devices-engineer"
+      },
+      {
+        "title": "Rockstar",
+        "location": "Long Beach, CA, US / Remote (US)",
+        "salary": "$100K - $175K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/orbital-operations/jobs/pXdVJnm-rockstar"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:46.995Z"
+  },
+  {
+    "id": 30295,
+    "name": "Infinite",
+    "slug": "infinite",
+    "url": "https://www.ycombinator.com/companies/infinite",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$108K - $230K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/infinite/jobs/LqkMhIs-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:50.239Z"
+  },
+  {
+    "id": 30296,
+    "name": "Peppr AI",
+    "slug": "peppr-ai",
+    "url": "https://www.ycombinator.com/companies/peppr-ai",
+    "jobs": [
+      {
+        "title": "Frontend/Full-Stack Engineer",
+        "location": "Cupertino, CA, US / San Francisco, CA, US",
+        "salary": "$100K - $150K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/peppr-ai/jobs/LV9cj5B-frontend-full-stack-engineer"
+      },
+      {
+        "title": "Backend Engineer",
+        "location": "Cupertino, CA, US / San Francisco, CA, US",
+        "salary": "$100K - $150K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/peppr-ai/jobs/G5EZKYI-backend-engineer"
+      },
+      {
+        "title": "AI Developer / AI Engineer",
+        "location": "Cupertino, CA, US / San Francisco, CA, US",
+        "salary": "$100K - $150K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/peppr-ai/jobs/ZJhISZP-ai-developer-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:53.010Z"
+  },
+  {
+    "id": 30301,
+    "name": "FuseAI",
+    "slug": "fuseai",
+    "url": "https://www.ycombinator.com/companies/fuseai",
+    "jobs": [
+      {
+        "title": "Growth & Operations Summer Associate",
+        "location": "San Francisco, CA, US",
+        "salary": "$4.25K - $8.5K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/fuseai/jobs/8ulCBUf-growth-operations-summer-associate"
+      },
+      {
+        "title": "Senior Frontend Engineer",
+        "location": "Remote",
+        "salary": "$30K - $80K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/fuseai/jobs/AS9hfmv-senior-frontend-engineer"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "San Francisco, CA, US / Remote (IN; BR; AR)",
+        "salary": "$30K - $160K",
+        "equity": "0.25% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/fuseai/jobs/hbFIiUp-senior-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:56.149Z"
+  },
+  {
+    "id": 30302,
+    "name": "Misprint",
+    "slug": "misprint",
+    "url": "https://www.ycombinator.com/companies/misprint",
+    "jobs": [
+      {
+        "title": "Lead Systems & Product Engineer (Founding Software Engineer) — Own the Pokemon Marketplace",
+        "location": "New York, NY, US",
+        "salary": "$140K - $200K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/misprint/jobs/MqeK77M-lead-systems-product-engineer-founding-software-engineer-own-the-pokemon-marketplace"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:32:58.309Z"
+  },
+  {
+    "id": 30303,
+    "name": "AfterQuery",
+    "slug": "afterquery",
+    "url": "https://www.ycombinator.com/companies/afterquery",
+    "jobs": [
+      {
+        "title": "Full Stack Engineer (LatAM)",
+        "location": "San Francisco, CA, US / Remote (BR; CL; MX; AR; CO; PE)",
+        "salary": "$7K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/afterquery/jobs/PohDLWh-full-stack-engineer-latam"
+      },
+      {
+        "title": "Founding Full-Stack Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $250K",
+        "equity": "0.20% - 0.70%",
+        "url": "https://www.ycombinator.com/companies/afterquery/jobs/7tsT0ks-founding-full-stack-engineer"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$5K - $7.5K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/afterquery/jobs/6a7szXP-software-engineer-intern"
+      },
+      {
+        "title": "Strategy and Operations Intern (Undergrad)",
+        "location": "San Francisco, CA, US",
+        "salary": "$62.4K - $125K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/afterquery/jobs/4q3X7AW-strategy-and-operations-intern-undergrad"
+      },
+      {
+        "title": "ML Research Intern",
+        "location": "San Francisco, CA, US / Remote (US; CA; GB)",
+        "salary": "$5.2K - $10.4K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/afterquery/jobs/37BHIHC-ml-research-intern"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:01.562Z"
+  },
+  {
+    "id": 30305,
+    "name": "Forge Automation",
+    "slug": "forge-automation",
+    "url": "https://www.ycombinator.com/companies/forge-automation",
+    "jobs": [
+      {
+        "title": "Manufacturing Engineer and Operations",
+        "location": "Toronto, ON, CA / Toronto, Ontario, CA",
+        "salary": "$80K - $120K CAD",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/forge-automation/jobs/GKjeJtj-manufacturing-engineer-and-operations"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:03.831Z"
+  },
+  {
+    "id": 30307,
+    "name": "Archon",
+    "slug": "archon",
+    "url": "https://www.ycombinator.com/companies/archon",
+    "jobs": [
+      {
+        "title": "Software Engineer, Full Stack",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $170K",
+        "equity": "0.25% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/archon/jobs/R6DSmps-software-engineer-full-stack"
+      },
+      {
+        "title": "Software Engineer, Security",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $170K",
+        "equity": "0.25% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/archon/jobs/n9cvKhD-software-engineer-security"
+      },
+      {
+        "title": "Founding Engineer, Infrastructure",
+        "location": "San Francisco, CA, US",
+        "salary": "$130K - $210K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/archon/jobs/iSDasJM-founding-engineer-infrastructure"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:06.946Z"
+  },
+  {
+    "id": 30315,
+    "name": "Optifye.ai",
+    "slug": "optifye-ai",
+    "url": "https://www.ycombinator.com/companies/optifye-ai",
+    "jobs": [
+      {
+        "title": "Founding Engineer - AI/ML",
+        "location": "Gurugram, HR, IN / Gurugram, Haryana, IN",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/optifye-ai/jobs/NQxhJPr-founding-engineer-ai-ml"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "New Delhi, DL, IN / New Delhi, Delhi, IN / Gurugram, HR, IN / Gurugram, Haryana, IN",
+        "salary": "",
+        "equity": "0.10% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/optifye-ai/jobs/sDfGXkK-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:09.624Z"
+  },
+  {
+    "id": 30316,
+    "name": "Reditus Space",
+    "slug": "reditus-space",
+    "url": "https://www.ycombinator.com/companies/reditus-space",
+    "jobs": [
+      {
+        "title": "Materials Engineering - Summer 2026 Intern",
+        "location": "Atlanta, GA, US",
+        "salary": "$20 - $40",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/NFBP9dr-materials-engineering-summer-2026-intern"
+      },
+      {
+        "title": "Materials Engineering - Spring 2026 Intern",
+        "location": "Atlanta, GA, US",
+        "salary": "$20 - $40",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/rFMQ3dH-materials-engineering-spring-2026-intern"
+      },
+      {
+        "title": "Manufacturing - Summer 2026 Intern",
+        "location": "Atlanta, GA, US",
+        "salary": "$20 - $40",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/s8Od6b2-manufacturing-summer-2026-intern"
+      },
+      {
+        "title": "Manufacturing - Spring 2026 Intern",
+        "location": "Atlanta, GA, US",
+        "salary": "$20 - $40",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/kk6PAgq-manufacturing-spring-2026-intern"
+      },
+      {
+        "title": "Electrical Engineering Summer 2026 Intern",
+        "location": "Atlanta, GA, US",
+        "salary": "$20 - $40",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/HtUHbM0-electrical-engineering-summer-2026-intern"
+      },
+      {
+        "title": "Electrical Engineering Spring 2026 Intern",
+        "location": "Atlanta, GA, US",
+        "salary": "$20 - $40",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/wBHTmbi-electrical-engineering-spring-2026-intern"
+      },
+      {
+        "title": "Marketing & PR Internship",
+        "location": "Atlanta, GA, US",
+        "salary": "$1K - $2K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/3ILkBs7-marketing-pr-internship"
+      },
+      {
+        "title": "Flight Software Engineering Summer 2026 Intern",
+        "location": "Atlanta, GA, US",
+        "salary": "$3.5K - $7K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/oIFq8Qp-flight-software-engineering-summer-2026-intern"
+      },
+      {
+        "title": "Business Development / Mission Management Summer Internship",
+        "location": "Atlanta, GA, US / Los Angeles, CA, US",
+        "salary": "$3.5K - $7K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/rpCIxMt-business-development-mission-management-summer-internship"
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "location": "Atlanta, GA, US",
+        "salary": "$130K - $175K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/z9X9wJa-senior-mechanical-engineer"
+      },
+      {
+        "title": "Structures Engineering Summer Internship",
+        "location": "Atlanta, GA, US",
+        "salary": "$3.5K - $7K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/Yf8336I-structures-engineering-summer-internship"
+      },
+      {
+        "title": "Thermal Structures Engineer",
+        "location": "Atlanta, GA, US",
+        "salary": "$110K - $145K",
+        "equity": "0.10% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/zVwGCvw-thermal-structures-engineer"
+      },
+      {
+        "title": "Avionics Engineer",
+        "location": "Atlanta, GA, US",
+        "salary": "$110K - $145K",
+        "equity": "0.10% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/reditus-space/jobs/2Ag3TbE-avionics-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:13.222Z"
+  },
+  {
+    "id": 30320,
+    "name": "Proception Inc",
+    "slug": "proception-inc",
+    "url": "https://www.ycombinator.com/companies/proception-inc",
+    "jobs": [
+      {
+        "title": "Firmware Engineer - Sensing & Actuation",
+        "location": "Palo Alto, CA, US",
+        "salary": "$100K - $180K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/proception-inc/jobs/r7Rsq6Q-firmware-engineer-sensing-actuation"
+      },
+      {
+        "title": "Mechanical System Engineer – Humanoid Robotics",
+        "location": "Palo Alto, CA, US",
+        "salary": "$100K - $200K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/proception-inc/jobs/ycURORZ-mechanical-system-engineer-humanoid-robotics"
+      },
+      {
+        "title": "Robotics Software Engineering - Real-Time Control & Embedded Systems",
+        "location": "Palo Alto, CA, US",
+        "salary": "$100K - $200K",
+        "equity": "0.40% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/proception-inc/jobs/3Y8jvJh-robotics-software-engineering-real-time-control-embedded-systems"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:16.385Z"
+  },
+  {
+    "id": 30321,
+    "name": "Woz",
+    "slug": "woz",
+    "url": "https://www.ycombinator.com/companies/woz",
+    "jobs": [
+      {
+        "title": "Founding Woz Experts (freelance)",
+        "location": "Remote (US)",
+        "salary": "$50 - $150 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/woz/jobs/jn2oBHa-founding-woz-experts-freelance"
+      },
+      {
+        "title": "Founder in Residence at Woz (San Francisco)",
+        "location": "San Francisco, CA, US",
+        "salary": "$80K - $100K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/woz/jobs/Nsh4F78-founder-in-residence-at-woz-san-francisco"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.10% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/woz/jobs/E7Uj7bi-senior-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:19.526Z"
+  },
+  {
+    "id": 30324,
+    "name": "Rebolt",
+    "slug": "rebolt",
+    "url": "https://www.ycombinator.com/companies/rebolt",
+    "jobs": [
+      {
+        "title": "Founding Backend Software Engineer",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$60K - $180K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/rebolt/jobs/f0qBn0A-founding-backend-software-engineer"
+      },
+      {
+        "title": "Founding AI Engineer",
+        "location": "San Francisco, CA, US / Remote (Madrid, MD, ES; Madrid, Community of Madrid, ES; Barcelona, CT, ES; Barcelona, Catalonia, ES; London, England, GB)",
+        "salary": "$60K - $180K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/rebolt/jobs/siEnV0n-founding-ai-engineer"
+      },
+      {
+        "title": "Founding Forward Deployed Engineer",
+        "location": "San Francisco, CA, US / Remote (London, England, GB; Madrid, MD, ES; Madrid, Community of Madrid, ES; Barcelona, CT, ES; Barcelona, Catalonia, ES)",
+        "salary": "$60K - $180K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/rebolt/jobs/G4aLyQv-founding-forward-deployed-engineer"
+      },
+      {
+        "title": "Founding Frontend/Design Engineer",
+        "location": "San Francisco, CA, US / Remote (Barcelona, CT, ES; Madrid, MD, ES; London, England, GB)",
+        "salary": "$60K - $180K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/rebolt/jobs/JCRcV6h-founding-frontend-design-engineer"
+      },
+      {
+        "title": "Founding Growth Engineer",
+        "location": "San Francisco, CA, US / Remote (Madrid, MD, ES; London, England, GB)",
+        "salary": "$60K - $180K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/rebolt/jobs/gOEVDd8-founding-growth-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:22.760Z"
+  },
+  {
+    "id": 30328,
+    "name": "Dalus",
+    "slug": "dalus",
+    "url": "https://www.ycombinator.com/companies/dalus",
+    "jobs": [
+      {
+        "title": "Software Engineering Internship",
+        "location": "San Francisco, CA, US",
+        "salary": "$4.2K - $6.7K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/dalus/jobs/a9z5luT-software-engineering-internship"
+      },
+      {
+        "title": "Founding Software Engineer #1",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $200K",
+        "equity": "0.50% - 2.50%",
+        "url": "https://www.ycombinator.com/companies/dalus/jobs/oFjdHjD-founding-software-engineer-1"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:25.308Z"
+  },
+  {
+    "id": 30336,
+    "name": "Atlog",
+    "slug": "atlog",
+    "url": "https://www.ycombinator.com/companies/atlog",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "New York, NY, US",
+        "salary": "$100K - $160K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/atlog/jobs/G3dYJIW-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:28.463Z"
+  },
+  {
+    "id": 30337,
+    "name": "Paratus Health",
+    "slug": "paratus-health",
+    "url": "https://www.ycombinator.com/companies/paratus-health",
+    "jobs": [
+      {
+        "title": "Forward Deployed Engineer",
+        "location": "Menlo Park, CA, US",
+        "salary": "$140K - $180K",
+        "equity": "0.60% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/paratus-health/jobs/lvkvIu2-forward-deployed-engineer"
+      },
+      {
+        "title": "Founding Engineer #2",
+        "location": "Menlo Park, CA, US",
+        "salary": "$100K - $200K",
+        "equity": "0.80% - 1.40%",
+        "url": "https://www.ycombinator.com/companies/paratus-health/jobs/DoE5rYm-founding-engineer-2"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:31.603Z"
+  },
+  {
+    "id": 30339,
+    "name": "Ergo",
+    "slug": "ergo",
+    "url": "https://www.ycombinator.com/companies/ergo",
+    "jobs": [
+      {
+        "title": "Sales Development Representative",
+        "location": "San Francisco, CA, US",
+        "salary": "$85K - $105K",
+        "equity": "0.05% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/ergo/jobs/N4uRYHv-sales-development-representative"
+      },
+      {
+        "title": "Software Engineer - Backend",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $210K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/ergo/jobs/CMjMEi2-software-engineer-backend"
+      },
+      {
+        "title": "Operations",
+        "location": "San Francisco, CA, US",
+        "salary": "$80K - $160K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/ergo/jobs/wVOAvuS-operations"
+      },
+      {
+        "title": "Software Engineer - Fullstack",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $210K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/ergo/jobs/sjdRcRq-software-engineer-fullstack"
+      },
+      {
+        "title": "Growth",
+        "location": "San Francisco, CA, US",
+        "salary": "$90K - $150K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/ergo/jobs/7P40cic-growth"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:34.820Z"
+  },
+  {
+    "id": 30341,
+    "name": "Browser Use",
+    "slug": "browser-use",
+    "url": "https://www.ycombinator.com/companies/browser-use",
+    "jobs": [
+      {
+        "title": "Infra god",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 1.20%",
+        "url": "https://www.ycombinator.com/companies/browser-use/jobs/8BYM83A-infra-god"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$130K - $200K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/browser-use/jobs/jDXD9an-software-engineer"
+      },
+      {
+        "title": "Summer Software Engineering Intern (now and Summer 2026)",
+        "location": "San Francisco, CA, US",
+        "salary": "$6K - $16K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/browser-use/jobs/JwGWpEP-summer-software-engineering-intern-now-and-summer-2026"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:38.051Z"
+  },
+  {
+    "id": 30346,
+    "name": "Mercura",
+    "slug": "mercura",
+    "url": "https://www.ycombinator.com/companies/mercura",
+    "jobs": [
+      {
+        "title": "Full-Stack Engineer",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€90K - €200K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/nt5sqNX-full-stack-engineer"
+      },
+      {
+        "title": "AI Engineer",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€90K - €200K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/KqpN8kF-ai-engineer"
+      },
+      {
+        "title": "AI Engineering Intern",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€3K - €4K EUR / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/TLHwX1a-ai-engineering-intern"
+      },
+      {
+        "title": "Full-Stack Engineering Intern",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€3K - €4K EUR / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/mJk3tSG-full-stack-engineering-intern"
+      },
+      {
+        "title": "Operations Associate",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€80K - €120K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/xTg6fnD-operations-associate"
+      },
+      {
+        "title": "Talent Recruiter",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€70K - €100K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/kKbjITw-talent-recruiter"
+      },
+      {
+        "title": "Growth Associate",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€80K - €120K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/cqIcbwr-growth-associate"
+      },
+      {
+        "title": "Growth Associate Intern",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€2.5K - €4K EUR / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/7KDYJcX-growth-associate-intern"
+      },
+      {
+        "title": "(Senior) Business Development Representative (BDR)",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€50K - €100K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/eoMlh0g-senior-business-development-representative-bdr"
+      },
+      {
+        "title": "Product Designer (part-time)",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€70K - €100K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/bpbMriT-product-designer-part-time"
+      },
+      {
+        "title": "Account Executive (AE)",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€70K - €130K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/m1mGuHj-account-executive-ae"
+      },
+      {
+        "title": "Operations Associate Intern",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€2.5K - €4K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/Q6RFVG1-operations-associate-intern"
+      },
+      {
+        "title": "Customer Success Manager",
+        "location": "Munich, BY, DE / Munich, Bavaria, DE",
+        "salary": "€70K - €100K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mercura/jobs/ibgmooT-customer-success-manager"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:41.281Z"
+  },
+  {
+    "id": 30348,
+    "name": "SAMMY Labs",
+    "slug": "sammy-labs",
+    "url": "https://www.ycombinator.com/companies/sammy-labs",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "England, GB",
+        "salary": "£50K - £160K GBP",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/sammy-labs/jobs/gUpSF5h-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:44.361Z"
+  },
+  {
+    "id": 30351,
+    "name": "ThirdLayer",
+    "slug": "thirdlayer",
+    "url": "https://www.ycombinator.com/companies/thirdlayer",
+    "jobs": [
+      {
+        "title": "Summer 2026 Full-Stack Engineer Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$6K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/thirdlayer/jobs/xgLbSux-summer-2026-full-stack-engineer-intern"
+      },
+      {
+        "title": "2026 Summer AI/ML Engineer Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$6K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/thirdlayer/jobs/jgOpS9K-2026-summer-ai-ml-engineer-intern"
+      },
+      {
+        "title": "Full-Stack Engineer Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$5.2K - $10.4K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/thirdlayer/jobs/1ZzDdz8-full-stack-engineer-intern"
+      },
+      {
+        "title": "AI Engineer Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$30 - $60",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/thirdlayer/jobs/fysveVu-ai-engineer-intern"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$130K - $250K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/thirdlayer/jobs/qYNyl01-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:47.637Z"
+  },
+  {
+    "id": 30354,
+    "name": "Artifact",
+    "slug": "artifact-2",
+    "url": "https://www.ycombinator.com/companies/artifact-2",
+    "jobs": [
+      {
+        "title": "Software Engineer",
+        "location": "New York, NY, US",
+        "salary": "$95K - $140K",
+        "equity": "0.10% - 0.70%",
+        "url": "https://www.ycombinator.com/companies/artifact-2/jobs/7189rpl-software-engineer"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "New York, NY, US",
+        "salary": "$120K - $170K",
+        "equity": "0.30% - 1.20%",
+        "url": "https://www.ycombinator.com/companies/artifact-2/jobs/ws0535a-senior-software-engineer"
+      },
+      {
+        "title": "Forward-Deployed Software Engineer",
+        "location": "New York, NY, US",
+        "salary": "$120K - $170K",
+        "equity": "0.30% - 1.20%",
+        "url": "https://www.ycombinator.com/companies/artifact-2/jobs/8j2BXI0-forward-deployed-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:50.837Z"
+  },
+  {
+    "id": 30357,
+    "name": "Vantel",
+    "slug": "vantel",
+    "url": "https://www.ycombinator.com/companies/vantel",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "Stockholm, Stockholm County, SE",
+        "salary": "€50K - €80K EUR",
+        "equity": "1.00% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/vantel/jobs/7Xpx987-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:53.937Z"
+  },
+  {
+    "id": 30366,
+    "name": "Blaxel",
+    "slug": "blaxel",
+    "url": "https://www.ycombinator.com/companies/blaxel",
+    "jobs": [
+      {
+        "title": "Developer Experience Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$145K - $225K",
+        "equity": "0.04% - 0.08%",
+        "url": "https://www.ycombinator.com/companies/blaxel/jobs/SgoCDbk-developer-experience-engineer"
+      },
+      {
+        "title": "Founding Technical Growth Marketer",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $160K",
+        "equity": "0.10%",
+        "url": "https://www.ycombinator.com/companies/blaxel/jobs/B2ragE0-founding-technical-growth-marketer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:57.106Z"
+  },
+  {
+    "id": 30367,
+    "name": "QFEX",
+    "slug": "qfex",
+    "url": "https://www.ycombinator.com/companies/qfex",
+    "jobs": [
+      {
+        "title": "Lead UI/UX Designer",
+        "location": "London, England, GB",
+        "salary": "£40K - £120K GBP",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/qfex/jobs/YNrVHb0-lead-ui-ux-designer"
+      },
+      {
+        "title": "Founding Backend Engineer",
+        "location": "London, England, GB",
+        "salary": "$100K - $150K",
+        "equity": "0.10% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:33:59.691Z"
+  },
+  {
+    "id": 30384,
+    "name": "Chestnut",
+    "slug": "chestnut",
+    "url": "https://www.ycombinator.com/companies/chestnut",
+    "jobs": [
+      {
+        "title": "Growth (Part-Time)",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$100K - $200K",
+        "equity": "0.50% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/chestnut/jobs/KAbegCT-growth-part-time"
+      },
+      {
+        "title": "Growth Lead",
+        "location": "San Francisco, CA",
+        "salary": "$100K - $200K",
+        "equity": "0.50% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/chestnut/jobs/soTdSQG-growth-lead"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco, CA",
+        "salary": "$100K - $200K",
+        "equity": "0.50% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/chestnut/jobs/GGNEow8-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:02.677Z"
+  },
+  {
+    "id": 30403,
+    "name": "Aravolta",
+    "slug": "aravolta",
+    "url": "https://www.ycombinator.com/companies/aravolta",
+    "jobs": [
+      {
+        "title": "Intern",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$4K - $15K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/aravolta/jobs/xNqAuCd-intern"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$140K - $200K",
+        "equity": "0.40%",
+        "url": "https://www.ycombinator.com/companies/aravolta/jobs/5mXBTwN-senior-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:05.156Z"
+  },
+  {
+    "id": 30405,
+    "name": "nao Labs",
+    "slug": "nao-labs",
+    "url": "https://www.ycombinator.com/companies/nao-labs",
+    "jobs": [
+      {
+        "title": "Founding AI engineer",
+        "location": "3+ years",
+        "salary": "€70K - €90K EUR",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/nao-labs/jobs/qZS4FHQ-founding-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:08.388Z"
+  },
+  {
+    "id": 30411,
+    "name": "cubic",
+    "slug": "cubic",
+    "url": "https://www.ycombinator.com/companies/cubic",
+    "jobs": [
+      {
+        "title": "Founding Product Engineer @ cubic (YC X25)",
+        "location": "London, England, GB",
+        "salary": "£70K - £120K GBP",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/cubic/jobs/ZmenJR0-founding-product-engineer-cubic-yc-x25"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:10.865Z"
+  },
+  {
+    "id": 30412,
+    "name": "Bloom",
+    "slug": "bloom-4",
+    "url": "https://www.ycombinator.com/companies/bloom-4",
+    "jobs": [
+      {
+        "title": "Founding Systems & GTM Engineer",
+        "location": "Zürich, ZH, CH / Zürich, Zurich, CH",
+        "salary": "$70K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/bloom-4/jobs/jqNUNoX-founding-systems-gtm-engineer"
+      },
+      {
+        "title": "Founding Ops & Growth",
+        "location": "Zürich, ZH, CH",
+        "salary": "$70K - $150K",
+        "equity": "0.10% - 0.80%",
+        "url": "https://www.ycombinator.com/companies/bloom-4/jobs/iSusAXW-founding-ops-growth"
+      },
+      {
+        "title": "AI / Full-Stack Student Internship (Winter or Summer 2026)",
+        "location": "Zürich, ZH, CH",
+        "salary": "$6K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/bloom-4/jobs/VAkpMHI-ai-full-stack-student-internship-winter-or-summer-2026"
+      },
+      {
+        "title": "Founding Mobile Engineer",
+        "location": "Zürich, ZH, CH / Zürich, Zurich, CH / Remote (US)",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/bloom-4/jobs/v3PlXaz-founding-mobile-engineer"
+      },
+      {
+        "title": "Founding Creator / Head of Production",
+        "location": "Zürich, ZH, CH / Zürich, Zurich, CH",
+        "salary": "$65K - $150K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/bloom-4/jobs/RXwEe99-founding-creator-head-of-production"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "Zürich, ZH, CH / Remote",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/bloom-4/jobs/Tb6dGeS-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:14.160Z"
+  },
+  {
+    "id": 30415,
+    "name": "Avallon AI",
+    "slug": "avallon-ai",
+    "url": "https://www.ycombinator.com/companies/avallon-ai",
+    "jobs": [
+      {
+        "title": "Chief of Staff (GTM)",
+        "location": "New York, NY, US",
+        "salary": "$110K - $170K",
+        "equity": "0.20% - 1.10%",
+        "url": "https://www.ycombinator.com/companies/avallon-ai/jobs/egZ53Ti-chief-of-staff-gtm"
+      },
+      {
+        "title": "Founding Forward Deployed Engineer",
+        "location": "New York, NY, US",
+        "salary": "$120K - $200K",
+        "equity": "0.30% - 1.20%",
+        "url": "https://www.ycombinator.com/companies/avallon-ai/jobs/EKbBPmB-founding-forward-deployed-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:17.229Z"
+  },
+  {
+    "id": 30417,
+    "name": "GroundControl",
+    "slug": "groundcontrol",
+    "url": "https://www.ycombinator.com/companies/groundcontrol",
+    "jobs": [
+      {
+        "title": "Senior Software Engineer",
+        "location": "St. John's, NL, CA / St. John's, Newfoundland and Labrador, CA",
+        "salary": "$105K - $165K CAD",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/groundcontrol/jobs/09RKdoz-senior-software-engineer"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$170K - $230K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/groundcontrol/jobs/LeXLy6q-senior-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:20.386Z"
+  },
+  {
+    "id": 30419,
+    "name": "Minerva",
+    "slug": "minerva",
+    "url": "https://www.ycombinator.com/companies/minerva",
+    "jobs": [
+      {
+        "title": "Financial Controller – Multi-Client & CAS Operations",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$60K - $150K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/minerva/jobs/c7WyoeL-financial-controller-multi-client-cas-operations"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:23.576Z"
+  },
+  {
+    "id": 30420,
+    "name": "Cua",
+    "slug": "cua",
+    "url": "https://www.ycombinator.com/companies/cua",
+    "jobs": [
+      {
+        "title": "Founding Engineer, UX & Design",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $150K",
+        "equity": "0.50% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/cua/jobs/a6UbTvG-founding-engineer-ux-design"
+      },
+      {
+        "title": "Software Engineer, Infra & Agent Systems - Internship (Summer 2026)",
+        "location": "San Francisco, CA, US",
+        "salary": "$6.7K - $10K / monthly",
+        "equity": "0.50% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/cua/jobs/L6NQswA-software-engineer-infra-agent-systems-internship-summer-2026"
+      },
+      {
+        "title": "Founding Engineer, Research",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$100K - $130K",
+        "equity": "0.25% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/cua/jobs/MKcayvh-founding-engineer-research"
+      },
+      {
+        "title": "Research Intern (Summer 2026)",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$8K - $9.25K / monthly",
+        "equity": "0.25% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/cua/jobs/bSnxsAi-research-intern-summer-2026"
+      },
+      {
+        "title": "Founding Engineer, Infra & Agent Systems",
+        "location": "Madrid, MD, ES / Madrid, Community of Madrid, ES / Remote (ES)",
+        "salary": "$40K - $70K",
+        "equity": "0.25% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/cua/jobs/2lsp7oI-founding-engineer-infra-agent-systems"
+      },
+      {
+        "title": "Founding Engineer, Infra & Agent Systems",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $150K",
+        "equity": "0.50% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/cua/jobs/dIskIB1-founding-engineer-infra-agent-systems"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:26.818Z"
+  },
+  {
+    "id": 30422,
+    "name": "Galen AI",
+    "slug": "galen-ai",
+    "url": "https://www.ycombinator.com/companies/galen-ai",
+    "jobs": [
+      {
+        "title": "Founding AI Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.60% - 1.20%",
+        "url": "https://www.ycombinator.com/companies/galen-ai/jobs/DKZfAzz-founding-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:29.950Z"
+  },
+  {
+    "id": 30429,
+    "name": "Claim Health",
+    "slug": "claim-health",
+    "url": "https://www.ycombinator.com/companies/claim-health",
+    "jobs": [
+      {
+        "title": "Full Stack Engineer",
+        "location": "New York, NY, US",
+        "salary": "$150K - $220K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/claim-health/jobs/WyGMa1O-full-stack-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:33.058Z"
+  },
+  {
+    "id": 30430,
+    "name": "Almond",
+    "slug": "almond-2",
+    "url": "https://www.ycombinator.com/companies/almond-2",
+    "jobs": [
+      {
+        "title": "Founding Mechanical Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $200K",
+        "equity": "0.25% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/almond-2/jobs/5NPlb6V-founding-mechanical-engineer"
+      },
+      {
+        "title": "Founding Robotics Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$130K - $200K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/almond-2/jobs/RXD2GSW-founding-robotics-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:36.176Z"
+  },
+  {
+    "id": 30445,
+    "name": "Mbodi AI",
+    "slug": "mbodi-ai",
+    "url": "https://www.ycombinator.com/companies/mbodi-ai",
+    "jobs": [
+      {
+        "title": "Founding Robotics Software Engineer",
+        "location": "New York, NY, US",
+        "salary": "$100K - $250K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/7wkGp6U-founding-robotics-software-engineer"
+      },
+      {
+        "title": "Founding Research Engineer",
+        "location": "New York, NY, US",
+        "salary": "$100K - $250K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/ftTsxcl-founding-research-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:39.289Z"
+  },
+  {
+    "id": 30448,
+    "name": "PgDog",
+    "slug": "pgdog",
+    "url": "https://www.ycombinator.com/companies/pgdog",
+    "jobs": [
+      {
+        "title": "Founding Software Engineer",
+        "location": "San Francisco, CA, US / CA, US / Remote (San Francisco, CA, US; CA, US)",
+        "salary": "$125K - $180K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:42.549Z"
+  },
+  {
+    "id": 30449,
+    "name": "Attune",
+    "slug": "attune",
+    "url": "https://www.ycombinator.com/companies/attune",
+    "jobs": [
+      {
+        "title": "Founding Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/attune/jobs/ZWLdtj8-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:45.674Z"
+  },
+  {
+    "id": 30451,
+    "name": "Bluejay",
+    "slug": "bluejay",
+    "url": "https://www.ycombinator.com/companies/bluejay",
+    "jobs": [
+      {
+        "title": "Software Engineer Intern",
+        "location": "San Francisco, CA, US",
+        "salary": "$5.2K - $10.4K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/bluejay/jobs/jaE0uqb-software-engineer-intern"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $170K",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/bluejay/jobs/jVziPIr-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:48.788Z"
+  },
+  {
+    "id": 30452,
+    "name": "Better Auth",
+    "slug": "better-auth",
+    "url": "https://www.ycombinator.com/companies/better-auth",
+    "jobs": [
+      {
+        "title": "Developer Relation Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $180K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/better-auth/jobs/eKk5nLt-developer-relation-engineer"
+      },
+      {
+        "title": "Staff Engineer",
+        "location": "Remote",
+        "salary": "$140K - $180K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/better-auth/jobs/N0CtN58-staff-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:51.909Z"
+  },
+  {
+    "id": 30455,
+    "name": "The LLM Data Company",
+    "slug": "the-llm-data-company",
+    "url": "https://www.ycombinator.com/companies/the-llm-data-company",
+    "jobs": [
+      {
+        "title": "Founding Research Engineer",
+        "location": "San Francisco",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/the-llm-data-company/jobs/wiLmHqV-founding-research-engineer"
+      },
+      {
+        "title": "Founding Senior Research Engineer",
+        "location": "San Francisco",
+        "salary": "$200K - $275K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/the-llm-data-company/jobs/BrsOE9t-founding-senior-research-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:54.695Z"
+  },
+  {
+    "id": 30463,
+    "name": "Tegore",
+    "slug": "tegore",
+    "url": "https://www.ycombinator.com/companies/tegore",
+    "jobs": [
+      {
+        "title": "Founding Android Engineer",
+        "location": "Gurugram, HR, IN / Gurugram, Haryana, IN / Remote (IN)",
+        "salary": "₹150K - ₹300K INR / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/tegore/jobs/z1Sai7R-founding-android-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:34:57.779Z"
+  },
+  {
+    "id": 30464,
+    "name": "Sixtyfour",
+    "slug": "sixtyfour",
+    "url": "https://www.ycombinator.com/companies/sixtyfour",
+    "jobs": [
+      {
+        "title": "Software Engineer (AI)",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $200K",
+        "equity": "0.10% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/iTjuYlH-software-engineer-ai"
+      },
+      {
+        "title": "Software Engineer - Full-Stack",
+        "location": "San Francisco, CA, US / Remote (US; CA)",
+        "salary": "$100K - $200K",
+        "equity": "0.10% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/L3ZbdbO-software-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:00.235Z"
+  },
+  {
+    "id": 30465,
+    "name": "Photonium",
+    "slug": "photonium",
+    "url": "https://www.ycombinator.com/companies/photonium",
+    "jobs": [
+      {
+        "title": "Founding ML Engineer",
+        "location": "New York, NY, US / San Francisco, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/photonium/jobs/JEOfTqj-founding-ml-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:03.481Z"
+  },
+  {
+    "id": 30471,
+    "name": "Kaizen",
+    "slug": "kaizen",
+    "url": "https://www.ycombinator.com/companies/kaizen",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $235K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/kaizen/jobs/4u1RQx9-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:06.192Z"
+  },
+  {
+    "id": 30477,
+    "name": "Casco",
+    "slug": "casco",
+    "url": "https://www.ycombinator.com/companies/casco",
+    "jobs": [
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco, CA, US / Seattle, WA, US / Remote (US)",
+        "salary": "$200K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/casco/jobs/EGFscZJ-software-engineer"
+      },
+      {
+        "title": "Offensive Security Engineer",
+        "location": "US / Remote (US)",
+        "salary": "$200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/casco/jobs/LhiAAHO-offensive-security-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:09.434Z"
+  },
+  {
+    "id": 30479,
+    "name": "Crimson",
+    "slug": "crimson",
+    "url": "https://www.ycombinator.com/companies/crimson",
+    "jobs": [
+      {
+        "title": "Founding Engineer (Full Stack)",
+        "location": "London, England, GB",
+        "salary": "£100K - £130K GBP",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/crimson/jobs/kCikzj1-founding-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:12.572Z"
+  },
+  {
+    "id": 30482,
+    "name": "Lucis",
+    "slug": "lucis",
+    "url": "https://www.ycombinator.com/companies/lucis",
+    "jobs": [
+      {
+        "title": "Founding lead marketer",
+        "location": "Paris, IDF, FR / Paris, Île-de-France, FR",
+        "salary": "€65K - €100K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lucis/jobs/2dK7Yhd-founding-lead-marketer"
+      },
+      {
+        "title": "Founding designer",
+        "location": "Paris, IDF, FR / Paris, Île-de-France, FR / Remote (FR)",
+        "salary": "€60K - €120K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lucis/jobs/9yqiMdU-founding-designer"
+      },
+      {
+        "title": "Founding AI engineer",
+        "location": "Paris, IDF, FR / Paris, Île-de-France, FR / Remote (FR)",
+        "salary": "€60K - €120K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lucis/jobs/zdNjpvQ-founding-ai-engineer"
+      },
+      {
+        "title": "Founding software engineer",
+        "location": "Paris, IDF, FR / Paris, Île-de-France, FR / Remote (FR)",
+        "salary": "€70K - €120K EUR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lucis/jobs/j6Nqske-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:15.829Z"
+  },
+  {
+    "id": 30484,
+    "name": "throxy",
+    "slug": "throxy",
+    "url": "https://www.ycombinator.com/companies/throxy",
+    "jobs": [
+      {
+        "title": "AI Engineer",
+        "location": "London, England, GB",
+        "salary": "$60K - $80K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/throxy/jobs/14BDrba-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:18.848Z"
+  },
+  {
+    "id": 30491,
+    "name": "Novoflow",
+    "slug": "novoflow",
+    "url": "https://www.ycombinator.com/companies/novoflow",
+    "jobs": [
+      {
+        "title": "Founding DevOps Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$120K - $250K",
+        "equity": "0.80% - 1.80%",
+        "url": "https://www.ycombinator.com/companies/novoflow/jobs/lyMBJRq-founding-devops-engineer"
+      },
+      {
+        "title": "Founding Prompt/Context Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$150K - $250K",
+        "equity": "0.80% - 1.80%",
+        "url": "https://www.ycombinator.com/companies/novoflow/jobs/w8PtWcB-founding-prompt-context-engineer"
+      },
+      {
+        "title": "Account Executive",
+        "location": "San Francisco, CA, US",
+        "salary": "$130K - $200K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/novoflow/jobs/Oj2B3T7-account-executive"
+      },
+      {
+        "title": "Founding Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $300K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/novoflow/jobs/796IkzL-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:20.914Z"
+  },
+  {
+    "id": 30496,
+    "name": "QualGent",
+    "slug": "qualgent",
+    "url": "https://www.ycombinator.com/companies/qualgent",
+    "jobs": [
+      {
+        "title": "Founding Head of GTM",
+        "location": "San Francisco, CA, US / New York, NY, US / Remote (US)",
+        "salary": "$150K - $250K",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/qualgent/jobs/uG2XyZv-founding-head-of-gtm"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:24.500Z"
+  },
+  {
+    "id": 30500,
+    "name": "Besimple AI",
+    "slug": "besimple-ai",
+    "url": "https://www.ycombinator.com/companies/besimple-ai",
+    "jobs": [
+      {
+        "title": "Founding Engineer (Full-Stack)",
+        "location": "Redwood City, CA, US",
+        "salary": "$100K - $150K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/IbWWY3S-founding-engineer-full-stack"
+      },
+      {
+        "title": "Product Engineering Intern - Remote Part Time",
+        "location": "US / Remote (US)",
+        "salary": "$6K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/4xtyZqg-product-engineering-intern-remote-part-time"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:27.069Z"
+  },
+  {
+    "id": 30504,
+    "name": "Third Chair",
+    "slug": "third-chair",
+    "url": "https://www.ycombinator.com/companies/third-chair",
+    "jobs": [
+      {
+        "title": "Copyright Counsel (Media and Entertainment)",
+        "location": "US / Remote (US)",
+        "salary": "$10K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/third-chair/jobs/uNijQ5j-copyright-counsel-media-and-entertainment"
+      },
+      {
+        "title": "Senior Software Engineer (Backend)",
+        "location": "IN / Remote (IN)",
+        "salary": "",
+        "equity": "0.05% - 0.10%",
+        "url": "https://www.ycombinator.com/companies/third-chair/jobs/xWdFgKA-senior-software-engineer-backend"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:30.199Z"
+  },
+  {
+    "id": 30512,
+    "name": "MorphoAI",
+    "slug": "morphoai",
+    "url": "https://www.ycombinator.com/companies/morphoai",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "London, England, GB / New York, NY, US / San Francisco, CA, US",
+        "salary": "£50K - £110K GBP",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/morphoai/jobs/aTiZdB8-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:33.277Z"
+  },
+  {
+    "id": 30513,
+    "name": "Eloquent AI",
+    "slug": "eloquent-ai",
+    "url": "https://www.ycombinator.com/companies/eloquent-ai",
+    "jobs": [
+      {
+        "title": "AI Engineer, Platform",
+        "location": "San Francisco",
+        "salary": "$150K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/sJHxcvc-ai-engineer-platform"
+      },
+      {
+        "title": "Software Engineer, Full-Stack",
+        "location": "San Francisco / Remote (US)",
+        "salary": "$150K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/0qOJ5mE-software-engineer-full-stack"
+      },
+      {
+        "title": "Eloquent AI Fellowship Program",
+        "location": "San Francisco",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/M0fvU2k-eloquent-ai-fellowship-program"
+      },
+      {
+        "title": "AI Engineer, AIOps & Infrastructure",
+        "location": "San Francisco",
+        "salary": "$150K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/aCloWFq-ai-engineer-aiops-infrastructure"
+      },
+      {
+        "title": "AI Engineer, .＊RAG",
+        "location": "San Francisco",
+        "salary": "$150K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/SsWsONC-ai-engineer-rag"
+      },
+      {
+        "title": "Product Designer",
+        "location": "San Francisco",
+        "salary": "$120K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/crOhZol-product-designer"
+      },
+      {
+        "title": "Software Engineer, Front-End",
+        "location": "Remote / Remote (US)",
+        "salary": "$70K - $100K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/PITFKFM-software-engineer-front-end"
+      },
+      {
+        "title": "Agent Deployment",
+        "location": "San Francisco",
+        "salary": "$120K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/H6NdVAs-agent-deployment"
+      },
+      {
+        "title": "AI Engineer, Agent",
+        "location": "San Francisco",
+        "salary": "$150K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/2xwyYHg-ai-engineer-agent"
+      },
+      {
+        "title": "AI Engineer, Multimodal LLMs",
+        "location": "San Francisco",
+        "salary": "$150K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eloquent-ai/jobs/2eWGivc-ai-engineer-multimodal-llms"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:36.041Z"
+  },
+  {
+    "id": 30519,
+    "name": "Hemut",
+    "slug": "hemut",
+    "url": "https://www.ycombinator.com/companies/hemut",
+    "jobs": [
+      {
+        "title": "Software Engineer",
+        "location": "Pune, MH, IN / Pune, Maharashtra, IN",
+        "salary": "₹800K - ₹1M INR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/hemut/jobs/iK31Hos-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:39.132Z"
+  },
+  {
+    "id": 30522,
+    "name": "Relixir",
+    "slug": "relixir",
+    "url": "https://www.ycombinator.com/companies/relixir",
+    "jobs": [
+      {
+        "title": "Founding Engineer (Full-stack)",
+        "location": "San Francisco, CA, US",
+        "salary": "$200K - $250K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/relixir/jobs/cFJbi1S-founding-engineer-full-stack"
+      },
+      {
+        "title": "Founding Engineer – Backend & AI Systems",
+        "location": "San Francisco, CA, US",
+        "salary": "$200K - $250K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/relixir/jobs/0GBAVQ1-founding-engineer-backend-ai-systems"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:42.246Z"
+  },
+  {
+    "id": 30524,
+    "name": "Lapel",
+    "slug": "lapel",
+    "url": "https://www.ycombinator.com/companies/lapel",
+    "jobs": [
+      {
+        "title": "Product Engineer",
+        "location": "San Francisco",
+        "salary": "$180K - $197K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lapel/jobs/s4NEsrr-product-engineer"
+      },
+      {
+        "title": "Full-Stack Engineer",
+        "location": "San Francisco",
+        "salary": "$180K - $197K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lapel/jobs/0FWy4rT-full-stack-engineer"
+      },
+      {
+        "title": "Backend Engineer",
+        "location": "San Francisco",
+        "salary": "$180K - $197K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lapel/jobs/8mKW25r-backend-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:45.283Z"
+  },
+  {
+    "id": 30527,
+    "name": "MindFort",
+    "slug": "mindfort",
+    "url": "https://www.ycombinator.com/companies/mindfort",
+    "jobs": [
+      {
+        "title": "Senior Security Pentester - AI Tutor",
+        "location": "Los Angeles, CA, US / Remote (US)",
+        "salary": "$30 - $110 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mindfort/jobs/4Gn8yMc-senior-security-pentester-ai-tutor"
+      },
+      {
+        "title": "Junior Security Engineer - AI Tutor",
+        "location": "Los Angeles, CA, US / Remote (US)",
+        "salary": "$30 - $110 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mindfort/jobs/CR16Gup-junior-security-engineer-ai-tutor"
+      },
+      {
+        "title": "AI Software Engineer",
+        "location": "Los Angeles, CA, US",
+        "salary": "$165K - $230K",
+        "equity": "0.20% - 0.80%",
+        "url": "https://www.ycombinator.com/companies/mindfort/jobs/jloRRO0-ai-software-engineer"
+      },
+      {
+        "title": "Software Engineer - Backend Engineering",
+        "location": "Los Angeles, CA, US",
+        "salary": "$165K - $230K",
+        "equity": "0.20% - 0.80%",
+        "url": "https://www.ycombinator.com/companies/mindfort/jobs/g3aPQUZ-software-engineer-backend-engineering"
+      },
+      {
+        "title": "Growth Lead",
+        "location": "Santa Monica, CA, US / Los Angeles, CA, US / Remote (San Francisco, CA, US)",
+        "salary": "$100K - $200K",
+        "equity": "0.10% - 0.40%",
+        "url": "https://www.ycombinator.com/companies/mindfort/jobs/VoKGedO-growth-lead"
+      },
+      {
+        "title": "Senior Software Engineer - Backend Engineering",
+        "location": "Los Angeles, CA, US",
+        "salary": "$180K - $300K",
+        "equity": "0.20% - 0.80%",
+        "url": "https://www.ycombinator.com/companies/mindfort/jobs/FpN4Tnt-senior-software-engineer-backend-engineering"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:47.433Z"
+  },
+  {
+    "id": 30533,
+    "name": "Delty",
+    "slug": "delty",
+    "url": "https://www.ycombinator.com/companies/delty",
+    "jobs": [
+      {
+        "title": "Machine Learning Engineer",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$80K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/delty/jobs/MDeC49o-machine-learning-engineer"
+      },
+      {
+        "title": "Full stack software engineer",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$80K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:50.561Z"
+  },
+  {
+    "id": 30536,
+    "name": "Propolis",
+    "slug": "propolis",
+    "url": "https://www.ycombinator.com/companies/propolis",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "New York, NY, US",
+        "salary": "$130K - $200K",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/propolis/jobs/pfV3z9N-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:52.733Z"
+  },
+  {
+    "id": 30540,
+    "name": "Lumari",
+    "slug": "lumari",
+    "url": "https://www.ycombinator.com/companies/lumari",
+    "jobs": [
+      {
+        "title": "Full Stack Software Engineer",
+        "location": "IN / Remote (IN)",
+        "salary": "$40K - $80K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lumari/jobs/WMTFUr2-full-stack-software-engineer"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$100K - $140K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lumari/jobs/EaQMR7l-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:55.877Z"
+  },
+  {
+    "id": 30541,
+    "name": "Code Four",
+    "slug": "code-four",
+    "url": "https://www.ycombinator.com/companies/code-four",
+    "jobs": [
+      {
+        "title": "Account Executive",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$100K - $250K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/code-four/jobs/MSOzEim-account-executive"
+      },
+      {
+        "title": "Founding Fullstack Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$130K - $300K",
+        "equity": "0.25% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/code-four/jobs/tIBkEwS-founding-fullstack-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:35:58.958Z"
+  },
+  {
+    "id": 30543,
+    "name": "Cactus",
+    "slug": "oncactus",
+    "url": "https://www.ycombinator.com/companies/oncactus",
+    "jobs": [
+      {
+        "title": "Senior Ruby on Rails + AI Engineer",
+        "location": "San Mateo, CA, US",
+        "salary": "$120K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/oncactus/jobs/EQeRwos-senior-ruby-on-rails-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:02.157Z"
+  },
+  {
+    "id": 30545,
+    "name": "StarSling",
+    "slug": "starsling",
+    "url": "https://www.ycombinator.com/companies/starsling",
+    "jobs": [
+      {
+        "title": "Software Engineer (Full-Stack)",
+        "location": "San Francisco, CA, US / San Mateo, CA, US / Palo Alto, CA, US / Menlo Park, CA, US / Redwood City, CA, US",
+        "salary": "$150K - $190K",
+        "equity": "2.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/starsling/jobs/YGCndbU-software-engineer-full-stack"
+      },
+      {
+        "title": "Founding Software Engineer (Full-Stack)",
+        "location": "San Francisco, CA, US / San Mateo, CA, US / Palo Alto, CA, US / Menlo Park, CA, US / Redwood City, CA, US",
+        "salary": "$150K - $190K",
+        "equity": "2.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/starsling/jobs/ZvHKf88-founding-software-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:05.326Z"
+  },
+  {
+    "id": 30547,
+    "name": "Text.ai",
+    "slug": "text-ai",
+    "url": "https://www.ycombinator.com/companies/text-ai",
+    "jobs": [
+      {
+        "title": "Founding Full Stack Engineer",
+        "location": "San Francisco, CA, US / Remote (Los Angeles, CA, US)",
+        "salary": "$100K - $150K",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/text-ai/jobs/OJBr0v2-founding-full-stack-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:08.508Z"
+  },
+  {
+    "id": 30548,
+    "name": "Theorem",
+    "slug": "theorem-2",
+    "url": "https://www.ycombinator.com/companies/theorem-2",
+    "jobs": [
+      {
+        "title": "Systems Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/theorem-2/jobs/Le5BTc3-systems-engineer"
+      },
+      {
+        "title": "Senior SWE",
+        "location": "San Francisco, CA, US",
+        "salary": "$300K - $500K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/theorem-2/jobs/I2adiHF-senior-swe"
+      },
+      {
+        "title": "ML Research Scientist",
+        "location": "San Francisco, CA, US",
+        "salary": "$300K - $500K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/theorem-2/jobs/eWwY3Yx-ml-research-scientist"
+      },
+      {
+        "title": "ML Research Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/theorem-2/jobs/CsReXnw-ml-research-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:11.766Z"
+  },
+  {
+    "id": 30549,
+    "name": "Airweave",
+    "slug": "airweave",
+    "url": "https://www.ycombinator.com/companies/airweave",
+    "jobs": [
+      {
+        "title": "Founding Forward Deployed Engineer",
+        "location": "Amsterdam, North Holland, NL",
+        "salary": "€80K - €100K EUR",
+        "equity": "0.25% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/airweave/jobs/OH2VNh6-founding-forward-deployed-engineer"
+      },
+      {
+        "title": "Founding Software Engineer, Full Stack",
+        "location": "Amsterdam, North Holland, NL",
+        "salary": "€80K - €100K EUR",
+        "equity": "0.25% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/airweave/jobs/qXyMGJz-founding-software-engineer-full-stack"
+      },
+      {
+        "title": "Founding Software Engineer, Data Infrastructure",
+        "location": "Amsterdam, North Holland, NL",
+        "salary": "€80K - €100K EUR",
+        "equity": "0.25% - 0.75%",
+        "url": "https://www.ycombinator.com/companies/airweave/jobs/Xluuse7-founding-software-engineer-data-infrastructure"
+      },
+      {
+        "title": "Founding Software Engineer, Data Infrastructure",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $160K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/airweave/jobs/MwvkkF7-founding-software-engineer-data-infrastructure"
+      },
+      {
+        "title": "Founding Software Engineer, Full Stack",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $160K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/airweave/jobs/objmrAG-founding-software-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:14.489Z"
+  },
+  {
+    "id": 30559,
+    "name": "Godela",
+    "slug": "godela",
+    "url": "https://www.ycombinator.com/companies/godela",
+    "jobs": [
+      {
+        "title": "Founding Engineer (SWE) – Godela",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $180K",
+        "equity": "0.10% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/godela/jobs/rKMZtYt-founding-engineer-swe-godela"
+      },
+      {
+        "title": "Founding Simulation Engineer – Godela",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $180K",
+        "equity": "0.08% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/godela/jobs/vWajfU5-founding-simulation-engineer-godela"
+      },
+      {
+        "title": "Founding Engineer (ML Systems) – Godela",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $180K",
+        "equity": "0.10% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/godela/jobs/6MlUqiS-founding-engineer-ml-systems-godela"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:17.615Z"
+  },
+  {
+    "id": 30569,
+    "name": "Fifth Door",
+    "slug": "fifth-door",
+    "url": "https://www.ycombinator.com/companies/fifth-door",
+    "jobs": [
+      {
+        "title": "Front End Engineer",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$150 - $250",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/fifth-door/jobs/o7AS4A9-front-end-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:20.599Z"
+  },
+  {
+    "id": 30591,
+    "name": "Autonomous Technologies Group",
+    "slug": "autonomous-technologies-group",
+    "url": "https://www.ycombinator.com/companies/autonomous-technologies-group",
+    "jobs": [
+      {
+        "title": "Member of Technical Staff, Quantitative Systems",
+        "location": "New York City / San Francisco, CA, US",
+        "salary": "$200K - $300K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/DH2H9nM-member-of-technical-staff-quantitative-systems"
+      },
+      {
+        "title": "Member of Technical Staff (iOS)",
+        "location": "New York City",
+        "salary": "$160K - $240K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/Tzcbmes-member-of-technical-staff-ios"
+      },
+      {
+        "title": "Research Scientist",
+        "location": "New York City",
+        "salary": "$200K - $300K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/XoXpFWN-research-scientist"
+      },
+      {
+        "title": "Member of Technical Staff (Research Engineering)",
+        "location": "New York City",
+        "salary": "$180K - $260K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/qnaU0Uk-member-of-technical-staff-research-engineering"
+      },
+      {
+        "title": "Member of Technical Staff (Full Stack)",
+        "location": "New York City",
+        "salary": "$170K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/leXsgOS-member-of-technical-staff-full-stack"
+      },
+      {
+        "title": "Senior Member of Technical Staff",
+        "location": "New York City",
+        "salary": "$220K - $290K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/j9lWoji-senior-member-of-technical-staff"
+      },
+      {
+        "title": "Member of Technical Staff (Data)",
+        "location": "New York City",
+        "salary": "$150K - $220K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/FVb99ce-member-of-technical-staff-data"
+      },
+      {
+        "title": "Member of Technical Staff (Infrastructure)",
+        "location": "New York City",
+        "salary": "$180K - $260K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/S1xawit-member-of-technical-staff-infrastructure"
+      },
+      {
+        "title": "Member of Technical Staff (Backend)",
+        "location": "New York City",
+        "salary": "$180K - $260K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs/9XBlkWc-member-of-technical-staff-backend"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:23.845Z"
+  },
+  {
+    "id": 30604,
+    "name": "Parametric",
+    "slug": "parametric",
+    "url": "https://www.ycombinator.com/companies/parametric",
+    "jobs": [
+      {
+        "title": "Software Engineer, Data Engine",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $160K",
+        "equity": "0.10% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/parametric/jobs/cSH0pBZ-software-engineer-data-engine"
+      },
+      {
+        "title": "Senior ML Infrastructure Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $210K",
+        "equity": "0.50% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/parametric/jobs/pD7PqrN-senior-ml-infrastructure-engineer"
+      },
+      {
+        "title": "Robotics Operations Specialist",
+        "location": "San Francisco, CA, US",
+        "salary": "$30 - $39 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/parametric/jobs/1weio3N-robotics-operations-specialist"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:27.200Z"
+  },
+  {
+    "id": 30816,
+    "name": "Digipals",
+    "slug": "digipals",
+    "url": "https://www.ycombinator.com/companies/digipals",
+    "jobs": [
+      {
+        "title": "iOS/Android Full Stack Software Engineering",
+        "location": "San Francisco, CA, US",
+        "salary": "$4K - $5K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/digipals/jobs/oZmOW5w-ios-android-full-stack-software-engineering"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:30.321Z"
+  },
+  {
+    "id": 30844,
+    "name": "Uplane",
+    "slug": "uplane",
+    "url": "https://www.ycombinator.com/companies/uplane",
+    "jobs": [
+      {
+        "title": "Business Development Associate",
+        "location": "San Francisco, CA, US",
+        "salary": "$90K - $100K",
+        "equity": "0.10% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/uplane/jobs/BERohlj-business-development-associate"
+      },
+      {
+        "title": "Founding AI Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/uplane/jobs/BbKZahU-founding-ai-engineer"
+      },
+      {
+        "title": "Founding Engineer (Full-Stack)",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/uplane/jobs/itz3AlG-founding-engineer-full-stack"
+      },
+      {
+        "title": "Founder’s Associate Intern (Business) ; Full-time",
+        "location": "San Francisco, CA, US / Remote (DE; US; GB; CH; AT; IN; CA; AU)",
+        "salary": "$1 / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/uplane/jobs/PAlqRJ2-founder-s-associate-intern-business-full-time"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:33.485Z"
+  },
+  {
+    "id": 30845,
+    "name": "Structured AI",
+    "slug": "structured-ai",
+    "url": "https://www.ycombinator.com/companies/structured-ai",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "New York, NY, US",
+        "salary": "$120K - $250K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/structured-ai/jobs/Cxvgr61-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:36.606Z"
+  },
+  {
+    "id": 30847,
+    "name": "Brickwise",
+    "slug": "brickwise",
+    "url": "https://www.ycombinator.com/companies/brickwise",
+    "jobs": [
+      {
+        "title": "Operations Lead",
+        "location": "London, England, GB",
+        "salary": "£51K - £90K GBP",
+        "equity": "0.30% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/brickwise/jobs/cdu07l2-operations-lead"
+      },
+      {
+        "title": "Founder's Associate",
+        "location": "London, England, GB",
+        "salary": "£35K - £60K GBP",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/brickwise/jobs/AIfkkwA-founder-s-associate"
+      },
+      {
+        "title": "Senior Software Engineer, Tech Lead",
+        "location": "London, England, GB",
+        "salary": "£100K - £120K GBP",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/brickwise/jobs/KDD8jop-senior-software-engineer-tech-lead"
+      },
+      {
+        "title": "Software Engineer (Full Stack)",
+        "location": "London, England, GB",
+        "salary": "£60K - £80K GBP",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/brickwise/jobs/3r3ER9G-software-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:39.747Z"
+  },
+  {
+    "id": 30853,
+    "name": "Bolna AI",
+    "slug": "bolna-ai",
+    "url": "https://www.ycombinator.com/companies/bolna-ai",
+    "jobs": [],
+    "scraped_at": "2026-01-07T06:36:42.678Z"
+  },
+  {
+    "id": 30861,
+    "name": "Caddy",
+    "slug": "caddy",
+    "url": "https://www.ycombinator.com/companies/caddy",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "New York, NY, US",
+        "salary": "$120K - $180K",
+        "equity": "0.50% - 1.30%",
+        "url": "https://www.ycombinator.com/companies/caddy/jobs/5aKalkr-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:45.746Z"
+  },
+  {
+    "id": 30862,
+    "name": "Sorce",
+    "slug": "sorce",
+    "url": "https://www.ycombinator.com/companies/sorce",
+    "jobs": [
+      {
+        "title": "Founding Member of Technical Staff (AI Agents)",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $150K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/sorce/jobs/izXGSzl-founding-member-of-technical-staff-ai-agents"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:48.742Z"
+  },
+  {
+    "id": 30879,
+    "name": "Hypercubic",
+    "slug": "hypercubic",
+    "url": "https://www.ycombinator.com/companies/hypercubic",
+    "jobs": [
+      {
+        "title": "Founding Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$125K - $200K",
+        "equity": "0.50% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/hypercubic/jobs/8uytDI0-founding-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:51.786Z"
+  },
+  {
+    "id": 30881,
+    "name": "Wardstone",
+    "slug": "wardstone",
+    "url": "https://www.ycombinator.com/companies/wardstone",
+    "jobs": [
+      {
+        "title": "Simulation and Modeling Engineer",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US",
+        "salary": "$100K - $180K",
+        "equity": "0.25% - 1.25%",
+        "url": "https://www.ycombinator.com/companies/wardstone/jobs/Zh5raC8-simulation-and-modeling-engineer"
+      },
+      {
+        "title": "Guidance, Navigation, and Controls Engineer",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US",
+        "salary": "$120K - $180K",
+        "equity": "0.50% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/wardstone/jobs/AiembZ4-guidance-navigation-and-controls-engineer"
+      },
+      {
+        "title": "Propulsion & High Energy Systems Engineer",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US",
+        "salary": "$100K - $160K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/wardstone/jobs/JObS6Dz-propulsion-high-energy-systems-engineer"
+      },
+      {
+        "title": "Sensing & Perception Engineer",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US",
+        "salary": "$100K - $160K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/wardstone/jobs/JVCtV6u-sensing-perception-engineer"
+      },
+      {
+        "title": "Electrical Engineer - Avionics",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US",
+        "salary": "$100K - $160K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/wardstone/jobs/uEvOZUX-electrical-engineer-avionics"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:55.857Z"
+  },
+  {
+    "id": 30884,
+    "name": "Flick",
+    "slug": "flick",
+    "url": "https://www.ycombinator.com/companies/flick",
+    "jobs": [
+      {
+        "title": "Visual Design Intern",
+        "location": "Remote (US)",
+        "salary": "$20 - $30 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/flick/jobs/qcVozpq-visual-design-intern"
+      },
+      {
+        "title": "Founding Frontend Engineer",
+        "location": "Sunnyvale, CA, US / Remote",
+        "salary": "$100K - $200K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-founding-frontend-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:36:58.854Z"
+  },
+  {
+    "id": 30885,
+    "name": "Semble AI",
+    "slug": "semble-ai",
+    "url": "https://www.ycombinator.com/companies/semble-ai",
+    "jobs": [
+      {
+        "title": "Founding AI Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "0.80% - 1.40%",
+        "url": "https://www.ycombinator.com/companies/semble-ai/jobs/d4YUIn2-founding-ai-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:01.989Z"
+  },
+  {
+    "id": 30890,
+    "name": "AnswerThis",
+    "slug": "answerthis",
+    "url": "https://www.ycombinator.com/companies/answerthis",
+    "jobs": [
+      {
+        "title": "AI agent orchestration / Founding Engineer",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$120K - $200K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:04.750Z"
+  },
+  {
+    "id": 30891,
+    "name": "SF Tensor",
+    "slug": "sf-tensor",
+    "url": "https://www.ycombinator.com/companies/sf-tensor",
+    "jobs": [
+      {
+        "title": "Founding GPU Compiler Engineer",
+        "location": "San Francisco",
+        "salary": "$285K - $315K",
+        "equity": "1.00% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/sf-tensor/jobs/rWkTE6W-founding-gpu-compiler-engineer"
+      },
+      {
+        "title": "Founding GPU Kernel Engineer",
+        "location": "San Francisco",
+        "salary": "$285K - $315K",
+        "equity": "1.25% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/sf-tensor/jobs/LZCpehq-founding-gpu-kernel-engineer"
+      },
+      {
+        "title": "Founding Research Engineer, AI-Driven Compilation",
+        "location": "San Francisco",
+        "salary": "$275K - $315K",
+        "equity": "1.00% - 1.75%",
+        "url": "https://www.ycombinator.com/companies/sf-tensor/jobs/kjqvJmc-founding-research-engineer-ai-driven-compilation"
+      },
+      {
+        "title": "Founding Product Engineer",
+        "location": "San Francisco",
+        "salary": "$225K - $275K",
+        "equity": "1.00% - 1.50%",
+        "url": "https://www.ycombinator.com/companies/sf-tensor/jobs/6dGw0vO-founding-product-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:08.011Z"
+  },
+  {
+    "id": 30894,
+    "name": "Unsiloed AI",
+    "slug": "unsiloed-ai",
+    "url": "https://www.ycombinator.com/companies/unsiloed-ai",
+    "jobs": [
+      {
+        "title": "Founding ML Researcher",
+        "location": "San Francisco, CA, US",
+        "salary": "$200K - $300K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/unsiloed-ai/jobs/SJCT4d4-founding-ml-researcher"
+      },
+      {
+        "title": "Founding Software Engineer - Backend and Infrastructure",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $300K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/unsiloed-ai/jobs/cmlq27S-founding-software-engineer-backend-and-infrastructure"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:10.722Z"
+  },
+  {
+    "id": 30914,
+    "name": "Sunflower",
+    "slug": "sunflower",
+    "url": "https://www.ycombinator.com/companies/sunflower",
+    "jobs": [
+      {
+        "title": "Video Lead (UGC + AI)",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$80K - $120K",
+        "equity": "0.10% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/sunflower/jobs/uSCvP6m-video-lead-ugc-ai"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:13.902Z"
+  },
+  {
+    "id": 30917,
+    "name": "Bravi",
+    "slug": "bravi",
+    "url": "https://www.ycombinator.com/companies/bravi",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "Paris, IDF, FR / Paris, Île-de-France, FR / Remote (US)",
+        "salary": "€50K - €80K EUR",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/bravi/jobs/fXVdy60-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:17.031Z"
+  },
+  {
+    "id": 30932,
+    "name": "Leadbay",
+    "slug": "leadbay",
+    "url": "https://www.ycombinator.com/companies/leadbay",
+    "jobs": [
+      {
+        "title": "Engineering Intern",
+        "location": "Paris, IDF, FR / Paris, Île-de-France, FR / San Francisco, CA, US",
+        "salary": "$1K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/leadbay/jobs/vlsKDGh-engineering-intern"
+      },
+      {
+        "title": "Frontend Engineer",
+        "location": "Paris, IDF, FR / Paris, Île-de-France, FR / San Francisco, CA, US",
+        "salary": "$60K - $200K",
+        "equity": "0.01% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/leadbay/jobs/d0KXTOi-frontend-engineer"
+      },
+      {
+        "title": "Backend Engineer",
+        "location": "Paris, IDF, FR / Paris, Île-de-France, FR / San Francisco, CA, US",
+        "salary": "$60K - $200K",
+        "equity": "0.01% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/leadbay/jobs/3uklpCZ-backend-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:20.226Z"
+  },
+  {
+    "id": 30940,
+    "name": "Everest",
+    "slug": "everest",
+    "url": "https://www.ycombinator.com/companies/everest",
+    "jobs": [
+      {
+        "title": "Engineering Intern (Spring & Summer 26, SF free housing)",
+        "location": "San Francisco, CA, US",
+        "salary": "$4.25K - $8.5K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/everest/jobs/i9dhgeR-engineering-intern-spring-summer-26-sf-free-housing"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:23.207Z"
+  },
+  {
+    "id": 30958,
+    "name": "Absurd",
+    "slug": "absurd",
+    "url": "https://www.ycombinator.com/companies/absurd",
+    "jobs": [
+      {
+        "title": "Founding Applied AI Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/absurd/jobs/XSmPoRd-founding-applied-ai-engineer"
+      },
+      {
+        "title": "Founding Full Stack Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $250K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/absurd/jobs/y0ObGDP-founding-full-stack-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:25.955Z"
+  },
+  {
+    "id": 30959,
+    "name": "Kalpa Labs",
+    "slug": "kalpa-labs",
+    "url": "https://www.ycombinator.com/companies/kalpa-labs",
+    "jobs": [
+      {
+        "title": "Founding ML Research Engineer - Training Infrastructure",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/kalpa-labs/jobs/h8hYrkm-founding-ml-research-engineer-training-infrastructure"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:29.166Z"
+  },
+  {
+    "id": 30960,
+    "name": "Metorial",
+    "slug": "metorial",
+    "url": "https://www.ycombinator.com/companies/metorial",
+    "jobs": [
+      {
+        "title": "Infrastructure Engineer",
+        "location": "Remote (US)",
+        "salary": "$100 - $170",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/metorial/jobs/FdUgKuI-infrastructure-engineer"
+      },
+      {
+        "title": "Backend Engineer",
+        "location": "Remote (US)",
+        "salary": "$100 - $165",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/metorial/jobs/7617xcj-backend-engineer"
+      },
+      {
+        "title": "Founding Engineer",
+        "location": "Remote (US)",
+        "salary": "$100K - $180K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/metorial/jobs/WPkk7Yk-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:31.897Z"
+  },
+  {
+    "id": 30966,
+    "name": "Karumi",
+    "slug": "karumi",
+    "url": "https://www.ycombinator.com/companies/karumi",
+    "jobs": [
+      {
+        "title": "AI/ML Applied Engineer",
+        "location": "New York, NY, US / San Francisco, CA, US",
+        "salary": "$120 - $160",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/karumi/jobs/Ht5Bs00-ai-ml-applied-engineer"
+      },
+      {
+        "title": "Product Engineer (Full-Stack)",
+        "location": "San Francisco, CA, US / New York, NY, US",
+        "salary": "$100 - $150",
+        "equity": "0.20% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/karumi/jobs/ISjUPEb-product-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:35.071Z"
+  },
+  {
+    "id": 30975,
+    "name": "Castari",
+    "slug": "castari",
+    "url": "https://www.ycombinator.com/companies/castari",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$120K - $200K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/castari/jobs/stDvyPq-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:38.077Z"
+  },
+  {
+    "id": 30977,
+    "name": "Rovi Health",
+    "slug": "rovi-health",
+    "url": "https://www.ycombinator.com/companies/rovi-health",
+    "jobs": [
+      {
+        "title": "Founding Engineer (AI / Full Stack)",
+        "location": "New York City, NY",
+        "salary": "$150K - $220K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/rovi-health/jobs/b2KbvvN-founding-engineer-ai-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:41.223Z"
+  },
+  {
+    "id": 30978,
+    "name": "Miniswap",
+    "slug": "miniswap",
+    "url": "https://www.ycombinator.com/companies/miniswap",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US / Remote (San Francisco, CA, US)",
+        "salary": "$120K - $180K",
+        "equity": "0.50% - 2.50%",
+        "url": "https://www.ycombinator.com/companies/miniswap/jobs/kcLWIFF-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:44.444Z"
+  },
+  {
+    "id": 30983,
+    "name": "Telemetron",
+    "slug": "telemetron-ai",
+    "url": "https://www.ycombinator.com/companies/telemetron-ai",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $180K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/telemetron-ai/jobs/RPmWQ5c-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:46.872Z"
+  },
+  {
+    "id": 30986,
+    "name": "The Hog",
+    "slug": "the-hog",
+    "url": "https://www.ycombinator.com/companies/the-hog",
+    "jobs": [
+      {
+        "title": "Senior AI Engineer (Full-Stack)",
+        "location": "BR / SP, BR / State of São Paulo, BR / AR / Buenos Aires, Buenos Aires, AR / CL / CO / Remote (BR; SP, BR; State of São Paulo, BR; AR; Buenos Aires, Buenos Aires, AR; CL; CO)",
+        "salary": "$40K - $85K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/the-hog/jobs/SbLnL88-senior-ai-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:50.106Z"
+  },
+  {
+    "id": 30993,
+    "name": "DiligenceSquared",
+    "slug": "diligencesquared-inc",
+    "url": "https://www.ycombinator.com/companies/diligencesquared-inc",
+    "jobs": [
+      {
+        "title": "Founding Engineer - Fullstack",
+        "location": "New York, NY, US",
+        "salary": "$140K - $250K",
+        "equity": "0.30% - 1.30%",
+        "url": "https://www.ycombinator.com/companies/diligencesquared-inc/jobs/yN97jLM-founding-engineer-fullstack"
+      },
+      {
+        "title": "Founding Engineer - Backend",
+        "location": "New York, NY, US",
+        "salary": "$140K - $250K",
+        "equity": "0.30% - 1.30%",
+        "url": "https://www.ycombinator.com/companies/diligencesquared-inc/jobs/ANPgqGX-founding-engineer-backend"
+      },
+      {
+        "title": "Founding Engineer - Frontend",
+        "location": "New York, NY, US",
+        "salary": "$140K - $250K",
+        "equity": "0.30% - 1.30%",
+        "url": "https://www.ycombinator.com/companies/diligencesquared-inc/jobs/RJPu8pX-founding-engineer-frontend"
+      }
+    ],
+    "scraped_at": "2026-01-07T06:37:52.925Z"
+  }
+]

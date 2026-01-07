@@ -24,8 +24,15 @@ export async function GET(request: NextRequest) {
     if (filterYear) {
         allCompanies = allCompanies.filter((company) => {
             const batch = company.batch?.toLowerCase() || '';
-            const shortYear = filterYear.length === 4 ? filterYear.substring(2) : filterYear;
-            return batch.includes(shortYear);
+            if (/^\d{4}$/.test(filterYear)) {
+                const shortYear = filterYear.substring(2);
+                return batch.includes(filterYear) || 
+                       batch.includes(`w${shortYear}`) || 
+                       batch.includes(`s${shortYear}`) ||
+                       batch.endsWith(` ${shortYear}`) ||
+                       batch === shortYear;
+            }
+            return batch.includes(filterYear.toLowerCase());
         });
     }
 
@@ -69,7 +76,11 @@ export async function GET(request: NextRequest) {
         let yearMatch = false;
         if (/^\d{4}$/.test(query)) {
             const shortYear = query.substring(2);
-            yearMatch = batch.includes(shortYear);
+            yearMatch = batch.includes(query) || 
+                        batch.includes(`w${shortYear}`) || 
+                        batch.includes(`s${shortYear}`) ||
+                        batch.endsWith(` ${shortYear}`) ||
+                        batch === shortYear;
         }
 
         return (

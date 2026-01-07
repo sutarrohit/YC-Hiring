@@ -29,6 +29,12 @@ export default function Navbar() {
                             >
                                 All Companies
                             </Link>
+                            <Link
+                                href='/scraper'
+                                className='text-gray-600 dark:text-neutral-400 hover:text-gray-900 dark:hover:text-white font-medium transition-colors'
+                            >
+                                Scraper
+                            </Link>
                         </div>
                     </div>
 

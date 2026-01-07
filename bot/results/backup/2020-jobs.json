@@ -1,0 +1,3205 @@
+[
+  {
+    "id": 13091,
+    "name": "Porter",
+    "slug": "porter",
+    "url": "https://www.ycombinator.com/companies/porter",
+    "jobs": [
+      {
+        "title": "DevOps Support Engineer",
+        "location": "Remote",
+        "salary": "$120K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/porter/jobs/Fc0Rzny-devops-support-engineer"
+      },
+      {
+        "title": "Staff Frontend Engineer",
+        "location": "New York, NY, US",
+        "salary": "$200K - $280K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/porter/jobs/UrP0LRr-staff-frontend-engineer"
+      },
+      {
+        "title": "Staff Infrastructure Engineer",
+        "location": "New York, NY, US",
+        "salary": "$200K - $280K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/porter/jobs/Tz5EW2n-staff-infrastructure-engineer"
+      },
+      {
+        "title": "Frontend Engineer",
+        "location": "New York, NY, US",
+        "salary": "$150K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/porter/jobs/GD7hwtI-frontend-engineer"
+      },
+      {
+        "title": "Growth/Product Engineer",
+        "location": "New York City",
+        "salary": "$100K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/porter/jobs/V5kia33-growth-product-engineer"
+      },
+      {
+        "title": "Backend Engineer (Go)",
+        "location": "New York City",
+        "salary": "$100K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/porter/jobs/GjO3enf-backend-engineer-go"
+      },
+      {
+        "title": "Full Stack Engineer",
+        "location": "New York City",
+        "salary": "$100K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/porter/jobs/6QhplSz-full-stack-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:32:55.002Z"
+  },
+  {
+    "id": 13307,
+    "name": "Photoroom",
+    "slug": "photoroom",
+    "url": "https://www.ycombinator.com/companies/photoroom",
+    "jobs": [
+      {
+        "title": "Founding Account Executive (US based)",
+        "location": "USA | Remote / Remote (New York, NY, US; Boston, MA, US; CT, US; NY, US; Washington, DC, US; VT, US; NJ, US; Philadelphia, PA, US)",
+        "salary": "$115K - $215K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/photoroom/jobs/aicGfsB-founding-account-executive-us-based"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:32:58.139Z"
+  },
+  {
+    "id": 13330,
+    "name": "Recurrency",
+    "slug": "recurrency",
+    "url": "https://www.ycombinator.com/companies/recurrency",
+    "jobs": [
+      {
+        "title": "Senior Software Engineer (Platform/Backend)",
+        "location": "US / Remote (US)",
+        "salary": "$180K - $240K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/recurrency/jobs/LHY6UUn-senior-software-engineer-platform-backend"
+      },
+      {
+        "title": "Senior Software Engineer (Product)",
+        "location": "Remote within US / Remote (San Francisco, CA, US)",
+        "salary": "$160K - $240K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/recurrency/jobs/bPc9202-senior-software-engineer-product"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:01.652Z"
+  },
+  {
+    "id": 13413,
+    "name": "adyn",
+    "slug": "adyn",
+    "url": "https://www.ycombinator.com/companies/adyn",
+    "jobs": [
+      {
+        "title": "Product Experience",
+        "location": "Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/adyn/jobs/qz6qZH6sE-product-experience"
+      },
+      {
+        "title": "Performance Marketer",
+        "location": "Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/adyn/jobs/xzL8BxhkF-performance-marketer"
+      },
+      {
+        "title": "Content Marketer",
+        "location": "Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/adyn/jobs/gvoVv2DWT-content-marketer"
+      },
+      {
+        "title": "Full stack engineer",
+        "location": "Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/adyn/jobs/xV982vp6h-full-stack-engineer"
+      },
+      {
+        "title": "Bioinformatician",
+        "location": "Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/adyn/jobs/81L5X466U-bioinformatician"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:04.991Z"
+  },
+  {
+    "id": 21720,
+    "name": "Zip",
+    "slug": "zip",
+    "url": "https://www.ycombinator.com/companies/zip",
+    "jobs": [
+      {
+        "title": "Software Engineer, Identity",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $190K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zip/jobs/ORuSG8h-software-engineer-identity"
+      },
+      {
+        "title": "Senior Application Security Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zip/jobs/muHJ4Au-senior-application-security-engineer"
+      },
+      {
+        "title": "Head of New Products, GTM",
+        "location": "San Francisco, CA, US",
+        "salary": "$250K - $350K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zip/jobs/CefTMw9-head-of-new-products-gtm"
+      },
+      {
+        "title": "Senior / Principal Product Manager, New Products",
+        "location": "San Francisco, CA, US",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zip/jobs/FNk5f6F-senior-principal-product-manager-new-products"
+      },
+      {
+        "title": "Principal Product Manager, Procurement and Sourcing",
+        "location": "San Francisco, CA, US",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zip/jobs/ZjWTjD1-principal-product-manager-procurement-and-sourcing"
+      },
+      {
+        "title": "Director, Product Management - Procure-to-Pay",
+        "location": "San Francisco, CA, US",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zip/jobs/tu319EF-director-product-management-procure-to-pay"
+      },
+      {
+        "title": "Engineering Manager, Products",
+        "location": "San Francisco, CA, US",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zip/jobs/8qzr5r8-engineering-manager-products"
+      },
+      {
+        "title": "Senior Frontend Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zip/jobs/CJgJBF7-senior-frontend-engineer"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco, CA",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zip/jobs/SM9CWx3-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:08.218Z"
+  },
+  {
+    "id": 21766,
+    "name": "Luminai",
+    "slug": "luminai",
+    "url": "https://www.ycombinator.com/companies/luminai",
+    "jobs": [
+      {
+        "title": "Commercial Chief of Staff",
+        "location": "San Mateo, CA, US",
+        "salary": "$120K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/luminai/jobs/vSU4qjH-commercial-chief-of-staff"
+      },
+      {
+        "title": "Sr. Software Engineer - Product",
+        "location": "San Mateo, CA, US",
+        "salary": "$170K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/luminai/jobs/IW9Lujv-sr-software-engineer-product"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:10.851Z"
+  },
+  {
+    "id": 21769,
+    "name": "Roboflow",
+    "slug": "roboflow",
+    "url": "https://www.ycombinator.com/companies/roboflow",
+    "jobs": [
+      {
+        "title": "Full Stack Engineer (Enterprise Focus)",
+        "location": "New York, NY, US / San Francisco, CA, US / Remote (US)",
+        "salary": "$165K - $195K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/F5UO1PL-full-stack-engineer-enterprise-focus"
+      },
+      {
+        "title": "Growth Account Executive",
+        "location": "New York, NY, US / San Francisco, CA, US / Remote (US)",
+        "salary": "$140K - $170K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/SEeUBaa-growth-account-executive"
+      },
+      {
+        "title": "Developer Advocate",
+        "location": "New York, NY, US / San Francisco, CA, US / Remote (US)",
+        "salary": "$175K - $195K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/xxQN2Ix-developer-advocate"
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "location": "New York, NY, US / San Francisco, CA, US / Remote (US)",
+        "salary": "$150 - $175",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/sp7wv82-infrastructure-engineer"
+      },
+      {
+        "title": "Solutions Architect",
+        "location": "New York, NY, US / San Francisco, CA, US / Remote (US)",
+        "salary": "$150K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/6v02dCZ-solutions-architect"
+      },
+      {
+        "title": "Implementation Engineer",
+        "location": "San Francisco, CA, US / New York, NY, US / Remote (US)",
+        "salary": "$150K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/Qe7nT0h-implementation-engineer"
+      },
+      {
+        "title": "Former Founder",
+        "location": "San Francisco, CA, US / New York, NY, US / São Paulo, SP, BR / Remote",
+        "salary": "$60K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/SRD0iZ0-former-founder"
+      },
+      {
+        "title": "Enterprise Account Executive",
+        "location": "New York, NY, US / San Francisco, CA, US / Remote (US)",
+        "salary": "$140K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/GfjRaiR-enterprise-account-executive"
+      },
+      {
+        "title": "Full Stack Engineer",
+        "location": "Remote, United States / New York, NY, US / San Francisco, CA, US / Remote (US)",
+        "salary": "$165K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/kfTvTLz-full-stack-engineer"
+      },
+      {
+        "title": "Sales Development Representative",
+        "location": "New York, NY, US",
+        "salary": "$70K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/roboflow/jobs/x4cRPAW-sales-development-representative"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:14.066Z"
+  },
+  {
+    "id": 21770,
+    "name": "SuperTokens",
+    "slug": "supertokens",
+    "url": "https://www.ycombinator.com/companies/supertokens",
+    "jobs": [
+      {
+        "title": "Solutions Engineer",
+        "location": "US / CA / Remote (US; CA)",
+        "salary": "$90K - $160K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/supertokens/jobs/eEVdU9u-solutions-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:17.133Z"
+  },
+  {
+    "id": 21781,
+    "name": "Datafold",
+    "slug": "datafold",
+    "url": "https://www.ycombinator.com/companies/datafold",
+    "jobs": [
+      {
+        "title": "Senior Software Engineer - AI Agents",
+        "location": "Remote (US)",
+        "salary": "$175K - $245K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/datafold/jobs/ieGYiSG-senior-software-engineer-ai-agents"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:20.390Z"
+  },
+  {
+    "id": 21782,
+    "name": "Lightdash",
+    "slug": "hubble",
+    "url": "https://www.ycombinator.com/companies/hubble",
+    "jobs": [
+      {
+        "title": "Full Stack Software Engineer",
+        "location": "3+ years",
+        "salary": "$100K - $170K",
+        "equity": "0.10% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/hubble/jobs/5HFvO5EmG-full-stack-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:23.354Z"
+  },
+  {
+    "id": 21784,
+    "name": "Blue Onion",
+    "slug": "blue-onion",
+    "url": "https://www.ycombinator.com/companies/blue-onion",
+    "jobs": [
+      {
+        "title": "Sales Development Representative",
+        "location": "United States - Remote / Remote (US)",
+        "salary": "$65K - $90K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blue-onion/jobs/4lO4jgB-sales-development-representative"
+      },
+      {
+        "title": "Head of Professional Services",
+        "location": "United States - Remote / Remote (US)",
+        "salary": "$160K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blue-onion/jobs/kZApEee-head-of-professional-services"
+      },
+      {
+        "title": "Account Executive",
+        "location": "US / Remote (US)",
+        "salary": "$130K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blue-onion/jobs/8zXVR2h-account-executive"
+      },
+      {
+        "title": "Senior UX Product Manager",
+        "location": "US / Remote (US)",
+        "salary": "$150K - $175K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blue-onion/jobs/qoYLIkA-senior-ux-product-manager"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:26.943Z"
+  },
+  {
+    "id": 21790,
+    "name": "Dripos",
+    "slug": "dripos",
+    "url": "https://www.ycombinator.com/companies/dripos",
+    "jobs": [
+      {
+        "title": "Account Executive Outbound",
+        "location": "Austin, TX",
+        "salary": "$100K - $175K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/dripos/jobs/1LTQrEG-account-executive-outbound"
+      },
+      {
+        "title": "Account Executive - Outbound",
+        "location": "Portland, OR, US / Seattle, WA, US / San Francisco, CA, US / Remote (Portland, OR, US; Seattle, WA, US; San Francisco, CA, US)",
+        "salary": "$100K - $175K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/dripos/jobs/lbwcHzi-account-executive-outbound"
+      },
+      {
+        "title": "Business Development Representative",
+        "location": "Austin, TX",
+        "salary": "$45K - $75K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/dripos/jobs/MCXiPHL-business-development-representative"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:30.167Z"
+  },
+  {
+    "id": 21791,
+    "name": "AtoB",
+    "slug": "atob",
+    "url": "https://www.ycombinator.com/companies/atob",
+    "jobs": [
+      {
+        "title": "Staff Software Engineer",
+        "location": "San Francisco Bay Area / New York, NY, US / Los Angeles, CA, US / Montreal, QC, CA / Montreal, Quebec, CA / Vancouver, BC, CA / Vancouver, British Columbia, CA / Toronto, ON, CA / Toronto, Ontario, CA",
+        "salary": "$225K - $300K",
+        "equity": "0.15% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/atob/jobs/ejT8FBX-staff-software-engineer"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "San Francisco Bay Area / Los Angeles, CA, US / New York, NY, US / Montreal, QC, CA / Montreal, Quebec, CA / Toronto, ON, CA / Toronto, Ontario, CA / Vancouver, BC, CA / Vancouver, British Columbia, CA",
+        "salary": "$150K - $250K",
+        "equity": "0.10% - 0.15%",
+        "url": "https://www.ycombinator.com/companies/atob/jobs/9lQdBT9-senior-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:33.466Z"
+  },
+  {
+    "id": 21795,
+    "name": "QuestDB",
+    "slug": "questdb",
+    "url": "https://www.ycombinator.com/companies/questdb",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:33:36.051Z"
+  },
+  {
+    "id": 21799,
+    "name": "Conta Simples",
+    "slug": "conta-simples",
+    "url": "https://www.ycombinator.com/companies/conta-simples",
+    "jobs": [
+      {
+        "title": "Backend Developer",
+        "location": "São Paulo, SP, Brazil / Remote",
+        "salary": "$2.5K - $3K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/conta-simples/jobs/PahN5lG-backend-developer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:39.114Z"
+  },
+  {
+    "id": 21800,
+    "name": "Seam",
+    "slug": "seam",
+    "url": "https://www.ycombinator.com/companies/seam",
+    "jobs": [
+      {
+        "title": "Partner Growth/Enablement Manager",
+        "location": "San Francisco",
+        "salary": "$140K - $190K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/seam/jobs/N1sq3yK-partner-growth-enablement-manager"
+      },
+      {
+        "title": "Senior Product Engineer (Onsite - SF)",
+        "location": "San Francisco, CA",
+        "salary": "$160K - $230K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/seam/jobs/Pmhmq4Q-senior-product-engineer-onsite-sf"
+      },
+      {
+        "title": "Solutions Engineer",
+        "location": "San Francisco",
+        "salary": "$150K - $190K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/seam/jobs/0necGNh-solutions-engineer"
+      },
+      {
+        "title": "Senior Platform Engineer (Onsite - SF)",
+        "location": "San Francisco, CA",
+        "salary": "$170K - $220K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/seam/jobs/gQHJoK2-senior-platform-engineer-onsite-sf"
+      },
+      {
+        "title": "Developer Relations Lead - Content & Enablement",
+        "location": "San Francisco, CA",
+        "salary": "$130K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/seam/jobs/5l3orHA-developer-relations-lead-content-enablement"
+      },
+      {
+        "title": "Senior Software Engineer (Onsite - SF)",
+        "location": "San Francisco",
+        "salary": "$130K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/seam/jobs/TlDr05F-senior-software-engineer-onsite-sf"
+      },
+      {
+        "title": "Senior Product Designer (Onsite - SF)",
+        "location": "San Francisco, CA",
+        "salary": "$120K - $210K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/seam/jobs/51CIHNf-senior-product-designer-onsite-sf"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:42.432Z"
+  },
+  {
+    "id": 21812,
+    "name": "Safepay",
+    "slug": "safepay",
+    "url": "https://www.ycombinator.com/companies/safepay",
+    "jobs": [
+      {
+        "title": "Senior Backend Engineer",
+        "location": "1+ years",
+        "salary": "Karachi, Pakistan / Remote (US)",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/safepay/jobs/sYvXVJL-senior-backend-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:45.641Z"
+  },
+  {
+    "id": 21828,
+    "name": "Explorex",
+    "slug": "explorex",
+    "url": "https://www.ycombinator.com/companies/explorex",
+    "jobs": [
+      {
+        "title": "Founders Office (CEO's Office) - Product Manager",
+        "location": "₹1.2M - ₹1.5M INR",
+        "salary": "Bengaluru, KA, IN",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/sSDJ4SX-founders-office-ceo-s-office-product-manager"
+      },
+      {
+        "title": "UI/UX Designer",
+        "location": "3+ years",
+        "salary": "$8K - $12K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/E8NCOjq-ui-ux-designer"
+      },
+      {
+        "title": "Quality Analyst",
+        "location": "3+ years",
+        "salary": "₹500K - ₹700K INR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/dTzl6Vu-quality-analyst"
+      },
+      {
+        "title": "Data Analyst",
+        "location": "3+ years",
+        "salary": "₹600K - ₹1.5M INR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/K3xvwX1-data-analyst"
+      },
+      {
+        "title": "Graphic Designer",
+        "location": "1+ years",
+        "salary": "₹450K - ₹500K INR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/vDCZJJr-graphic-designer"
+      },
+      {
+        "title": "Social Media Manager",
+        "location": "3+ years",
+        "salary": "₹500K - ₹700K INR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/upy4liO-social-media-manager"
+      },
+      {
+        "title": "Sales Executive",
+        "location": "Mumbai, MH, IN / Pune, MH, IN",
+        "salary": "₹400K - ₹600K INR",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/Dq50MDO-sales-executive"
+      },
+      {
+        "title": "Dev-Ops Engineer",
+        "location": "₹3M - ₹3.5M INR",
+        "salary": "Bengaluru, KA, IN",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/O9kudXu-dev-ops-engineer"
+      },
+      {
+        "title": "Front End Engineer",
+        "location": "Bangalore",
+        "salary": "$10K - $20K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/IF3PAjw-front-end-engineer"
+      },
+      {
+        "title": "Front End Engineer Lead",
+        "location": "Bangalore",
+        "salary": "$10K - $20K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/du157uJ-front-end-engineer-lead"
+      },
+      {
+        "title": "Backend Engineer II+",
+        "location": "Bangalore",
+        "salary": "$30K - $60K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/explorex/jobs/W4STL5S-backend-engineer-ii"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:49.054Z"
+  },
+  {
+    "id": 21831,
+    "name": "Pave",
+    "slug": "pave-2",
+    "url": "https://www.ycombinator.com/companies/pave-2",
+    "jobs": [
+      {
+        "title": "Product Designer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $236K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/pave-2/jobs/U2GWMqa-product-designer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:52.386Z"
+  },
+  {
+    "id": 21857,
+    "name": "Hypotenuse AI",
+    "slug": "hypotenuse-ai",
+    "url": "https://www.ycombinator.com/companies/hypotenuse-ai",
+    "jobs": [
+      {
+        "title": "Software Engineer (all levels)",
+        "location": "Singapore, Singapore",
+        "salary": "$1 - $2",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/hypotenuse-ai/jobs/EY26rh1-software-engineer-all-levels"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:55.493Z"
+  },
+  {
+    "id": 21862,
+    "name": "Dialect",
+    "slug": "dialect",
+    "url": "https://www.ycombinator.com/companies/dialect",
+    "jobs": [
+      {
+        "title": "Marketing Manager",
+        "location": "New York, NY, US / Remote (US)",
+        "salary": "$100K - $140K",
+        "equity": "0.15% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/dialect/jobs/PvdW92H-marketing-manager"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:33:58.551Z"
+  },
+  {
+    "id": 21885,
+    "name": "Swif.ai",
+    "slug": "swif-ai",
+    "url": "https://www.ycombinator.com/companies/swif-ai",
+    "jobs": [
+      {
+        "title": "Sales Development Representative (SDR)",
+        "location": "US / CA / Remote (US; CA)",
+        "salary": "$40K - $80K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/swif-ai/jobs/lbbQXJj-sales-development-representative-sdr"
+      },
+      {
+        "title": "Full Stack Software Engineer Intern [Summer 2026]",
+        "location": "US / TW / Remote (US; TW)",
+        "salary": "$500 - $2K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/swif-ai/jobs/dcyipuS-full-stack-software-engineer-intern-summer-2026"
+      },
+      {
+        "title": "Sales Intern [Summer 2026]",
+        "location": "US / Remote (US)",
+        "salary": "$300 - $1K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/swif-ai/jobs/iz7AKOn-sales-intern-summer-2026"
+      },
+      {
+        "title": "Full-Cycle Sales AE",
+        "location": "Sunnyvale, CA, US / Remote (US)",
+        "salary": "$30K - $60K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/swif-ai/jobs/9H1KM0B-full-cycle-sales-ae"
+      },
+      {
+        "title": "Software Testing Engineer (QA)",
+        "location": "TW / VN / Remote (TW; VN)",
+        "salary": "$30K - $50K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/swif-ai/jobs/rm6wwJu-software-testing-engineer-qa"
+      },
+      {
+        "title": "Backend Engineer (Golang)",
+        "location": "TW / US / CA / SG / ID / VN / MY / TR / Remote (TW; US; CA; SG; ID; VN; MY; TR)",
+        "salary": "$40K - $70K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/swif-ai/jobs/bAPaF28-backend-engineer-golang"
+      },
+      {
+        "title": "Frontend Engineer (Vue, Browser Extensions, AI Agent)",
+        "location": "1+ years",
+        "salary": "$40K - $60K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/swif-ai/jobs/aDnRu3L-frontend-engineer-vue-browser-extensions-ai-agent"
+      },
+      {
+        "title": "DevOps Engineer",
+        "location": "Taiwan / VN / ID / TR / Remote (Taiwan; VN; ID; TR)",
+        "salary": "$30K - $50K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/swif-ai/jobs/094hpfh-devops-engineer"
+      },
+      {
+        "title": "Backend Developer (Scala/Java)",
+        "location": "Taiwan / United States / Canada / Singapore / VN / ID / Remote (Taiwan; United States; Canada; Singapore; VN; ID)",
+        "salary": "$40K - $70K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/swif-ai/jobs/VoDI7UY-backend-developer-scala-java"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:01.866Z"
+  },
+  {
+    "id": 21897,
+    "name": "Arist",
+    "slug": "arist",
+    "url": "https://www.ycombinator.com/companies/arist",
+    "jobs": [
+      {
+        "title": "Senior QA Engineer",
+        "location": "US / CA / Remote (US; CA)",
+        "salary": "$120 - $140",
+        "equity": "0.10% - 0.47%",
+        "url": "https://www.ycombinator.com/companies/arist/jobs/cOxs5W2-senior-qa-engineer"
+      },
+      {
+        "title": "Staff Engineer",
+        "location": "US / Remote (US)",
+        "salary": "$180K - $220K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/arist/jobs/zpzaHHf-staff-engineer"
+      },
+      {
+        "title": "Senior AI Engineer",
+        "location": "US / Remote (US)",
+        "salary": "$180K - $250K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/arist/jobs/fSfpAaW-senior-ai-engineer"
+      },
+      {
+        "title": "Product Design Lead",
+        "location": "NY, US / Portland, OR, US / Remote (US)",
+        "salary": "$160K - $200K",
+        "equity": "0.15%",
+        "url": "https://www.ycombinator.com/companies/arist/jobs/yDxEBuC-product-design-lead"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:05.137Z"
+  },
+  {
+    "id": 21902,
+    "name": "Blissway",
+    "slug": "blissway",
+    "url": "https://www.ycombinator.com/companies/blissway",
+    "jobs": [
+      {
+        "title": "Software Engineer - Roadside System Operations",
+        "location": "Denver, Colorado",
+        "salary": "$145K - $185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blissway/jobs/cdXQWvz-software-engineer-roadside-system-operations"
+      },
+      {
+        "title": "Software Engineer - Data Processing and Assembly",
+        "location": "Denver, Colorado",
+        "salary": "$145K - $185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blissway/jobs/O7Q8GJn-software-engineer-data-processing-and-assembly"
+      },
+      {
+        "title": "Software Engineer - New Grad/Early Career",
+        "location": "Denver, Colorado",
+        "salary": "$125K - $175K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blissway/jobs/XoAFH2E-software-engineer-new-grad-early-career"
+      },
+      {
+        "title": "Software Engineer - Accounts, Payments, and Mail",
+        "location": "Denver, Colorado",
+        "salary": "$145K - $185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blissway/jobs/cqW5hwJ-software-engineer-accounts-payments-and-mail"
+      },
+      {
+        "title": "Software Engineer - Vehicle Identification",
+        "location": "Denver, Colorado",
+        "salary": "$145K - $185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blissway/jobs/hr2ImXJ-software-engineer-vehicle-identification"
+      },
+      {
+        "title": "Electrical Engineer - Reliability and New Peripherals",
+        "location": "Denver, Colorado",
+        "salary": "$135K - $185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blissway/jobs/qWJAtOw-electrical-engineer-reliability-and-new-peripherals"
+      },
+      {
+        "title": "Electrical Engineer - New Grad/Early Career",
+        "location": "Denver, Colorado",
+        "salary": "$125K - $165K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/blissway/jobs/YJsuhnm-electrical-engineer-new-grad-early-career"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:08.654Z"
+  },
+  {
+    "id": 21903,
+    "name": "doola",
+    "slug": "doola",
+    "url": "https://www.ycombinator.com/companies/doola",
+    "jobs": [
+      {
+        "title": "Tax Team Lead",
+        "location": "Remote in Philippines / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/doola/jobs/6xGUxW3-tax-team-lead"
+      },
+      {
+        "title": "Operations Agent",
+        "location": "Remote in Philippines / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/doola/jobs/HdlyBJp-operations-agent"
+      },
+      {
+        "title": "IRS / EIN Specialist",
+        "location": "Bangalore / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/doola/jobs/ucJFSNZ-irs-ein-specialist"
+      },
+      {
+        "title": "Account Management Team Lead",
+        "location": "Remote in Philippines / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/doola/jobs/yriS1CQ-account-management-team-lead"
+      },
+      {
+        "title": "Bookkeeper (Client Success)",
+        "location": "Remote (US)",
+        "salary": "$55K - $80K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/doola/jobs/o7evMBB-bookkeeper-client-success"
+      },
+      {
+        "title": "Tax Preparer (Bangalore, India)",
+        "location": "Bangalore",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/doola/jobs/JIGwcQ0-tax-preparer-bangalore-india"
+      },
+      {
+        "title": "CPA, Tax Professional (Bangalore, India)",
+        "location": "Bangalore",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/doola/jobs/nqtfSsq-cpa-tax-professional-bangalore-india"
+      },
+      {
+        "title": "Bookkeeper (Bangalore, India)",
+        "location": "Bangalore / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/doola/jobs/EiVa7yS-bookkeeper-bangalore-india"
+      },
+      {
+        "title": "Pitch Us on a Role",
+        "location": "New York, New York",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/doola/jobs/cmnbzur-pitch-us-on-a-role"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:12.594Z"
+  },
+  {
+    "id": 21909,
+    "name": "Seal",
+    "slug": "seal-2",
+    "url": "https://www.ycombinator.com/companies/seal-2",
+    "jobs": [
+      {
+        "title": "Solutions Consultant",
+        "location": "NC, US / London, England, GB",
+        "salary": "$50K - $200K",
+        "equity": "0.30% - 0.60%",
+        "url": "https://www.ycombinator.com/companies/seal-2/jobs/ZgASyYW-solutions-consultant"
+      },
+      {
+        "title": "Founder associate",
+        "location": "London, England, GB",
+        "salary": "£40K - £60K GBP",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/seal-2/jobs/zwXbCCM-founder-associate"
+      },
+      {
+        "title": "Product Engineer",
+        "location": "England, GB",
+        "salary": "£40K - £80K GBP",
+        "equity": "0.10% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/seal-2/jobs/n4byaPm-product-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:16.014Z"
+  },
+  {
+    "id": 21914,
+    "name": "Bits",
+    "slug": "bits",
+    "url": "https://www.ycombinator.com/companies/bits",
+    "jobs": [
+      {
+        "title": "Senior Front end Engineer",
+        "location": "London, England, GB / Remote (US)",
+        "salary": "$100K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/bits/jobs/eBLRE9Y-senior-front-end-engineer"
+      },
+      {
+        "title": "Senior Software Engineer - Backend",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $240K",
+        "equity": "0.10% - 0.25%",
+        "url": "https://www.ycombinator.com/companies/bits/jobs/jJ4l3dY-senior-software-engineer-backend"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:19.256Z"
+  },
+  {
+    "id": 21915,
+    "name": "Atomic",
+    "slug": "atomic",
+    "url": "https://www.ycombinator.com/companies/atomic",
+    "jobs": [
+      {
+        "title": "Senior Backend Engineer - Golang",
+        "location": "Remote / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/atomic/jobs/YGfhkDP-senior-backend-engineer-golang"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:22.273Z"
+  },
+  {
+    "id": 21969,
+    "name": "Nextera Robotics",
+    "slug": "nextera-robotics",
+    "url": "https://www.ycombinator.com/companies/nextera-robotics",
+    "jobs": [
+      {
+        "title": "Wireless Network Engineer",
+        "location": "Boston, MA, US",
+        "salary": "$100K - $135K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/80V6wga-wireless-network-engineer"
+      },
+      {
+        "title": "Remote Supervisor for Robots - local in MA only - full-time",
+        "location": "Boston, MA",
+        "salary": "$48K - $52K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/MrF1cTK-remote-supervisor-for-robots-local-in-ma-only-full-time"
+      },
+      {
+        "title": "Front-End Engineer - Boston, MA or remote (US only)",
+        "location": "Boston, MA, US / Remote (US)",
+        "salary": "$110K - $140K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/QPfuoec-front-end-engineer-boston-ma-or-remote-us-only"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "location": "Boston, MA",
+        "salary": "$130K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/bbyawrb-machine-learning-engineer"
+      },
+      {
+        "title": "Sr. Business Development Manager",
+        "location": "Boston, MA, US / New York, NY, US / Hartford, CT, US / Washington, DC, US",
+        "salary": "$90K - $130K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/LTDxNVv-sr-business-development-manager"
+      },
+      {
+        "title": "Full-Stack Engineer - Boston, MA or remote (US only)",
+        "location": "Boston, MA / Remote (US)",
+        "salary": "$115K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/kkeEfrV-full-stack-engineer-boston-ma-or-remote-us-only"
+      },
+      {
+        "title": "Equipment Assembly Technician - part-time",
+        "location": "Boston, MA",
+        "salary": "$20K - $52K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/KTD4ULW-equipment-assembly-technician-part-time"
+      },
+      {
+        "title": "Mechanical Engineer - Robotics",
+        "location": "Boston, MA",
+        "salary": "$90K - $110K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/bQMJa3o-mechanical-engineer-robotics"
+      },
+      {
+        "title": "Remote Supervisor for Robots - part-time - local in MA only",
+        "location": "Boston, MA",
+        "salary": "$48K - $52K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/KRk14ny-remote-supervisor-for-robots-part-time-local-in-ma-only"
+      },
+      {
+        "title": "Software Engineer, Robotics (Navigation)",
+        "location": "Boston, MA",
+        "salary": "$120K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextera-robotics/jobs/FyCxlEw49-software-engineer-robotics-navigation"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:25.244Z"
+  },
+  {
+    "id": 21986,
+    "name": "Vitable Health",
+    "slug": "vitable-health",
+    "url": "https://www.ycombinator.com/companies/vitable-health",
+    "jobs": [
+      {
+        "title": "Senior Product Engineer",
+        "location": "Remote / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/vitable-health/jobs/hm1IYpn-senior-product-engineer"
+      },
+      {
+        "title": "Sales Development Representative",
+        "location": "Philadelphia, PA (remote) / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/vitable-health/jobs/MnIXjy0-sales-development-representative"
+      },
+      {
+        "title": "Account Executive",
+        "location": "Remote / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/vitable-health/jobs/oJZgN69-account-executive"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:28.751Z"
+  },
+  {
+    "id": 22004,
+    "name": "Notabene",
+    "slug": "notabene",
+    "url": "https://www.ycombinator.com/companies/notabene",
+    "jobs": [
+      {
+        "title": "Sales Director, Americas (Institutional)",
+        "location": "New York, NY, US / Remote (New York, NY, US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/notabene/jobs/dWkUMzI-sales-director-americas-institutional"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:31.939Z"
+  },
+  {
+    "id": 22037,
+    "name": "Tella",
+    "slug": "tella",
+    "url": "https://www.ycombinator.com/companies/tella",
+    "jobs": [
+      {
+        "title": "Senior Product Engineer (Frontend)",
+        "location": "6+ years",
+        "salary": "$120K - $180K",
+        "equity": "0.50% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/tella/jobs/BF8KIwz-senior-product-engineer-frontend"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:35.075Z"
+  },
+  {
+    "id": 22043,
+    "name": "Kingdom",
+    "slug": "kingdom",
+    "url": "https://www.ycombinator.com/companies/kingdom",
+    "jobs": [
+      {
+        "title": "Looking for another business/operational role?",
+        "location": "Brooklyn",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/kingdom/jobs/nC5SiQX-looking-for-another-business-operational-role"
+      },
+      {
+        "title": "Looking for another scientific role?",
+        "location": "Brooklyn",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/kingdom/jobs/QGjBXV2-looking-for-another-scientific-role"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:38.119Z"
+  },
+  {
+    "id": 22046,
+    "name": "Flint",
+    "slug": "flint",
+    "url": "https://www.ycombinator.com/companies/flint",
+    "jobs": [
+      {
+        "title": "Nurse Relationship Manager (Nurse Recruiter)",
+        "location": "Vancouver, BC, CA / Vancouver, British Columbia, CA / Remote",
+        "salary": "$80K - $110K CAD",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/flint/jobs/ePpISCP-nurse-relationship-manager-nurse-recruiter"
+      },
+      {
+        "title": "Account Manager",
+        "location": "Remote",
+        "salary": "$100K - $120K CAD",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/flint/jobs/dEO75Zh-account-manager"
+      },
+      {
+        "title": "Immigration Lawyer",
+        "location": "Remote (US)",
+        "salary": "$90K - $100K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/flint/jobs/xtvrpBu-immigration-lawyer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:41.396Z"
+  },
+  {
+    "id": 22050,
+    "name": "Skio",
+    "slug": "skio",
+    "url": "https://www.ycombinator.com/companies/skio",
+    "jobs": [
+      {
+        "title": "Software Engineer",
+        "location": "New York / Remote",
+        "salary": "$150K - $250K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/skio/jobs/GTJ6SAt-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:45.245Z"
+  },
+  {
+    "id": 22053,
+    "name": "Hotplate",
+    "slug": "hotplate",
+    "url": "https://www.ycombinator.com/companies/hotplate",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:34:48.398Z"
+  },
+  {
+    "id": 22062,
+    "name": "Minimum",
+    "slug": "minimum",
+    "url": "https://www.ycombinator.com/companies/minimum",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:34:52.002Z"
+  },
+  {
+    "id": 22076,
+    "name": "Dataland",
+    "slug": "dataland",
+    "url": "https://www.ycombinator.com/companies/dataland",
+    "jobs": [
+      {
+        "title": "Founding Forward Deployed Engineer",
+        "location": "New York, NY, US",
+        "salary": "$150K - $400K",
+        "equity": "1.00%",
+        "url": "https://www.ycombinator.com/companies/dataland/jobs/tDqkVx0-founding-forward-deployed-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:34:56.408Z"
+  },
+  {
+    "id": 22082,
+    "name": "Laylo",
+    "slug": "laylo",
+    "url": "https://www.ycombinator.com/companies/laylo",
+    "jobs": [
+      {
+        "title": "Head of Growth",
+        "location": "CA, US / TX, US / TN, US / NY, US / Remote (CA, US; TX, US; TN, US; NY, US)",
+        "salary": "$150K - $200K",
+        "equity": "0.01% - 0.03%",
+        "url": "https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth"
+      },
+      {
+        "title": "Account Executive: Festivals, Venues and Promoters",
+        "location": "Los Angeles, CA, US / New York, NY, US / Nashville, TN, US / Austin, TX, US / Remote (Los Angeles, CA, US; New York, NY, US; Nashville, TN, US; Austin, TX, US)",
+        "salary": "$95K - $180K",
+        "equity": "0.10% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/laylo/jobs/rnEH2Yt-account-executive-festivals-venues-and-promoters"
+      },
+      {
+        "title": "Account Executive (Artists, Managers, Labels) - Europe",
+        "location": "GB / FR / DE / SE / Remote (GB; FR; DE; SE)",
+        "salary": "$85K - $195K",
+        "equity": "0.01% - 0.03%",
+        "url": "https://www.ycombinator.com/companies/laylo/jobs/uyeViOI-account-executive-artists-managers-labels-europe"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:00.630Z"
+  },
+  {
+    "id": 22084,
+    "name": "Arketa",
+    "slug": "arketa",
+    "url": "https://www.ycombinator.com/companies/arketa",
+    "jobs": [
+      {
+        "title": "Recruiting Lead (Technical & GTM)",
+        "location": "United States / New York, NY, US / Remote (US)",
+        "salary": "$115K - $170K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/BfBoILQ-recruiting-lead-technical-gtm"
+      },
+      {
+        "title": "Director, Brand Marketing",
+        "location": "New York City",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/BxEG8tE-director-brand-marketing"
+      },
+      {
+        "title": "Senior Manager, Demand Generation & Events",
+        "location": "New York City",
+        "salary": "$140K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/133g63d-senior-manager-demand-generation-events"
+      },
+      {
+        "title": "Product Manager",
+        "location": "New York City",
+        "salary": "$160K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/fFOh901-product-manager"
+      },
+      {
+        "title": "Engineering Manager, MX",
+        "location": "Mexico",
+        "salary": "$50K - $100K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/ijdKgQw-engineering-manager-mx"
+      },
+      {
+        "title": "Inbound Sales Development Representative (SDR)",
+        "location": "United States",
+        "salary": "$50K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/rtsCslC-inbound-sales-development-representative-sdr"
+      },
+      {
+        "title": "Engineering Manager",
+        "location": "New York City",
+        "salary": "$180K - $230K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/0XbRJ5g-engineering-manager"
+      },
+      {
+        "title": "Product Designer",
+        "location": "New York City",
+        "salary": "$120K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/Ry0FY40-product-designer"
+      },
+      {
+        "title": "Sales Development Representative,  UK",
+        "location": "United States",
+        "salary": "$40K - $45K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/VgocMix-sales-development-representative-uk"
+      },
+      {
+        "title": "Customer Care Representative, AUS",
+        "location": "AU / NZ / Remote (AU; NZ)",
+        "salary": "$45K - $50K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/euaZuPN-customer-care-representative-aus"
+      },
+      {
+        "title": "Sales Account Executive - SMB",
+        "location": "US / Remote (US)",
+        "salary": "$50K - $120K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/Cle9vEz-sales-account-executive-smb"
+      },
+      {
+        "title": "Sales Account Executive - SMB, UK",
+        "location": "GB / Wales, GB / Scotland, GB / Northern Ireland, GB / England, GB / Remote (GB; Wales, GB; Scotland, GB; Northern Ireland, GB; England, GB)",
+        "salary": "$40K - $60K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/N6h3u3x-sales-account-executive-smb-uk"
+      },
+      {
+        "title": "Software Engineer - Fullstack, MX",
+        "location": "MX / Remote (MX)",
+        "salary": "$50K - $60K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/hnUTNAw-software-engineer-fullstack-mx"
+      },
+      {
+        "title": "Sales Development Representative",
+        "location": "US / Remote (US)",
+        "salary": "$50K - $75K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/3wIkbMn-sales-development-representative"
+      },
+      {
+        "title": "Customer Care Representative",
+        "location": "US / Remote (US)",
+        "salary": "$45K - $50K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/arketa/jobs/w3pDIqX-customer-care-representative"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:04.381Z"
+  },
+  {
+    "id": 22088,
+    "name": "CarbonChain",
+    "slug": "carbonchain",
+    "url": "https://www.ycombinator.com/companies/carbonchain",
+    "jobs": [
+      {
+        "title": "Senior (Enterprise) Account Executive 2025",
+        "location": "London",
+        "salary": "£80K - £120K GBP",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/carbonchain/jobs/rkoladz-senior-enterprise-account-executive-2025"
+      },
+      {
+        "title": "Account Executive 2025",
+        "location": "London",
+        "salary": "£60K - £100K GBP",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/carbonchain/jobs/nyw6cj3-account-executive-2025"
+      },
+      {
+        "title": "Fullstack Engineer",
+        "location": "England, GB",
+        "salary": "£60K - £100K GBP",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/carbonchain/jobs/DWE8sA6-fullstack-engineer"
+      },
+      {
+        "title": "Head of Engineering",
+        "location": "England, GB",
+        "salary": "£140K - £200K GBP",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/carbonchain/jobs/IfFAHhL-head-of-engineering"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:10.302Z"
+  },
+  {
+    "id": 22108,
+    "name": "Ready",
+    "slug": "ready",
+    "url": "https://www.ycombinator.com/companies/ready",
+    "jobs": [
+      {
+        "title": "Don't see a role for you? Feel free to apply directly here!",
+        "location": "Remote / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/ready/jobs/6C3CIQF-don-t-see-a-role-for-you-feel-free-to-apply-directly-here"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:14.323Z"
+  },
+  {
+    "id": 22124,
+    "name": "Taktile",
+    "slug": "taktile",
+    "url": "https://www.ycombinator.com/companies/taktile",
+    "jobs": [
+      {
+        "title": "Senior Partnerships Manager",
+        "location": "New York, NY, US",
+        "salary": "$140K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/taktile/jobs/qY9UA4s-senior-partnerships-manager"
+      },
+      {
+        "title": "Senior Business Development Representative",
+        "location": "New York, NY, US / Berlin, BE, DE / Berlin, Berlin, DE / London, England, GB",
+        "salary": "$90K - $110K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/taktile/jobs/mBoNF1K-senior-business-development-representative"
+      },
+      {
+        "title": "Senior Account Executive",
+        "location": "New York, NY, US",
+        "salary": "$250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/taktile/jobs/6kjtV88-senior-account-executive"
+      },
+      {
+        "title": "Enterprise Account Executive",
+        "location": "Berlin, BE, DE / Berlin, Berlin, DE / London, England, GB / New York, NY, US",
+        "salary": "$300K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/taktile/jobs/TXMStcO-enterprise-account-executive"
+      },
+      {
+        "title": "Business Development Representative",
+        "location": "New York, NY, US / Berlin, BE, DE / Berlin, Berlin, DE / London, England, GB",
+        "salary": "$80K - $100K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/taktile/jobs/m1SQTK1-business-development-representative"
+      },
+      {
+        "title": "Account Executive",
+        "location": "New York, NY, US",
+        "salary": "$200K - $210K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/taktile/jobs/RWpQGNE-account-executive"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:18.137Z"
+  },
+  {
+    "id": 22131,
+    "name": "Draftwise",
+    "slug": "draftwise",
+    "url": "https://www.ycombinator.com/companies/draftwise",
+    "jobs": [
+      {
+        "title": "Senior Brand Designer (US)",
+        "location": "New York, NY, US / Remote (US)",
+        "salary": "$110K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/knGczIQ-senior-brand-designer-us"
+      },
+      {
+        "title": "Senior Brand Designer (Canada)",
+        "location": "Toronto, Ontario, CA / Remote (CA)",
+        "salary": "$100K - $150K CAD",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/KWtNLK0-senior-brand-designer-canada"
+      },
+      {
+        "title": "Enterprise Account Executive",
+        "location": "New York, NY, US",
+        "salary": "$300K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/1czVk3F-enterprise-account-executive"
+      },
+      {
+        "title": "Business Development Representative - NYC",
+        "location": "New York, NY, US",
+        "salary": "$80K - $90K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/sQOu0I5-business-development-representative-nyc"
+      },
+      {
+        "title": "Business Development Representative - London",
+        "location": "London, England, GB",
+        "salary": "£48K - £58K GBP",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/Ky4DBVm-business-development-representative-london"
+      },
+      {
+        "title": "Senior Front End Software Engineer (US)",
+        "location": "New York, NY, US / Remote (US)",
+        "salary": "$140K - $190K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/ezvTBnB-senior-front-end-software-engineer-us"
+      },
+      {
+        "title": "Senior Front End Software Engineer (Canada)",
+        "location": "CA / Remote (CA)",
+        "salary": "$140K - $190K CAD",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/d1uNgYD-senior-front-end-software-engineer-canada"
+      },
+      {
+        "title": "Senior Back End Software Engineer (Canada)",
+        "location": "New York, NY, US / Remote (CA)",
+        "salary": "$140K - $190K CAD",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/EzJFseS-senior-back-end-software-engineer-canada"
+      },
+      {
+        "title": "Senior Back End Software Engineer (US)",
+        "location": "New York, NY, US / Remote (US)",
+        "salary": "$140K - $190K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/AgdvkfL-senior-back-end-software-engineer-us"
+      },
+      {
+        "title": "Director of Sales - Mid Law",
+        "location": "New York, NY, US",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/xfolA5n-director-of-sales-mid-law"
+      },
+      {
+        "title": "Strategic Business Development",
+        "location": "New York, NY, US",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/8yEWLuQ-strategic-business-development"
+      },
+      {
+        "title": "Legal Product Specialist (UK)",
+        "location": "London, England, GB / Remote (GB)",
+        "salary": "$100K - $120K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/1ilI1WC-legal-product-specialist-uk"
+      },
+      {
+        "title": "Senior Enterprise Solutions Engineer",
+        "location": "New York, NY, US / Remote (US; CA)",
+        "salary": "$145K - $185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/tRvAj8Y-senior-enterprise-solutions-engineer"
+      },
+      {
+        "title": "Senior Customer Success Manager",
+        "location": "New York, NY, US / Chicago, IL, US / Toronto, ON, CA / Toronto, Ontario, CA / Remote (US)",
+        "salary": "$130K - $170K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/jt9VjmE-senior-customer-success-manager"
+      },
+      {
+        "title": "Account Executive",
+        "location": "New York, NY, US / Chicago, IL, US / San Francisco, CA, US / Remote (Chicago, IL, US; New York, NY, US; San Francisco, CA, US)",
+        "salary": "$215K - $275K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/43C8cL4-account-executive"
+      },
+      {
+        "title": "Legal Product Specialist (US)",
+        "location": "New York, NY, US / Remote (US)",
+        "salary": "$130K - $160K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/draftwise/jobs/ecdYilZ-legal-product-specialist-us"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:21.662Z"
+  },
+  {
+    "id": 22148,
+    "name": "Spenmo",
+    "slug": "spenmo",
+    "url": "https://www.ycombinator.com/companies/spenmo",
+    "jobs": [
+      {
+        "title": "Software Engineer",
+        "location": "South East Asia & India",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/spenmo/jobs/TwStO6u-software-engineer"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "South East Asia & India",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/spenmo/jobs/Y8MmRct-senior-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:25.605Z"
+  },
+  {
+    "id": 22152,
+    "name": "Afriex",
+    "slug": "afriex",
+    "url": "https://www.ycombinator.com/companies/afriex",
+    "jobs": [
+      {
+        "title": "Senior JavaScript Engineer",
+        "location": "San Francisco / Remote (US)",
+        "salary": "$70K - $120K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/afriex/jobs/qy719Z5-senior-javascript-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:29.830Z"
+  },
+  {
+    "id": 22174,
+    "name": "Lendtable",
+    "slug": "lendtable",
+    "url": "https://www.ycombinator.com/companies/lendtable",
+    "jobs": [
+      {
+        "title": "Founding Engineer",
+        "location": "New York, NY, US",
+        "salary": "$160K - $190K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/lendtable/jobs/pxhSZzJ-founding-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:35.838Z"
+  },
+  {
+    "id": 22184,
+    "name": "Dumps",
+    "slug": "dumps",
+    "url": "https://www.ycombinator.com/companies/dumps",
+    "jobs": [
+      {
+        "title": "Backend Lead Engineer",
+        "location": "New York, NY, US",
+        "salary": "$150K - $175K",
+        "equity": "0.20% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/dumps/jobs/d5oP3yR-backend-lead-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:39.484Z"
+  },
+  {
+    "id": 22206,
+    "name": "Vena Vitals",
+    "slug": "vena-vitals",
+    "url": "https://www.ycombinator.com/companies/vena-vitals",
+    "jobs": [
+      {
+        "title": "R&D Process & Manufacturing Manager",
+        "location": "Las Vegas, NV, US",
+        "salary": "$60K - $120K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/vena-vitals/jobs/qRFk4gc-r-d-process-manufacturing-manager"
+      },
+      {
+        "title": "Electrical Engineer",
+        "location": "Irvine, CA, US",
+        "salary": "$70K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/vena-vitals/jobs/mHg6rfQ-electrical-engineer"
+      },
+      {
+        "title": "R&D Algorithm Engineer – Health Technologies",
+        "location": "Irvine, CA",
+        "salary": "$75K - $125K",
+        "equity": "0.09% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/vena-vitals/jobs/RvD50Nt-r-d-algorithm-engineer-health-technologies"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:43.265Z"
+  },
+  {
+    "id": 22217,
+    "name": "Mobius Materials",
+    "slug": "mobius-materials",
+    "url": "https://www.ycombinator.com/companies/mobius-materials",
+    "jobs": [
+      {
+        "title": "Head of Ops",
+        "location": "Richmond, VA, US",
+        "salary": "$110K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/mobius-materials/jobs/eFfBZ0D-head-of-ops"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:46.451Z"
+  },
+  {
+    "id": 22218,
+    "name": "Glimpse",
+    "slug": "glimpse-2",
+    "url": "https://www.ycombinator.com/companies/glimpse-2",
+    "jobs": [
+      {
+        "title": "Channel Partner Manager",
+        "location": "New York, NY, US",
+        "salary": "$100K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/glimpse-2/jobs/f4RRfqX-channel-partner-manager"
+      },
+      {
+        "title": "Brand & Digital Marketing Specialist",
+        "location": "New York, NY, US",
+        "salary": "$52 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/glimpse-2/jobs/veDjT7F-brand-digital-marketing-specialist"
+      },
+      {
+        "title": "Founding Sales Development Representatives",
+        "location": "New York, NY, US",
+        "salary": "$75K - $120K",
+        "equity": "0.05% - 0.10%",
+        "url": "https://www.ycombinator.com/companies/glimpse-2/jobs/3gk6AL9-founding-sales-development-representatives"
+      },
+      {
+        "title": "General Application",
+        "location": "New York, NY, US",
+        "salary": "$80K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/glimpse-2/jobs/qNICy2U-general-application"
+      },
+      {
+        "title": "Founding Account Executives",
+        "location": "New York, NY, US",
+        "salary": "$200K - $400K",
+        "equity": "0.05% - 0.40%",
+        "url": "https://www.ycombinator.com/companies/glimpse-2/jobs/UrCzPx0-founding-account-executives"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "New York, NY, US",
+        "salary": "$130K - $225K",
+        "equity": "0.05% - 0.40%",
+        "url": "https://www.ycombinator.com/companies/glimpse-2/jobs/5hmOmrr-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:50.199Z"
+  },
+  {
+    "id": 22247,
+    "name": "Rally",
+    "slug": "rally",
+    "url": "https://www.ycombinator.com/companies/rally",
+    "jobs": [
+      {
+        "title": "Founding Engineer - SlaySchool.com",
+        "location": "Remote (Toronto, ON, CA)",
+        "salary": "$70K - $200K CAD",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/rally/jobs/0Lx6nao-founding-engineer-slayschool-com"
+      },
+      {
+        "title": "Marketing Intern",
+        "location": "Remote / Remote",
+        "salary": "$40K - $60K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/rally/jobs/UszC5f0pz-marketing-intern"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:52.891Z"
+  },
+  {
+    "id": 22257,
+    "name": "Inspectify",
+    "slug": "inspectify",
+    "url": "https://www.ycombinator.com/companies/inspectify",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:35:55.927Z"
+  },
+  {
+    "id": 22266,
+    "name": "Zuddl",
+    "slug": "zuddl",
+    "url": "https://www.ycombinator.com/companies/zuddl",
+    "jobs": [
+      {
+        "title": "Sales Development Representative (SDR)- US Location",
+        "location": "US / UT, US / Remote (US; UT, US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/zuddl/jobs/niLqqVy-sales-development-representative-sdr-us-location"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:35:58.521Z"
+  },
+  {
+    "id": 22272,
+    "name": "Finch",
+    "slug": "finch",
+    "url": "https://www.ycombinator.com/companies/finch",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:36:01.594Z"
+  },
+  {
+    "id": 22273,
+    "name": "Fieldguide",
+    "slug": "fieldguide",
+    "url": "https://www.ycombinator.com/companies/fieldguide",
+    "jobs": [
+      {
+        "title": "Software Engineer, Deployed",
+        "location": "San Francisco, CA or Remote (USA) / Remote (US)",
+        "salary": "$160K - $215K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/fieldguide/jobs/aW8k87C-software-engineer-deployed"
+      },
+      {
+        "title": "Senior Product Manager, New Bets",
+        "location": "San Francisco, CA or Remote (USA)",
+        "salary": "$205K - $230K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/fieldguide/jobs/l3T0E25-senior-product-manager-new-bets"
+      },
+      {
+        "title": "Lead Agent Product Manager, Strategic Accounts",
+        "location": "San Francisco, CA or Remote (USA)",
+        "salary": "$225K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/fieldguide/jobs/07llOSk-lead-agent-product-manager-strategic-accounts"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco, CA or Remote (USA) / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/fieldguide/jobs/rcKUHOz-software-engineer"
+      },
+      {
+        "title": "Software Engineer, Agents",
+        "location": "San Francisco, CA or Remote (USA) / Remote (US)",
+        "salary": "$170K - $310K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/fieldguide/jobs/ppHwyA2-software-engineer-agents"
+      },
+      {
+        "title": "AI Engineer",
+        "location": "San Francisco, CA or Remote (USA) / Remote (US)",
+        "salary": "$170K - $310K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/fieldguide/jobs/WYkACpv-ai-engineer"
+      },
+      {
+        "title": "Senior Director, FP&A",
+        "location": "San Francisco, CA or Remote (USA) / Remote (US)",
+        "salary": "$186K - $235K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/fieldguide/jobs/ir2GQRg-senior-director-fp-a"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:04.673Z"
+  },
+  {
+    "id": 22277,
+    "name": "Heron Data",
+    "slug": "heron-data",
+    "url": "https://www.ycombinator.com/companies/heron-data",
+    "jobs": [
+      {
+        "title": "Growth Marketer",
+        "location": "New York, NY, US",
+        "salary": "$100K - $160K",
+        "equity": "0.02% - 0.05%",
+        "url": "https://www.ycombinator.com/companies/heron-data/jobs/UqpLYZB-growth-marketer"
+      },
+      {
+        "title": "Account Executives",
+        "location": "New York, NY, US",
+        "salary": "$200K - $300K",
+        "equity": "0.02% - 0.07%",
+        "url": "https://www.ycombinator.com/companies/heron-data/jobs/j3B9Vmp-account-executives"
+      },
+      {
+        "title": "Forward Deployed Engineers",
+        "location": "New York, NY, US",
+        "salary": "$150K - $250K",
+        "equity": "0.02% - 0.10%",
+        "url": "https://www.ycombinator.com/companies/heron-data/jobs/vRxk77R-forward-deployed-engineers"
+      },
+      {
+        "title": "Full-Stack Engineers (London)",
+        "location": "3+ years",
+        "salary": "£65K - £150K GBP",
+        "equity": "0.02% - 0.10%",
+        "url": "https://www.ycombinator.com/companies/heron-data/jobs/okkRvvQ-full-stack-engineers-london"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:07.937Z"
+  },
+  {
+    "id": 22319,
+    "name": "SiPhox Health",
+    "slug": "siphox-health",
+    "url": "https://www.ycombinator.com/companies/siphox-health",
+    "jobs": [
+      {
+        "title": "Thyroid Product Advisor (Endocrinologist) - Remote Position",
+        "location": "Remote (US)",
+        "salary": "$45 - $100 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/siphox-health/jobs/I0Zr856-thyroid-product-advisor-endocrinologist-remote-position"
+      },
+      {
+        "title": "Operations Manager — SiPhox Fulfillment",
+        "location": "Burlington, MA, US",
+        "salary": "$75 - $95",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/siphox-health/jobs/Iz1FL05-operations-manager-siphox-fulfillment"
+      },
+      {
+        "title": "Clinical Operations Associate – SiPhox AI Platform",
+        "location": "Boston, MA, US",
+        "salary": "$45K - $75K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/siphox-health/jobs/gkSNXvY-clinical-operations-associate-siphox-ai-platform"
+      },
+      {
+        "title": "Biomarker Insights & Clinical Training Lead",
+        "location": "Boston, MA, US",
+        "salary": "$85K - $125K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/siphox-health/jobs/Usmfh9C-biomarker-insights-clinical-training-lead"
+      },
+      {
+        "title": "AI Engineer – SiPhox AI Platform",
+        "location": "Boston, MA, US",
+        "salary": "$100K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/siphox-health/jobs/bj5D8Qc-ai-engineer-siphox-ai-platform"
+      },
+      {
+        "title": "Functional Health Coach",
+        "location": "Remote",
+        "salary": "$39",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/siphox-health/jobs/CzOD66u-functional-health-coach"
+      },
+      {
+        "title": "Sales & Partnerships Manager - Employer Benefits",
+        "location": "Boston, MA, US / Remote",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/siphox-health/jobs/XcAhAr4-sales-partnerships-manager-employer-benefits"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:11.251Z"
+  },
+  {
+    "id": 22327,
+    "name": "Matter",
+    "slug": "matter",
+    "url": "https://www.ycombinator.com/companies/matter",
+    "jobs": [
+      {
+        "title": "Software Engineer, Backend",
+        "location": "Remote (US)",
+        "salary": "$160K - $200K",
+        "equity": "1.00% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/matter/jobs/X1HSDvK-software-engineer-backend"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:14.322Z"
+  },
+  {
+    "id": 12871,
+    "name": "Motion",
+    "slug": "motion",
+    "url": "https://www.ycombinator.com/companies/motion",
+    "jobs": [
+      {
+        "title": "Principal Software Engineer",
+        "location": "San Francisco/Remote / Remote",
+        "salary": "$504K - $965K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/motion/jobs/B1TDy1B-principal-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:17.272Z"
+  },
+  {
+    "id": 12950,
+    "name": "Karat Financial",
+    "slug": "karat-financial",
+    "url": "https://www.ycombinator.com/companies/karat-financial",
+    "jobs": [
+      {
+        "title": "Engineering Manager",
+        "location": "Los Angeles, CA, US",
+        "salary": "$180K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/karat-financial/jobs/DongpRb-engineering-manager"
+      },
+      {
+        "title": "Content Marketing Lead",
+        "location": "Remote (Los Angeles, CA, US; New York, NY, US; San Francisco, CA, US)",
+        "salary": "$110K - $150K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/karat-financial/jobs/6rxMPNA-content-marketing-lead"
+      },
+      {
+        "title": "Senior Tax Accountant",
+        "location": "US / Remote (US)",
+        "salary": "$85K - $115K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/karat-financial/jobs/0z6rf4Q-senior-tax-accountant"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:20.481Z"
+  },
+  {
+    "id": 12974,
+    "name": "Flowglad",
+    "slug": "flowglad",
+    "url": "https://www.ycombinator.com/companies/flowglad",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:36:23.043Z"
+  },
+  {
+    "id": 13058,
+    "name": "Accord",
+    "slug": "accord",
+    "url": "https://www.ycombinator.com/companies/accord",
+    "jobs": [
+      {
+        "title": "Senior Product Designer (SF based, hybrid)",
+        "location": "San Francisco, CA, US",
+        "salary": "$160K - $175K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/accord/jobs/h6hnpxj-senior-product-designer-sf-based-hybrid"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $160K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/accord/jobs/GPWrX6I-senior-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:26.225Z"
+  },
+  {
+    "id": 13085,
+    "name": "Teleo",
+    "slug": "teleo",
+    "url": "https://www.ycombinator.com/companies/teleo",
+    "jobs": [
+      {
+        "title": "Firmware Engineering Internship/Co-op (Summer/Fall 2025)",
+        "location": "Palo Alto, CA, US",
+        "salary": "$5K - $6K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/teleo/jobs/DlHF0bh-firmware-engineering-internship-co-op-summer-fall-2025"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:28.832Z"
+  },
+  {
+    "id": 13097,
+    "name": "Pulley",
+    "slug": "pulley",
+    "url": "https://www.ycombinator.com/companies/pulley",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:36:31.946Z"
+  },
+  {
+    "id": 13109,
+    "name": "Taiv",
+    "slug": "taiv",
+    "url": "https://www.ycombinator.com/companies/taiv",
+    "jobs": [
+      {
+        "title": "National Ad Salesperson",
+        "location": "US / Remote (US)",
+        "salary": "$150K - $300K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/taiv/jobs/zkOpO7s-national-ad-salesperson"
+      },
+      {
+        "title": "VP National Ad Sales",
+        "location": "US / Remote (US)",
+        "salary": "$150K - $300K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/taiv/jobs/lav1USC-vp-national-ad-sales"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:35.088Z"
+  },
+  {
+    "id": 13115,
+    "name": "OpenUnit",
+    "slug": "openunit",
+    "url": "https://www.ycombinator.com/companies/openunit",
+    "jobs": [
+      {
+        "title": "Ruby on Rails Engineer",
+        "location": "Toronto and Open to across Canada / Remote / Remote (US)",
+        "salary": "$115K - $130K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/openunit/jobs/rTQR3HB-ruby-on-rails-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:38.178Z"
+  },
+  {
+    "id": 13119,
+    "name": "Ditto",
+    "slug": "ditto",
+    "url": "https://www.ycombinator.com/companies/ditto",
+    "jobs": [
+      {
+        "title": "Product Designer",
+        "location": "US / CA / Remote (US; CA)",
+        "salary": "$140K - $200K",
+        "equity": "0.04% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/ditto/jobs/ZnYSN1L-product-designer"
+      },
+      {
+        "title": "Software Engineer, Full Stack",
+        "location": "San Francisco, CA / Remote (US)",
+        "salary": "$140K - $200K",
+        "equity": "0.04% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/ditto/jobs/BBT2BTWlK-software-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:41.611Z"
+  },
+  {
+    "id": 13121,
+    "name": "Handoff",
+    "slug": "handoff",
+    "url": "https://www.ycombinator.com/companies/handoff",
+    "jobs": [
+      {
+        "title": "Head of Engineering",
+        "location": "Austin, TX, US",
+        "salary": "$180K - $300K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/handoff/jobs/5SeJOGX-head-of-engineering"
+      },
+      {
+        "title": "Senior Mobile Software Engineer",
+        "location": "Austin, TX, US",
+        "salary": "$160K - $190K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/handoff/jobs/zCMqvZ0-senior-mobile-software-engineer"
+      },
+      {
+        "title": "Senior Full Stack Software Engineer",
+        "location": "Austin, TX, US",
+        "salary": "$160K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/handoff/jobs/xs2PTbD-senior-full-stack-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:44.758Z"
+  },
+  {
+    "id": 13122,
+    "name": "Nextmv",
+    "slug": "nextmv",
+    "url": "https://www.ycombinator.com/companies/nextmv",
+    "jobs": [
+      {
+        "title": "Don't see a fit? Send us your resume anyway!",
+        "location": "Remote / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nextmv/jobs/Ty0vC8X-don-t-see-a-fit-send-us-your-resume-anyway"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:48.113Z"
+  },
+  {
+    "id": 13141,
+    "name": "Aden",
+    "slug": "aden",
+    "url": "https://www.ycombinator.com/companies/aden",
+    "jobs": [
+      {
+        "title": "AI Engineering Lead",
+        "location": "San Francisco, CA, US / Remote (San Francisco, CA, US)",
+        "salary": "$250K - $350K",
+        "equity": "0.50% - 2.50%",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/JknjXNi-ai-engineering-lead"
+      },
+      {
+        "title": "Customer Success Lead",
+        "location": "San Francisco, CA, US",
+        "salary": "$80K - $120K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/ioSy9pp-customer-success-lead"
+      },
+      {
+        "title": "Solution Architect",
+        "location": "San Francisco, CA, US / Remote (San Francisco, CA, US)",
+        "salary": "$100K - $200K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/lu7XUmK-solution-architect"
+      },
+      {
+        "title": "Engineering Lead",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $200K",
+        "equity": "1.00% - 5.00%",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/9eMRIa9-engineering-lead"
+      },
+      {
+        "title": "Growth Marketing Lead",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$90K - $160K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/p2prFe1-growth-marketing-lead"
+      },
+      {
+        "title": "Sales Lead",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$70K - $220K",
+        "equity": "1.00% - 3.00%",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/LCfjFEq-sales-lead"
+      },
+      {
+        "title": "Technical Writer, Cloud Technologies & Tools",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$50K - $80K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/1NnJHWX-technical-writer-cloud-technologies-tools"
+      },
+      {
+        "title": "Software Development Engineer (Product) - Vue.js, Vuex, Node.js",
+        "location": "San Francisco, CA, US / Remote (San Francisco, CA, US)",
+        "salary": "$75K - $175K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/19ixflT-software-development-engineer-product-vue-js-vuex-node-js"
+      },
+      {
+        "title": "Product Designer",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$80K - $150K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/lRImIXc-product-designer"
+      },
+      {
+        "title": "Full-stack Software Development Engineer (FS SDE)",
+        "location": "San Francisco, CA, US",
+        "salary": "$100K - $200K",
+        "equity": "0.25% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/aden/jobs/jZsWSplPD-full-stack-software-development-engineer-fs-sde"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:51.556Z"
+  },
+  {
+    "id": 13149,
+    "name": "Haven",
+    "slug": "haven",
+    "url": "https://www.ycombinator.com/companies/haven",
+    "jobs": [
+      {
+        "title": "Staff Software Engineer",
+        "location": "Remote (US)",
+        "salary": "$170K - $210K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/haven/jobs/j7cTUTo-staff-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:36:54.686Z"
+  },
+  {
+    "id": 13167,
+    "name": "Farcast",
+    "slug": "farcast",
+    "url": "https://www.ycombinator.com/companies/farcast",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:36:57.869Z"
+  },
+  {
+    "id": 13169,
+    "name": "Eze",
+    "slug": "eze",
+    "url": "https://www.ycombinator.com/companies/eze",
+    "jobs": [
+      {
+        "title": "Head of Operations",
+        "location": "CA, US",
+        "salary": "$60K - $80K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eze/jobs/FOlJlRg-head-of-operations"
+      },
+      {
+        "title": "Head of Sales",
+        "location": "CA, US",
+        "salary": "$80K - $90K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eze/jobs/NtRpXAw-head-of-sales"
+      },
+      {
+        "title": "On site Procurement & Operations Specialist",
+        "location": "3+ years",
+        "salary": "$30K - $48K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eze/jobs/D9YnDfJ-on-site-procurement-operations-specialist"
+      },
+      {
+        "title": "Social Media Content Creator & Community Builder",
+        "location": "Los Angeles, CA, US",
+        "salary": "$500 - $998",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/eze/jobs/lh0xzZ4-social-media-content-creator-community-builder"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:00.896Z"
+  },
+  {
+    "id": 13170,
+    "name": "Benepass",
+    "slug": "benepass",
+    "url": "https://www.ycombinator.com/companies/benepass",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:37:03.666Z"
+  },
+  {
+    "id": 13179,
+    "name": "Signadot",
+    "slug": "signadot",
+    "url": "https://www.ycombinator.com/companies/signadot",
+    "jobs": [
+      {
+        "title": "Senior Developer Advocate",
+        "location": "Remote",
+        "salary": "$60K - $100K",
+        "equity": "0.10% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/signadot/jobs/aNjnIzt-senior-developer-advocate"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:07.039Z"
+  },
+  {
+    "id": 13208,
+    "name": "Whatnot",
+    "slug": "whatnot",
+    "url": "https://www.ycombinator.com/companies/whatnot",
+    "jobs": [
+      {
+        "title": "Fullstack Engineer, Seller Merchandising",
+        "location": "Los Angeles, CA, US / Seattle, WA, US / San Francisco, CA, US / New York, NY, US / Remote (New York, NY, US; Seattle, WA, US; Los Angeles, CA, US; San Francisco, CA, US)",
+        "salary": "$190K - $215K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/whatnot/jobs/62xsZbo-fullstack-engineer-seller-merchandising"
+      },
+      {
+        "title": "Engineering Manager, Seller Scaling",
+        "location": "Los Angeles, CA, US / San Francisco, CA, US / Seattle, WA, US / New York, NY, US / Remote (Los Angeles, CA, US; New York, NY, US; Seattle, WA, US; San Francisco, CA, US)",
+        "salary": "$230K - $260K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/whatnot/jobs/wi8QJXI-engineering-manager-seller-scaling"
+      },
+      {
+        "title": "Backend Engineer, Logistics",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US / New York, NY, US / Seattle, WA, US / Remote (San Francisco, CA, US; Los Angeles, CA, US; New York, NY, US; Seattle, WA, US)",
+        "salary": "$190K - $245K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/whatnot/jobs/eSYBHk3-backend-engineer-logistics"
+      },
+      {
+        "title": "Software Engineer, Search and Discovery Platform",
+        "location": "San Francisco, CA, US / Los Angeles, CA, US / Seattle, WA, US / New York, NY, US / Remote",
+        "salary": "$215K - $245K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/whatnot/jobs/RmeBmAy-software-engineer-search-and-discovery-platform"
+      },
+      {
+        "title": "Frontend Engineer, Customer Experience",
+        "location": "Remote (Seattle, WA, US; San Francisco, CA, US; New York, NY, US; Los Angeles, CA, US)",
+        "salary": "$185K - $245K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/whatnot/jobs/ahUpZwM-frontend-engineer-customer-experience"
+      },
+      {
+        "title": "Software Engineer, Developer Productivity",
+        "location": "San Francisco, CA, US / New York, NY, US / Los Angeles, CA, US / Seattle, WA, US / Remote (San Francisco, CA, US; New York, NY, US; Los Angeles, CA, US; Seattle, WA, US)",
+        "salary": "$185K - $245K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/whatnot/jobs/SeFlBBK-software-engineer-developer-productivity"
+      },
+      {
+        "title": "Software Engineer, Machine Learning",
+        "location": "Remote - North America / Remote (US; CA)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/whatnot/jobs/0ySWf4b-software-engineer-machine-learning"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:10.369Z"
+  },
+  {
+    "id": 13213,
+    "name": "Plura (formerly Bloom Community)",
+    "slug": "plura",
+    "url": "https://www.ycombinator.com/companies/plura",
+    "jobs": [
+      {
+        "title": "Marketing Manager",
+        "location": "Remote (US)",
+        "salary": "$20 - $50 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/plura/jobs/duoD8Xg-marketing-manager"
+      },
+      {
+        "title": "Senior Engineer & Tech Lead",
+        "location": "Remote (US)",
+        "salary": "$75 - $150 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/plura/jobs/8bN2FTw-senior-engineer-tech-lead"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:13.538Z"
+  },
+  {
+    "id": 13215,
+    "name": "Medicare Vox (fka Fair Square)",
+    "slug": "medicare-vox-fka-fair-square",
+    "url": "https://www.ycombinator.com/companies/medicare-vox-fka-fair-square",
+    "jobs": [
+      {
+        "title": "Product Engineer @ Fair Square Medicare",
+        "location": "San Francisco, CA, US / Remote (US)",
+        "salary": "$150K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/medicare-vox-fka-fair-square/jobs/DVrBrCIi8-product-engineer-fair-square-medicare"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:16.811Z"
+  },
+  {
+    "id": 13216,
+    "name": "General Proximity",
+    "slug": "general-proximity",
+    "url": "https://www.ycombinator.com/companies/general-proximity",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:37:19.900Z"
+  },
+  {
+    "id": 13218,
+    "name": "Turing Labs Inc.",
+    "slug": "turing-labs-inc",
+    "url": "https://www.ycombinator.com/companies/turing-labs-inc",
+    "jobs": [
+      {
+        "title": "AI Engineer Intern - build stealth model",
+        "location": "Palo Alto, CA, US / San Francisco, CA, US",
+        "salary": "$4K - $10K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/turing-labs-inc/jobs/uk5hT7r-ai-engineer-intern-build-stealth-model"
+      },
+      {
+        "title": "Community Architect Intern",
+        "location": "Palo Alto, CA, US / San Francisco, CA, US",
+        "salary": "$4K - $8K / monthly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/turing-labs-inc/jobs/IxA4lSR-community-architect-intern"
+      },
+      {
+        "title": "Sales & GTM Hacker",
+        "location": "Palo Alto, CA, US / San Francisco, CA, US / San Jose, CA, US / Sunnyvale, CA, US",
+        "salary": "$50K - $100K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/turing-labs-inc/jobs/cDrq2OT-sales-gtm-hacker"
+      },
+      {
+        "title": "Strategic Software Engineer (Full Stack)",
+        "location": "San Francisco, CA, US / Palo Alto, CA, US / Sunnyvale, CA, US",
+        "salary": "$130K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/turing-labs-inc/jobs/XCiy75f-strategic-software-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:22.869Z"
+  },
+  {
+    "id": 13224,
+    "name": "Ello",
+    "slug": "ello",
+    "url": "https://www.ycombinator.com/companies/ello",
+    "jobs": [
+      {
+        "title": "Contract Math Subject Matter Expert (SME)",
+        "location": "Remote (US)",
+        "salary": "$40 - $50 / hourly",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/ello/jobs/g2qKcpb-contract-math-subject-matter-expert-sme"
+      },
+      {
+        "title": "Product Manager",
+        "location": "3+ years",
+        "salary": "$60K - $120K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/ello/jobs/lf08COu-product-manager"
+      },
+      {
+        "title": "Product Engineer, Growth",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/ello/jobs/tzTSU6R-product-engineer-growth"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:25.482Z"
+  },
+  {
+    "id": 13239,
+    "name": "BuildBuddy",
+    "slug": "buildbuddy",
+    "url": "https://www.ycombinator.com/companies/buildbuddy",
+    "jobs": [
+      {
+        "title": "Senior Site Reliability Engineer",
+        "location": "Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/buildbuddy/jobs/YuBIkDV-senior-site-reliability-engineer"
+      },
+      {
+        "title": "Solutions Engineer",
+        "location": "Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/buildbuddy/jobs/wAdl3At-solutions-engineer"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/buildbuddy/jobs/07eWOFR-senior-software-engineer"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/buildbuddy/jobs/5EaUwf3PU-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:28.449Z"
+  },
+  {
+    "id": 13240,
+    "name": "Vori",
+    "slug": "vori",
+    "url": "https://www.ycombinator.com/companies/vori",
+    "jobs": [
+      {
+        "title": "Founding Forward Deployed Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$150K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/vori/jobs/trpOGJ5-founding-forward-deployed-engineer"
+      },
+      {
+        "title": "Founding Sales Rep",
+        "location": "San Francisco, CA, US",
+        "salary": "$120K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/vori/jobs/ajiLuxq-founding-sales-rep"
+      },
+      {
+        "title": "Staff Front End Web Engineer (React/Typescript)",
+        "location": "San Francisco, CA, US",
+        "salary": "$200K - $235K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/vori/jobs/0qSSawP-staff-front-end-web-engineer-react-typescript"
+      },
+      {
+        "title": "Backend Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/vori/jobs/UmTQpfK-backend-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:31.196Z"
+  },
+  {
+    "id": 13242,
+    "name": "Quill",
+    "slug": "quill",
+    "url": "https://www.ycombinator.com/companies/quill",
+    "jobs": [
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco, CA, US",
+        "salary": "$90K - $200K",
+        "equity": "0.50% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/quill/jobs/w0Z3xNm-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:34.444Z"
+  },
+  {
+    "id": 13290,
+    "name": "Candid Health",
+    "slug": "candid-health",
+    "url": "https://www.ycombinator.com/companies/candid-health",
+    "jobs": [
+      {
+        "title": "AI/ML Software Engineer (Senior)",
+        "location": "San Francisco, CA, US / New York, NY, US / Denver, CO, US",
+        "salary": "$195K - $255K",
+        "equity": "0.07% - 0.09%",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/xXhrMqe-ai-ml-software-engineer-senior"
+      },
+      {
+        "title": "Solutions Consultant (Pre-Sales)",
+        "location": "US / Remote (US)",
+        "salary": "$200K - $225K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/cxcN5ER-solutions-consultant-pre-sales"
+      },
+      {
+        "title": "Technical Recruiter (Engineering)",
+        "location": "Denver, CO, US / San Francisco, CA, US / New York, NY, US",
+        "salary": "$145K - $175K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/f4iWWS2-technical-recruiter-engineering"
+      },
+      {
+        "title": "Analytics Lead",
+        "location": "Denver, CO, US / New York, NY, US / San Francisco, CA, US",
+        "salary": "$135K - $180K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/gBUkjM1-analytics-lead"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "location": "San Francisco, CA, US / New York, NY, US / Denver, CO, US",
+        "salary": "$195K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/50PjCv6-senior-software-engineer"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "location": "Denver, CO, US / San Francisco, CA, US / New York, NY, US / Menlo Park, CA, US",
+        "salary": "$135K - $235K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/NGxaILz-forward-deployed-software-engineer"
+      },
+      {
+        "title": "Product Manager",
+        "location": "New York, NY, US / Denver, CO, US",
+        "salary": "$138K - $225K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/oK81EWY-product-manager"
+      },
+      {
+        "title": "Recruiter (Go To Market)",
+        "location": "Denver, CO, US / New York, NY, US / San Francisco, CA, US",
+        "salary": "$145K - $175K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/7clAU5C-recruiter-go-to-market"
+      },
+      {
+        "title": "Product Designer",
+        "location": "New York, NY, US / Denver, CO, US / San Francisco, CA, US",
+        "salary": "$135K - $198K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/CNyjVob-product-designer"
+      },
+      {
+        "title": "Frontend Software Engineer",
+        "location": "New York, NY, US / Denver, CO, US / San Francisco, CA, US",
+        "salary": "$135K - $230K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/Q5G26yJ-frontend-software-engineer"
+      },
+      {
+        "title": "Engineering Manager",
+        "location": "New York, NY, US",
+        "salary": "$200K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/hQKlaWw-engineering-manager"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "San Francisco, CA, US / New York, NY, US / Denver, CO, US",
+        "salary": "$135K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/WIMeHdk-software-engineer"
+      },
+      {
+        "title": "Revenue Cycle Customer Success",
+        "location": "San Francisco / New York, NY / Denver, CO, US",
+        "salary": "$95K - $145K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/candid-health/jobs/GJvYgrnQ1-revenue-cycle-customer-success"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:37.809Z"
+  },
+  {
+    "id": 13311,
+    "name": "Riot",
+    "slug": "riot",
+    "url": "https://www.ycombinator.com/companies/riot",
+    "jobs": [
+      {
+        "title": "Account executive",
+        "location": "Paris, IDF, FR",
+        "salary": "$40K - $80K",
+        "equity": "0.10% - 0.20%",
+        "url": "https://www.ycombinator.com/companies/riot/jobs/Wvs7kgW-account-executive"
+      },
+      {
+        "title": "Software Engineer",
+        "location": "Paris",
+        "salary": "$45K - $100K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/riot/jobs/SNOYobE-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:40.910Z"
+  },
+  {
+    "id": 13312,
+    "name": "PostHog",
+    "slug": "posthog",
+    "url": "https://www.ycombinator.com/companies/posthog",
+    "jobs": [
+      {
+        "title": "Software Engineer — Managed Warehouse",
+        "location": "Remote / Remote (US)",
+        "salary": "$100 - $250",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/posthog/jobs/MZKhrb2-software-engineer-managed-warehouse"
+      },
+      {
+        "title": "Software Engineer — Warehouse Pipelines",
+        "location": "Remote / Remote (US)",
+        "salary": "$100 - $250",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/posthog/jobs/YLNIunF-software-engineer-warehouse-pipelines"
+      },
+      {
+        "title": "ClickHouse Operations Engineer",
+        "location": "Remote (US) / Remote (US)",
+        "salary": "$100 - $250",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/posthog/jobs/BM5fPdi-clickhouse-operations-engineer"
+      },
+      {
+        "title": "Product Engineer",
+        "location": "Remote / Remote (New York, NY, US; San Francisco, CA, US; Berlin, Berlin, DE; Boulder, CO, US; London, England, GB)",
+        "salary": "$100K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/posthog/jobs/tz5xDVm-product-engineer"
+      },
+      {
+        "title": "Influencer Wrangler",
+        "location": "Remote (US) / Remote (US)",
+        "salary": "$100K - $190K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/posthog/jobs/GWxIOCj-influencer-wrangler"
+      },
+      {
+        "title": "Technical Ex-Founder",
+        "location": "Remote (US) / Remote (US)",
+        "salary": "$100K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/posthog/jobs/E3wDT3R-technical-ex-founder"
+      },
+      {
+        "title": "AI Product Engineer",
+        "location": "Remote (US | EU) / Remote (US)",
+        "salary": "$100K - $250K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/posthog/jobs/Byligkw-ai-product-engineer"
+      },
+      {
+        "title": "Technical Account Manager",
+        "location": "Remote (US) / Remote (US)",
+        "salary": "$100K - $300K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/posthog/jobs/Oliat7D-technical-account-manager"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:44.156Z"
+  },
+  {
+    "id": 13316,
+    "name": "Fella & Delilah",
+    "slug": "fella-and-delilah",
+    "url": "https://www.ycombinator.com/companies/fella-and-delilah",
+    "jobs": [
+      {
+        "title": "AI Engineering Lead at Aios Medical — Remote, $80k-$120k/year inc equity",
+        "location": "Remote (US)",
+        "salary": "$80 - $117",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/fella-and-delilah/jobs/017Cna8-ai-engineering-lead-at-aios-medical-remote-80k-120k-year-inc-equity"
+      },
+      {
+        "title": "Head of Customer Experience at Aios Medical — Remote, $125k-$225k/yr + 0.2%-0.6%",
+        "location": "Remote (US)",
+        "salary": "$125 - $225",
+        "equity": "0.20% - 0.60%",
+        "url": "https://www.ycombinator.com/companies/fella-and-delilah/jobs/bo1MXrQ-head-of-customer-experience-at-aios-medical-remote-125k-225k-yr-0-2-0-6"
+      },
+      {
+        "title": "VP Consumer Growth at Aios Medical — Remote, $200k-$400k/yr + 0.2%- 1.0%",
+        "location": "Remote (US)",
+        "salary": "$200 - $400",
+        "equity": "0.20% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/fella-and-delilah/jobs/JvbXbuz-vp-consumer-growth-at-aios-medical-remote-200k-400k-yr-0-2-1-0"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:46.991Z"
+  },
+  {
+    "id": 13321,
+    "name": "Junction",
+    "slug": "junction",
+    "url": "https://www.ycombinator.com/companies/junction",
+    "jobs": [
+      {
+        "title": "Product Engineer / Fullstack Engineer",
+        "location": "PT / GB / Scotland, GB / Remote (PT; GB; Scotland, GB)",
+        "salary": "£90K - £130K GBP",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/junction/jobs/3lYSUEu-product-engineer-fullstack-engineer"
+      },
+      {
+        "title": "Data Engineer",
+        "location": "US / New York, NY, US / Remote (US; New York, NY, US)",
+        "salary": "$160K - $210K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/junction/jobs/3q0uQPk-data-engineer"
+      },
+      {
+        "title": "Customer Support Associate",
+        "location": "US / Remote (US)",
+        "salary": "$60K - $66K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/junction/jobs/cN6rhxu-customer-support-associate"
+      },
+      {
+        "title": "Account Executives [all levels]",
+        "location": "New York, NY, US / Boston, MA, US / Remote (New York, NY, US; Boston, MA, US)",
+        "salary": "$120K - $160K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/junction/jobs/dkpEbvH-account-executives-all-levels"
+      },
+      {
+        "title": "Head of Engineering",
+        "location": "GB / PT / US / Remote (GB; PT; US)",
+        "salary": "$200K - $300K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/junction/jobs/L76vFuF-head-of-engineering"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:50.229Z"
+  },
+  {
+    "id": 13322,
+    "name": "Skypher",
+    "slug": "skypher",
+    "url": "https://www.ycombinator.com/companies/skypher",
+    "jobs": [
+      {
+        "title": "Full Stack Developer",
+        "location": "Paris  / Remote (US)",
+        "salary": "$60K - $80K",
+        "equity": "0.25% - 2.00%",
+        "url": "https://www.ycombinator.com/companies/skypher/jobs/ZFOZRt9VS-full-stack-developer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:53.534Z"
+  },
+  {
+    "id": 13333,
+    "name": "Upflow",
+    "slug": "upflow",
+    "url": "https://www.ycombinator.com/companies/upflow",
+    "jobs": [
+      {
+        "title": "Associate Account Executive - US",
+        "location": "New York Office",
+        "salary": "$100K - $200K",
+        "equity": "0.01% - 0.03%",
+        "url": "https://www.ycombinator.com/companies/upflow/jobs/203pK2F-associate-account-executive-us"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:37:56.457Z"
+  },
+  {
+    "id": 13334,
+    "name": "DeepSource",
+    "slug": "deepsource",
+    "url": "https://www.ycombinator.com/companies/deepsource",
+    "jobs": [
+      {
+        "title": "Associate Account Executive",
+        "location": "San Francisco, CA, US",
+        "salary": "$140K - $180K",
+        "equity": "0.10% - 0.30%",
+        "url": "https://www.ycombinator.com/companies/deepsource/jobs/vvW7GJi-associate-account-executive"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:00.329Z"
+  },
+  {
+    "id": 13351,
+    "name": "Morphle Labs",
+    "slug": "morphle-labs",
+    "url": "https://www.ycombinator.com/companies/morphle-labs",
+    "jobs": [
+      {
+        "title": "Senior Software Engineer",
+        "location": "Bengaluru",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/morphle-labs/jobs/N2I8gal-senior-software-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:05.009Z"
+  },
+  {
+    "id": 13477,
+    "name": "Avion",
+    "slug": "avion",
+    "url": "https://www.ycombinator.com/companies/avion",
+    "jobs": [
+      {
+        "title": "Sales Development Representative",
+        "location": "Remote (US)",
+        "salary": "$50K - $75K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/avion/jobs/EakZ86x-sales-development-representative"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:07.207Z"
+  },
+  {
+    "id": 13498,
+    "name": "BeGo",
+    "slug": "be-go",
+    "url": "https://www.ycombinator.com/companies/be-go",
+    "jobs": [
+      {
+        "title": "Full Stack Sr",
+        "location": "Mexico City / Remote",
+        "salary": "$4K - $7K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/be-go/jobs/ceQsKiheA-full-stack-sr"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:10.313Z"
+  },
+  {
+    "id": 13505,
+    "name": "Ramani",
+    "slug": "ramani",
+    "url": "https://www.ycombinator.com/companies/ramani",
+    "jobs": [
+      {
+        "title": "CRO - Chief Risk Officer",
+        "location": "New York, NY, US / Remote (New York, NY, US)",
+        "salary": "$100K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/ramani/jobs/7cA4VN7-cro-chief-risk-officer"
+      },
+      {
+        "title": "CFO",
+        "location": "New York, NY, US / Remote (New York, NY, US)",
+        "salary": "$100K - $200K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/ramani/jobs/7VhiJqa-cfo"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:13.033Z"
+  },
+  {
+    "id": 13506,
+    "name": "Nomic Bio",
+    "slug": "nomic-bio",
+    "url": "https://www.ycombinator.com/companies/nomic-bio",
+    "jobs": [
+      {
+        "title": "Data Associate",
+        "location": "Remote (United States) / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nomic-bio/jobs/xPOgeWa-data-associate"
+      },
+      {
+        "title": "R&D Lab Associate",
+        "location": "Montreal",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nomic-bio/jobs/tvcDSbW-r-d-lab-associate"
+      },
+      {
+        "title": "Software Engineer (Jr to Sr Levels)",
+        "location": "Remote (United States) / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nomic-bio/jobs/fQPrFFq-software-engineer-jr-to-sr-levels"
+      },
+      {
+        "title": "Data Engineer",
+        "location": "Remote (United States) / Remote (US)",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/nomic-bio/jobs/djdcWbI-data-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:16.162Z"
+  },
+  {
+    "id": 13512,
+    "name": "Stable",
+    "slug": "stable",
+    "url": "https://www.ycombinator.com/companies/stable",
+    "jobs": [
+      {
+        "title": "Software Engineer, Full Stack",
+        "location": "New York, NY, US / San Francisco, CA, US / Remote (US)",
+        "salary": "$120K - $200K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/stable/jobs/rAC4YKrm1-software-engineer-full-stack"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:19.231Z"
+  },
+  {
+    "id": 13519,
+    "name": "Recall.ai",
+    "slug": "recall-ai",
+    "url": "https://www.ycombinator.com/companies/recall-ai",
+    "jobs": [
+      {
+        "title": "Developer Content Creator [In Person, SF]",
+        "location": "San Francisco",
+        "salary": "$185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/recall-ai/jobs/H2OKmZ5-developer-content-creator-in-person-sf"
+      },
+      {
+        "title": "AI Search Marketer [In Person, SF]",
+        "location": "San Francisco",
+        "salary": "$185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/recall-ai/jobs/ta81bsw-ai-search-marketer-in-person-sf"
+      },
+      {
+        "title": "Strategic Account Executive [In Person, SF]",
+        "location": "San Francisco, CA, US",
+        "salary": "$280K - $300K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/recall-ai/jobs/13vyC7H-strategic-account-executive-in-person-sf"
+      },
+      {
+        "title": "Backend Engineer [In Person, SF]",
+        "location": "San Francisco, CA, US / Remote",
+        "salary": "$235K",
+        "equity": "0.20% - 0.50%",
+        "url": "https://www.ycombinator.com/companies/recall-ai/jobs/B8CE5Xc-backend-engineer-in-person-sf"
+      },
+      {
+        "title": "Developer Experience Engineer [In Person, SF]",
+        "location": "San Francisco, CA, US",
+        "salary": "$185K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/recall-ai/jobs/wWqvjDn-developer-experience-engineer-in-person-sf"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:22.433Z"
+  },
+  {
+    "id": 13520,
+    "name": "borong",
+    "slug": "borong",
+    "url": "https://www.ycombinator.com/companies/borong",
+    "jobs": [
+      {
+        "title": "CTO",
+        "location": "6+ years",
+        "salary": "$60K - $120K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/borong/jobs/ppFEe5z-cto"
+      },
+      {
+        "title": "Full-Stack Developer",
+        "location": "6+ years",
+        "salary": "$24K - $40K",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/borong/jobs/MzCEKdi-full-stack-developer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:25.564Z"
+  },
+  {
+    "id": 13523,
+    "name": "99minutos",
+    "slug": "99minutos",
+    "url": "https://www.ycombinator.com/companies/99minutos",
+    "jobs": [
+      {
+        "title": "Strategic Finance Lead",
+        "location": "Mexico City, CDMX, MX",
+        "salary": "$30K - $42K",
+        "equity": "0.10%",
+        "url": "https://www.ycombinator.com/companies/99minutos/jobs/jhG9Z0c-strategic-finance-lead"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:27.808Z"
+  },
+  {
+    "id": 13532,
+    "name": "Living Carbon",
+    "slug": "living-carbon",
+    "url": "https://www.ycombinator.com/companies/living-carbon",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:38:30.799Z"
+  },
+  {
+    "id": 13610,
+    "name": "Belvo",
+    "slug": "belvo",
+    "url": "https://www.ycombinator.com/companies/belvo",
+    "jobs": [],
+    "scraped_at": "2026-01-07T11:38:33.522Z"
+  },
+  {
+    "id": 13620,
+    "name": "Legionfarm",
+    "slug": "legionfarm",
+    "url": "https://www.ycombinator.com/companies/legionfarm",
+    "jobs": [
+      {
+        "title": "AI Product Engineer",
+        "location": "San Francisco, CA, US / London, England, GB / Remote",
+        "salary": "$70K - $140K",
+        "equity": "0.10% - 1.00%",
+        "url": "https://www.ycombinator.com/companies/legionfarm/jobs/E5fGAv2-ai-product-engineer"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:36.479Z"
+  },
+  {
+    "id": 13642,
+    "name": "Yassir",
+    "slug": "yassir",
+    "url": "https://www.ycombinator.com/companies/yassir",
+    "jobs": [
+      {
+        "title": "Digital Ads Specialist",
+        "location": "Remote",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/yassir/jobs/kkD2e2T-digital-ads-specialist"
+      },
+      {
+        "title": "Engineering Manager",
+        "location": "US / Remote",
+        "salary": "",
+        "equity": "",
+        "url": "https://www.ycombinator.com/companies/yassir/jobs/xZ7eHgJ-engineering-manager"
+      }
+    ],
+    "scraped_at": "2026-01-07T11:38:39.890Z"
+  }
+]
