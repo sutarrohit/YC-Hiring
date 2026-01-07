@@ -1,0 +1,13 @@
+Testing old filter logic:
+Batch: "Summer 2020", Search: "2020" -> Result: true (Expected: true) ✅
+Batch: "Winter 2020", Search: "2020" -> Result: true (Expected: true) ✅
+Batch: "Summer 2021", Search: "2020" -> Result: true (Expected: false) ❌
+Batch: "W20", Search: "2020" -> Result: true (Expected: true) ✅
+Batch: "W21", Search: "2020" -> Result: false (Expected: false) ✅
+
+Testing proposed filter logic:
+Batch: "Summer 2020", Search: "2020" -> Result: true (Expected: true) ✅
+Batch: "Winter 2020", Search: "2020" -> Result: true (Expected: true) ✅
+Batch: "Summer 2021", Search: "2020" -> Result: false (Expected: false) ✅
+Batch: "W20", Search: "2020" -> Result: true (Expected: true) ✅
+Batch: "W21", Search: "2020" -> Result: false (Expected: false) ✅
