@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Work at a YC Startup
 
-## Getting Started
+A modern, high-performance dashboard designed to help developers and job seekers discover and filter YC companies that are currently hiring. Built with **Next.js 15**, **React 19**, and **Tailwind CSS 4**.
 
-First, run the development server:
+![YC Hiring Dashboard Mockup](./public/mockup.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-   **🔍 Advanced Search**: Real-time filtering by name, description, tags, industry, region, and more.
+-   **🏢 All Companies Directory**: Browse the full directory of YC startups beyond just hiring ones.
+-   **📅 Smart Batch Filtering**: Easily filter startups by their YC batch year (e.g., S21, W22).
+-   **🏢 Industry & Region Filters**: Narrow down companies by specific industries (Fintech, SaaS, AI, etc.) and locations.
+-   **📊 Stage Tracking**: Filter by company stage from Seed to Late-stage.
+-   **🌙 Dark Mode Support**: Sleek, eye-friendly design that adapts to your system preferences.
+-   **📱 Responsive Design**: Fully optimized for mobile, tablet, and desktop viewing.
+-   **⚡ High Performance**: Fast data fetching with API caching and optimized React 19 components.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+-   **Framework**: [Next.js 15+](https://nextjs.org/) (App Router)
+-   **Library**: [React 19](https://react.dev/)
+-   **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
+-   **Data Fetching**: [Axios](https://axios-http.com/)
+-   **Theme**: [next-themes](https://github.com/pacocoursey/next-themes)
 
-## Learn More
+## 🚀 Getting Started
 
-To learn more about Next.js, take a look at the following resources:
+### Prerequisites
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   Node.js 18.x or later
+-   npm, yarn, or pnpm
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Installation
 
-## Deploy on Vercel
+1.  **Clone the repository**:
+    ```bash
+    git clone https://github.com/sutarrohit/YC-Hiring.git
+    cd hiring-bot
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2.  **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3.  **Run the development server**:
+    ```bash
+    npm run dev
+    ```
+
+4.  **Open the app**:
+    Navigate to [http://localhost:3000](http://localhost:3000) to see the result.
+
+## 📂 Project Structure
+
+-   `src/app`: Next.js App Router pages and API routes.
+-   `src/components`: Reusable UI components (CompanyCard, AdvancedFilter, etc.).
+-   `src/types.ts`: TypeScript interfaces for YC company data.
+-   `public/`: Static assets including images and fonts.
+
+## 📡 API Reference
+
+The app fetches data from a curated YC hiring dataset:
+-   **Endpoint**: `/api/hiring`
+-   **Parameters**:
+    -   `q`: Search query
+    -   `page`: Page number (default: 1)
+    -   `limit`: Items per page (default: 100)
+    -   `year`: Filter by batch year
+    -   `industry`: Filter by industry
+    -   `region`: Filter by region
+    -   `stage`: Filter by stage
+
