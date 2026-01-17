@@ -1,5 +1,4 @@
 import { YCCompany } from "@/types";
-import Link from "next/link";
 
 interface CompanyCardProps {
     company: YCCompany;

@@ -3,6 +3,22 @@
 import { useEffect, useState, useCallback } from 'react';
 import axios from 'axios';
 import { YCCompany, PaginatedResponse } from '@/types';
+
+interface FilterState {
+  year: string;
+  industry: string;
+  region: string;
+  stage: string;
+  teamSizeMin: string;
+  teamSizeMax: string;
+  status: string[];
+  topCompany: boolean;
+  nonprofit: boolean;
+  tags: string[];
+  launchedAfter: string;
+  launchedBefore: string;
+  subindustry: string;
+}
 import CompanyCard from '@/components/CompanyCard';
 import AdvancedFilter from '@/components/AdvancedFilter';
 
@@ -22,11 +38,20 @@ export default function Home() {
   const [debouncedQuery, setDebouncedQuery] = useState('');
 
   // Advanced Filters
-  const [filters, setFilters] = useState({
+  const [filters, setFilters] = useState<FilterState>({
       year: '',
       industry: '',
       region: '',
-      stage: ''
+      stage: '',
+      teamSizeMin: '',
+      teamSizeMax: '',
+      status: [],
+      topCompany: false,
+      nonprofit: false,
+      tags: [],
+      launchedAfter: '',
+      launchedBefore: '',
+      subindustry: ''
   });
   const [showFilters, setShowFilters] = useState(false);
 
@@ -42,7 +67,7 @@ export default function Home() {
     };
   }, [searchQuery]);
 
-   const handleFilterChange = useCallback((newFilters: typeof filters) => {
+   const handleFilterChange = useCallback((newFilters: FilterState) => {
       setFilters(newFilters);
       setPage(1);
   }, []);
@@ -59,7 +84,16 @@ export default function Home() {
             year: filters.year,
             industry: filters.industry,
             region: filters.region,
-            stage: filters.stage
+            stage: filters.stage,
+            teamSizeMin: filters.teamSizeMin,
+            teamSizeMax: filters.teamSizeMax,
+            status: filters.status.join(','),
+            topCompany: filters.topCompany.toString(),
+            nonprofit: filters.nonprofit.toString(),
+            tags: filters.tags.join(','),
+            launchedAfter: filters.launchedAfter,
+            launchedBefore: filters.launchedBefore,
+            subindustry: filters.subindustry
         });
         const response = await axios.get<PaginatedResponse>(`/api/hiring?${queryParams.toString()}`);
         setCompanies(response.data.companies);
@@ -164,33 +198,35 @@ export default function Home() {
         </div>
 
         {/* Pagination Controls (Top) */}
-        <div className="flex justify-between items-center mb-6">
-            <button
-                onClick={handlePrev}
-                disabled={page === 1}
-                className={`px-4 py-2 rounded-md font-medium transition-colors ${
-                    page === 1
-                    ? 'bg-gray-200 dark:bg-neutral-900 text-gray-400 dark:text-neutral-600 cursor-not-allowed border border-gray-300 dark:border-neutral-800'
-                    : 'bg-white dark:bg-neutral-900 text-gray-700 dark:text-neutral-300 hover:bg-gray-100 dark:hover:bg-neutral-800 border border-gray-300 dark:border-neutral-700 hover:border-gray-400 dark:hover:border-neutral-600 shadow-sm'
-                }`}
-            >
-                Previous
-            </button>
-            <span className="text-gray-600 dark:text-neutral-500 transition-colors">
-                Page {page} of {totalPages}
-            </span>
-            <button
-                onClick={handleNext}
-                disabled={page === totalPages}
-                className={`px-4 py-2 rounded-md font-medium transition-colors ${
-                    page === totalPages
-                    ? 'bg-gray-200 dark:bg-neutral-900 text-gray-400 dark:text-neutral-600 cursor-not-allowed border border-gray-300 dark:border-neutral-800'
-                    : 'bg-white dark:bg-neutral-900 text-gray-700 dark:text-neutral-300 hover:bg-gray-100 dark:hover:bg-neutral-800 border border-gray-300 dark:border-neutral-700 hover:border-gray-400 dark:hover:border-neutral-600 shadow-sm'
-                }`}
-            >
-                Next
-            </button>
-        </div>
+        {!loading && companies.length > 0 && (
+            <div className="flex justify-between items-center mb-6">
+                <button
+                    onClick={handlePrev}
+                    disabled={page === 1}
+                    className={`px-4 py-2 rounded-md font-medium transition-colors ${
+                        page === 1
+                        ? 'bg-gray-200 dark:bg-neutral-900 text-gray-400 dark:text-neutral-600 cursor-not-allowed border border-gray-300 dark:border-neutral-800'
+                        : 'bg-white dark:bg-neutral-900 text-gray-700 dark:text-neutral-300 hover:bg-gray-100 dark:hover:bg-neutral-800 border border-gray-300 dark:border-neutral-700 hover:border-gray-400 dark:hover:border-neutral-600 shadow-sm'
+                    }`}
+                >
+                    Previous
+                </button>
+                <span className="text-gray-600 dark:text-neutral-500 transition-colors">
+                    Page {page} of {totalPages}
+                </span>
+                <button
+                    onClick={handleNext}
+                    disabled={page === totalPages}
+                    className={`px-4 py-2 rounded-md font-medium transition-colors ${
+                        page === totalPages
+                        ? 'bg-gray-200 dark:bg-neutral-900 text-gray-400 dark:text-neutral-600 cursor-not-allowed border border-gray-300 dark:border-neutral-800'
+                        : 'bg-white dark:bg-neutral-900 text-gray-700 dark:text-neutral-300 hover:bg-gray-100 dark:hover:bg-neutral-800 border border-gray-300 dark:border-neutral-700 hover:border-gray-400 dark:hover:border-neutral-600 shadow-sm'
+                    }`}
+                >
+                    Next
+                </button>
+            </div>
+        )}
 
         {loading ? (
              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 animate-pulse">
@@ -198,6 +234,49 @@ export default function Home() {
                     <div key={i} className="h-64 bg-gray-200 dark:bg-neutral-900 rounded-lg border border-gray-300 dark:border-neutral-800"></div>
                 ))}
              </div>
+        ) : companies.length === 0 ? (
+            <div className="flex flex-col items-center justify-center py-16 px-4">
+                <div className="w-24 h-24 bg-gray-100 dark:bg-neutral-800 rounded-full flex items-center justify-center mb-6">
+                    <svg className="w-12 h-12 text-gray-400 dark:text-neutral-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">No companies found</h3>
+                <p className="text-gray-600 dark:text-neutral-400 text-center max-w-md mb-6">
+                    Try adjusting your filters or search terms to find more companies. We have {total} companies available across all filters.
+                </p>
+                <div className="flex flex-col sm:flex-row gap-3">
+                    <button
+                        onClick={() => {
+                            setFilters({
+                                year: '',
+                                industry: '',
+                                region: '',
+                                stage: '',
+                                teamSizeMin: '',
+                                teamSizeMax: '',
+                                status: [],
+                                topCompany: false,
+                                nonprofit: false,
+                                tags: [],
+                                launchedAfter: '',
+                                launchedBefore: '',
+                                subindustry: ''
+                            });
+                            setSearchQuery('');
+                        }}
+                        className="px-6 py-2.5 bg-orange-600 hover:bg-orange-700 text-white font-medium rounded-lg transition-colors"
+                    >
+                        Clear All Filters
+                    </button>
+                    <button
+                        onClick={() => setShowFilters(!showFilters)}
+                        className="px-6 py-2.5 bg-white dark:bg-neutral-800 text-gray-700 dark:text-neutral-300 border border-gray-300 dark:border-neutral-600 hover:bg-gray-50 dark:hover:bg-neutral-700 font-medium rounded-lg transition-colors"
+                    >
+                        Adjust Filters
+                    </button>
+                </div>
+            </div>
         ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
             {companies.map((company) => (
@@ -207,33 +286,35 @@ export default function Home() {
         )}
 
         {/* Pagination Controls (Bottom) */}
-        <div className="flex justify-between items-center mt-8">
-            <button
-                onClick={handlePrev}
-                disabled={page === 1}
-                className={`px-4 py-2 rounded-md font-medium transition-colors ${
-                    page === 1
-                    ? 'bg-gray-200 dark:bg-neutral-900 text-gray-400 dark:text-neutral-600 cursor-not-allowed border border-gray-300 dark:border-neutral-800'
-                    : 'bg-white dark:bg-neutral-900 text-gray-700 dark:text-neutral-300 hover:bg-gray-100 dark:hover:bg-neutral-800 border border-gray-300 dark:border-neutral-700 hover:border-gray-400 dark:hover:border-neutral-600 shadow-sm'
-                }`}
-            >
-                Previous
-            </button>
-            <span className="text-gray-600 dark:text-neutral-500 transition-colors">
-                Page {page} of {totalPages}
-            </span>
-            <button
-                onClick={handleNext}
-                disabled={page === totalPages}
-                className={`px-4 py-2 rounded-md font-medium transition-colors ${
-                    page === totalPages
-                    ? 'bg-gray-200 dark:bg-neutral-900 text-gray-400 dark:text-neutral-600 cursor-not-allowed border border-gray-300 dark:border-neutral-800'
-                    : 'bg-white dark:bg-neutral-900 text-gray-700 dark:text-neutral-300 hover:bg-gray-100 dark:hover:bg-neutral-800 border border-gray-300 dark:border-neutral-700 hover:border-gray-400 dark:hover:border-neutral-600 shadow-sm'
-                }`}
-            >
-                Next
-            </button>
-        </div>
+        {!loading && companies.length > 0 && (
+            <div className="flex justify-between items-center mt-8">
+                <button
+                    onClick={handlePrev}
+                    disabled={page === 1}
+                    className={`px-4 py-2 rounded-md font-medium transition-colors ${
+                        page === 1
+                        ? 'bg-gray-200 dark:bg-neutral-900 text-gray-400 dark:text-neutral-600 cursor-not-allowed border border-gray-300 dark:border-neutral-800'
+                        : 'bg-white dark:bg-neutral-900 text-gray-700 dark:text-neutral-300 hover:bg-gray-100 dark:hover:bg-neutral-800 border border-gray-300 dark:border-neutral-700 hover:border-gray-400 dark:hover:border-neutral-600 shadow-sm'
+                    }`}
+                >
+                    Previous
+                </button>
+                <span className="text-gray-600 dark:text-neutral-500 transition-colors">
+                    Page {page} of {totalPages}
+                </span>
+                <button
+                    onClick={handleNext}
+                    disabled={page === totalPages}
+                    className={`px-4 py-2 rounded-md font-medium transition-colors ${
+                        page === totalPages
+                        ? 'bg-gray-200 dark:bg-neutral-900 text-gray-400 dark:text-neutral-600 cursor-not-allowed border border-gray-300 dark:border-neutral-800'
+                        : 'bg-white dark:bg-neutral-900 text-gray-700 dark:text-neutral-300 hover:bg-gray-100 dark:hover:bg-neutral-800 border border-gray-300 dark:border-neutral-700 hover:border-gray-400 dark:hover:border-neutral-600 shadow-sm'
+                    }`}
+                >
+                    Next
+                </button>
+            </div>
+        )}
       </div>
     </main>
   );

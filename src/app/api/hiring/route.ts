@@ -12,11 +12,20 @@ export async function GET(request: NextRequest) {
     const { searchParams } = new URL(request.url);
     const page = parseInt(searchParams.get('page') || '1', 10);
     const limit = parseInt(searchParams.get('limit') || '100', 10);
-    const query = searchParams.get('q')?.toLowerCase() || '';
+const query = searchParams.get('q')?.toLowerCase() || '';
     const filterYear = searchParams.get('year') || '';
     const filterIndustry = searchParams.get('industry')?.toLowerCase() || '';
     const filterRegion = searchParams.get('region')?.toLowerCase() || '';
     const filterStage = searchParams.get('stage')?.toLowerCase() || '';
+    const filterTeamSizeMin = searchParams.get('teamSizeMin') || '';
+    const filterTeamSizeMax = searchParams.get('teamSizeMax') || '';
+    const filterStatus = searchParams.get('status')?.split(',').filter(Boolean) || [];
+    const filterTopCompany = searchParams.get('topCompany') === 'true';
+    const filterNonprofit = searchParams.get('nonprofit') === 'true';
+    const filterTags = searchParams.get('tags')?.split(',').filter(Boolean) || [];
+    const filterLaunchedAfter = searchParams.get('launchedAfter') || '';
+    const filterLaunchedBefore = searchParams.get('launchedBefore') || '';
+    const filterSubindustry = searchParams.get('subindustry')?.toLowerCase() || '';
 
     const response = await axios.get<YCCompany[]>(YC_HIRING_API);
     let allCompanies = response.data;
@@ -49,12 +58,64 @@ export async function GET(request: NextRequest) {
         });
     }
 
-    // 4. Filter by Stage
+// 4. Filter by Stage
     if (filterStage) {
         allCompanies = allCompanies.filter((company) => {
              const stage = company.stage?.toLowerCase() || '';
              return stage.includes(filterStage);
         });
+    }
+
+    // 5. Filter by Team Size Range
+    if (filterTeamSizeMin || filterTeamSizeMax) {
+        allCompanies = allCompanies.filter((company) => {
+            const teamSize = company.team_size || 0;
+            const min = parseInt(filterTeamSizeMin) || 0;
+            const max = parseInt(filterTeamSizeMax) || Infinity;
+            return teamSize >= min && teamSize <= max;
+        });
+    }
+
+    // 6. Filter by Status
+    if (filterStatus.length > 0) {
+        allCompanies = allCompanies.filter((company) => 
+            filterStatus.includes(company.status)
+        );
+    }
+
+    // 7. Filter by Top Company
+    if (filterTopCompany) {
+        allCompanies = allCompanies.filter((company) => company.top_company);
+    }
+
+    // 8. Filter by Nonprofit
+    if (filterNonprofit) {
+        allCompanies = allCompanies.filter((company) => company.nonprofit);
+    }
+
+    // 9. Filter by Tags
+    if (filterTags.length > 0) {
+        allCompanies = allCompanies.filter((company) => 
+            filterTags.some(tag => company.tags.includes(tag))
+        );
+    }
+
+    // 10. Filter by Launch Date Range
+    if (filterLaunchedAfter || filterLaunchedBefore) {
+        allCompanies = allCompanies.filter((company) => {
+            if (!company.launched_at) return false;
+            const launchedYear = new Date(company.launched_at * 1000).getFullYear();
+            const after = parseInt(filterLaunchedAfter) || 0;
+            const before = parseInt(filterLaunchedBefore) || Infinity;
+            return launchedYear >= after && launchedYear <= before;
+        });
+    }
+
+    // 11. Filter by Subindustry
+    if (filterSubindustry) {
+        allCompanies = allCompanies.filter((company) => 
+            company.subindustry?.toLowerCase().includes(filterSubindustry)
+        );
     }
 
     // 5. General Search (q) - only if provided

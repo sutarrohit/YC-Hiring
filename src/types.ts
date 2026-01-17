@@ -24,7 +24,7 @@ export interface YCCompany {
   stage: string;
   app_video_public: boolean;
   demo_day_video_public: boolean;
-  app_answers: any | null;
+  app_answers: Record<string, unknown> | null;
   question_answers: boolean;
   url: string;
   api: string;
