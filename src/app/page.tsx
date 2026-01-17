@@ -3,24 +3,9 @@
 import { useEffect, useState, useCallback } from 'react';
 import axios from 'axios';
 import { YCCompany, PaginatedResponse } from '@/types';
-
-interface FilterState {
-  year: string;
-  industry: string;
-  region: string;
-  stage: string;
-  teamSizeMin: string;
-  teamSizeMax: string;
-  status: string[];
-  topCompany: boolean;
-  nonprofit: boolean;
-  tags: string[];
-  launchedAfter: string;
-  launchedBefore: string;
-  subindustry: string;
-}
 import CompanyCard from '@/components/CompanyCard';
-import AdvancedFilter from '@/components/AdvancedFilter';
+import AdvancedFilter, { FilterState } from '@/components/AdvancedFilter';
+import Pagination from '@/components/Pagination';
 
 export default function Home() {
   const [companies, setCompanies] = useState<YCCompany[]>([]);

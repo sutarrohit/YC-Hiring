@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 
-interface FilterState {
+export interface FilterState {
   year: string;
   industry: string;
   region: string;
